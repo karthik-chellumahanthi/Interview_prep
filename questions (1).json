@@ -1,0 +1,1713 @@
+[
+  {
+    "id": "Q001",
+    "role": "General",
+    "category": "HR/Behavioral",
+    "domain": "HR",
+    "difficulty": "Easy",
+    "question_text": "Tell me about yourself.",
+    "what_interviewer_is_looking_for": "Education, relevant skills, one project/internship, role interest, and clear career goal.",
+    "sample_strong_answer": "I am a B.Tech student interested in technology and problem solving. I have built a strong foundation in Python, SQL, Excel, and data visualization. I worked on projects where I cleaned data, analyzed trends, and presented insights through dashboards. I am now looking for an opportunity where I can apply my skills, learn from real business problems, and grow as a professional.",
+    "common_mistakes_to_avoid": "Only saying name and college; giving too much personal information; not mentioning skills, projects, or goal.",
+    "follow_up_questions": [
+      "Can you explain one project from your resume?",
+      "Why did you choose this role?"
+    ],
+    "keywords": [
+      "education",
+      "skills",
+      "project",
+      "goal"
+    ]
+  },
+  {
+    "id": "Q002",
+    "role": "General",
+    "category": "HR/Behavioral",
+    "domain": "HR",
+    "difficulty": "Easy",
+    "question_text": "What are your strengths?",
+    "what_interviewer_is_looking_for": "Relevant strengths with proof, example, and connection to the role.",
+    "sample_strong_answer": "My strengths are consistency, quick learning, and problem solving. For example, while learning SQL and Power BI, I followed a daily schedule and practiced with datasets. This helped me understand how to clean data, write queries, and explain insights clearly. I believe these strengths will help me perform well in this role.",
+    "common_mistakes_to_avoid": "Listing many strengths without examples; giving generic answers like hardworking only.",
+    "follow_up_questions": [
+      "How did this strength help you in a project?",
+      "Which strength is most useful for this role?"
+    ],
+    "keywords": [
+      "example",
+      "consistency",
+      "learning"
+    ]
+  },
+  {
+    "id": "Q003",
+    "role": "General",
+    "category": "HR/Behavioral",
+    "domain": "HR",
+    "difficulty": "Easy",
+    "question_text": "What is your weakness?",
+    "what_interviewer_is_looking_for": "Honest but non-critical weakness, improvement steps, and current progress.",
+    "sample_strong_answer": "One weakness I am improving is public speaking. Earlier, I felt nervous while explaining technical topics. To improve, I started practicing short project explanations and mock interviews. Now I am more confident, and I continue to improve by taking feedback.",
+    "common_mistakes_to_avoid": "Saying no weakness; choosing a harmful weakness; not explaining improvement.",
+    "follow_up_questions": [
+      "What steps are you taking to improve?",
+      "Can you give a recent example?"
+    ],
+    "keywords": [
+      "weakness",
+      "improvement",
+      "progress"
+    ]
+  },
+  {
+    "id": "Q004",
+    "role": "General",
+    "category": "HR/Behavioral",
+    "domain": "HR",
+    "difficulty": "Easy",
+    "question_text": "Why should we hire you?",
+    "what_interviewer_is_looking_for": "Role fit, skills, learning attitude, project proof, and contribution mindset.",
+    "sample_strong_answer": "You should hire me because I have the required foundation, a strong learning attitude, and hands-on project experience. I can work with tools like Python, SQL, Excel, and Power BI, and I am comfortable learning new tools quickly. I may be a fresher, but I am ready to take responsibility, improve continuously, and contribute to the team.",
+    "common_mistakes_to_avoid": "Sounding overconfident; saying only I need a job; not connecting skills to company needs.",
+    "follow_up_questions": [
+      "What makes you different from other candidates?",
+      "How will you contribute in the first month?"
+    ],
+    "keywords": [
+      "skills",
+      "contribution",
+      "learning"
+    ]
+  },
+  {
+    "id": "Q005",
+    "role": "General",
+    "category": "HR/Behavioral",
+    "domain": "HR",
+    "difficulty": "Easy",
+    "question_text": "Why do you want this role?",
+    "what_interviewer_is_looking_for": "Clear interest in role responsibilities and alignment with skills/career goal.",
+    "sample_strong_answer": "I want this role because it matches my interest in solving problems using data and technology. I enjoy analyzing information, finding patterns, and presenting results clearly. This role will allow me to apply my technical skills while learning how real business decisions are made.",
+    "common_mistakes_to_avoid": "Saying salary or job security only; not showing understanding of role.",
+    "follow_up_questions": [
+      "Which part of the role interests you most?",
+      "What have you done to prepare for this role?"
+    ],
+    "keywords": [
+      "interest",
+      "role fit",
+      "career goal"
+    ]
+  },
+  {
+    "id": "Q006",
+    "role": "General",
+    "category": "HR/Behavioral",
+    "domain": "HR",
+    "difficulty": "Easy",
+    "question_text": "Where do you see yourself in 5 years?",
+    "what_interviewer_is_looking_for": "Realistic growth plan, continuous learning, and contribution to organization.",
+    "sample_strong_answer": "In five years, I see myself as a skilled professional who can handle projects independently and guide juniors. I want to improve my technical skills, communication, and business understanding. My goal is to become someone who can solve real problems and add measurable value to the organization.",
+    "common_mistakes_to_avoid": "Giving unrealistic titles; saying I do not know; focusing only on salary.",
+    "follow_up_questions": [
+      "What skills do you want to improve first?",
+      "How will this role help your goal?"
+    ],
+    "keywords": [
+      "growth",
+      "learning",
+      "value"
+    ]
+  },
+  {
+    "id": "Q007",
+    "role": "General",
+    "category": "HR/Behavioral",
+    "domain": "HR",
+    "difficulty": "Easy",
+    "question_text": "Describe a challenge you faced and how you handled it.",
+    "what_interviewer_is_looking_for": "Specific situation, actions taken, result, and learning.",
+    "sample_strong_answer": "While working on a project, I faced difficulty handling messy data with missing values and duplicates. I broke the problem into small steps: checked null values, removed duplicates, cleaned columns, and verified results. Finally, the analysis became more accurate. I learned that a structured approach helps solve complex problems.",
+    "common_mistakes_to_avoid": "Giving no result; blaming others; not explaining your action.",
+    "follow_up_questions": [
+      "What did you learn from it?",
+      "What would you do differently now?"
+    ],
+    "keywords": [
+      "challenge",
+      "action",
+      "result"
+    ]
+  },
+  {
+    "id": "Q008",
+    "role": "General",
+    "category": "HR/Behavioral",
+    "domain": "HR",
+    "difficulty": "Medium",
+    "question_text": "Tell me about a time you worked in a team.",
+    "what_interviewer_is_looking_for": "Team role, communication, collaboration, and outcome.",
+    "sample_strong_answer": "During a college project, our team divided the work based on strengths. I handled data cleaning and analysis while others worked on documentation and presentation. We communicated regularly, shared updates, and completed the project on time. This taught me the importance of coordination and responsibility.",
+    "common_mistakes_to_avoid": "Saying only we worked together; not explaining your contribution.",
+    "follow_up_questions": [
+      "What was your exact role?",
+      "How did you handle disagreements?"
+    ],
+    "keywords": [
+      "teamwork",
+      "role",
+      "communication"
+    ]
+  },
+  {
+    "id": "Q009",
+    "role": "General",
+    "category": "HR/Behavioral",
+    "domain": "HR",
+    "difficulty": "Medium",
+    "question_text": "How do you handle pressure?",
+    "what_interviewer_is_looking_for": "Calm approach, prioritization, planning, and example.",
+    "sample_strong_answer": "I handle pressure by prioritizing tasks and focusing on one step at a time. If deadlines are close, I make a quick task list, complete urgent work first, and avoid distractions. This approach helped me complete assignments and project work without losing quality.",
+    "common_mistakes_to_avoid": "Saying I never feel pressure; giving emotional or vague answer.",
+    "follow_up_questions": [
+      "Can you give a deadline example?",
+      "How do you manage multiple tasks?"
+    ],
+    "keywords": [
+      "pressure",
+      "prioritization",
+      "planning"
+    ]
+  },
+  {
+    "id": "Q010",
+    "role": "General",
+    "category": "HR/Behavioral",
+    "domain": "HR",
+    "difficulty": "Medium",
+    "question_text": "How do you handle feedback?",
+    "what_interviewer_is_looking_for": "Positive attitude, example of applying feedback, improvement mindset.",
+    "sample_strong_answer": "I take feedback as a chance to improve. For example, when I received feedback that my project explanation was not clear, I rewrote it in a simple format with problem, tools, process, and outcome. After practicing, I was able to explain it more confidently.",
+    "common_mistakes_to_avoid": "Saying feedback does not affect you; not showing change after feedback.",
+    "follow_up_questions": [
+      "What feedback helped you recently?",
+      "How do you respond to negative feedback?"
+    ],
+    "keywords": [
+      "feedback",
+      "improvement",
+      "example"
+    ]
+  },
+  {
+    "id": "Q011",
+    "role": "General",
+    "category": "HR/Behavioral",
+    "domain": "HR",
+    "difficulty": "Medium",
+    "question_text": "Why do you want to join our company?",
+    "what_interviewer_is_looking_for": "Company awareness, role alignment, learning opportunity, contribution.",
+    "sample_strong_answer": "I want to join your company because the role matches my skills and career goals. I am interested in working on real projects where I can apply my technical knowledge and improve through mentorship. I also believe I can contribute with my learning attitude and commitment.",
+    "common_mistakes_to_avoid": "Giving a copied company answer; mentioning only salary or location.",
+    "follow_up_questions": [
+      "What do you know about our company?",
+      "Which team or work interests you?"
+    ],
+    "keywords": [
+      "company",
+      "role alignment",
+      "contribution"
+    ]
+  },
+  {
+    "id": "Q012",
+    "role": "General",
+    "category": "HR/Behavioral",
+    "domain": "HR",
+    "difficulty": "Medium",
+    "question_text": "Are you willing to learn new technologies?",
+    "what_interviewer_is_looking_for": "Learning mindset, examples, adaptability.",
+    "sample_strong_answer": "Yes. I believe continuous learning is important in technology roles. I have already learned tools like Python, SQL, Excel, and Power BI through self-practice and projects. If the role needs a new tool, I can learn it step by step and apply it in work.",
+    "common_mistakes_to_avoid": "Saying yes without proof; claiming expertise in everything.",
+    "follow_up_questions": [
+      "How do you learn a new tool?",
+      "Which technology are you learning now?"
+    ],
+    "keywords": [
+      "learning",
+      "adaptability",
+      "tools"
+    ]
+  },
+  {
+    "id": "Q013",
+    "role": "General",
+    "category": "HR/Behavioral",
+    "domain": "HR",
+    "difficulty": "Medium",
+    "question_text": "Describe your final year or academic project.",
+    "what_interviewer_is_looking_for": "Problem statement, tools used, process, outcome, and your contribution.",
+    "sample_strong_answer": "My project focused on solving a practical problem using technology. I worked on understanding requirements, collecting data or inputs, building the solution, and testing outputs. My contribution included implementation, debugging, and documentation. This improved my technical and teamwork skills.",
+    "common_mistakes_to_avoid": "Explaining only title; not mentioning your role or result.",
+    "follow_up_questions": [
+      "What was your contribution?",
+      "What challenges did you face?"
+    ],
+    "keywords": [
+      "project",
+      "tools",
+      "outcome"
+    ]
+  },
+  {
+    "id": "Q014",
+    "role": "General",
+    "category": "HR/Behavioral",
+    "domain": "HR",
+    "difficulty": "Medium",
+    "question_text": "What motivates you?",
+    "what_interviewer_is_looking_for": "Intrinsic motivation linked to learning, solving problems, and growth.",
+    "sample_strong_answer": "I am motivated by learning and seeing progress in my skills. When I solve a problem or complete a project, it gives me confidence to take the next challenge. I also feel motivated when my work helps others understand something clearly.",
+    "common_mistakes_to_avoid": "Saying money only; sounding unclear.",
+    "follow_up_questions": [
+      "How do you stay motivated during difficult tasks?",
+      "What achievement motivated you recently?"
+    ],
+    "keywords": [
+      "motivation",
+      "learning",
+      "growth"
+    ]
+  },
+  {
+    "id": "Q015",
+    "role": "General",
+    "category": "HR/Behavioral",
+    "domain": "HR",
+    "difficulty": "Medium",
+    "question_text": "How do you manage time?",
+    "what_interviewer_is_looking_for": "Planning, prioritization, tracking, and realistic example.",
+    "sample_strong_answer": "I manage time by dividing tasks into small parts and setting deadlines for each part. For example, while learning SQL, I separated topics like joins, grouping, and subqueries and practiced daily. This helped me stay consistent and avoid last-minute pressure.",
+    "common_mistakes_to_avoid": "Saying I multitask everything; not giving method.",
+    "follow_up_questions": [
+      "Which tool do you use for planning?",
+      "How do you handle delays?"
+    ],
+    "keywords": [
+      "time management",
+      "planning",
+      "prioritization"
+    ]
+  },
+  {
+    "id": "Q016",
+    "role": "General",
+    "category": "HR/Behavioral",
+    "domain": "HR",
+    "difficulty": "Medium",
+    "question_text": "Tell me about a mistake you made.",
+    "what_interviewer_is_looking_for": "Accountability, learning, corrective action.",
+    "sample_strong_answer": "In one project, I initially focused more on output and less on data validation. Later, I found some inconsistencies and had to recheck the data. After that, I created a checklist for cleaning, duplicates, missing values, and final verification. This made my later work more accurate.",
+    "common_mistakes_to_avoid": "Blaming others; saying I never made mistakes; choosing a serious ethical mistake.",
+    "follow_up_questions": [
+      "What did you learn from that mistake?",
+      "How do you avoid it now?"
+    ],
+    "keywords": [
+      "mistake",
+      "learning",
+      "accountability"
+    ]
+  },
+  {
+    "id": "Q017",
+    "role": "General",
+    "category": "HR/Behavioral",
+    "domain": "HR",
+    "difficulty": "Medium",
+    "question_text": "What are your career goals?",
+    "what_interviewer_is_looking_for": "Clear short-term and long-term goals aligned with role.",
+    "sample_strong_answer": "My short-term goal is to start my career in a role where I can apply my technical skills and learn from real projects. My long-term goal is to become a strong professional who can solve business problems, manage responsibilities, and guide others.",
+    "common_mistakes_to_avoid": "Unclear goals; goals unrelated to selected role.",
+    "follow_up_questions": [
+      "What is your immediate learning goal?",
+      "How does this role support your plan?"
+    ],
+    "keywords": [
+      "career goal",
+      "short term",
+      "long term"
+    ]
+  },
+  {
+    "id": "Q018",
+    "role": "General",
+    "category": "HR/Behavioral",
+    "domain": "HR",
+    "difficulty": "Medium",
+    "question_text": "How do you deal with conflict in a team?",
+    "what_interviewer_is_looking_for": "Communication, listening, solution focus, respect.",
+    "sample_strong_answer": "I first try to understand the other person's point of view. Then I explain my opinion calmly with facts. If needed, I suggest comparing both options based on project goals. This helps the team focus on the solution instead of personal disagreement.",
+    "common_mistakes_to_avoid": "Arguing; avoiding conflict completely; blaming teammates.",
+    "follow_up_questions": [
+      "Can you give a conflict example?",
+      "What if the other person does not agree?"
+    ],
+    "keywords": [
+      "conflict",
+      "communication",
+      "solution"
+    ]
+  },
+  {
+    "id": "Q019",
+    "role": "General",
+    "category": "HR/Behavioral",
+    "domain": "HR",
+    "difficulty": "Medium",
+    "question_text": "What do you know about professional communication?",
+    "what_interviewer_is_looking_for": "Clarity, respect, active listening, updates, concise messages.",
+    "sample_strong_answer": "Professional communication means sharing information clearly, respectfully, and on time. In a team, it is important to give updates, ask doubts early, listen carefully, and avoid confusing messages. Good communication helps reduce mistakes and improves teamwork.",
+    "common_mistakes_to_avoid": "Using informal or unclear explanation; not mentioning listening or updates.",
+    "follow_up_questions": [
+      "How do you communicate delays?",
+      "How do you ask for help professionally?"
+    ],
+    "keywords": [
+      "communication",
+      "clarity",
+      "respect"
+    ]
+  },
+  {
+    "id": "Q020",
+    "role": "General",
+    "category": "HR/Behavioral",
+    "domain": "HR",
+    "difficulty": "Medium",
+    "question_text": "Do you have any questions for us?",
+    "what_interviewer_is_looking_for": "Interest in role, team, learning, expectations.",
+    "sample_strong_answer": "Yes, I would like to know what skills are most important for a fresher to succeed in this role. I would also like to understand what type of projects or tasks I may work on during the initial months.",
+    "common_mistakes_to_avoid": "Saying no; asking only salary in first question; asking unrelated questions.",
+    "follow_up_questions": [
+      "What would you like to know about the team?",
+      "What learning opportunities matter to you?"
+    ],
+    "keywords": [
+      "questions",
+      "role",
+      "learning"
+    ]
+  },
+  {
+    "id": "Q021",
+    "role": "Software Engineer",
+    "category": "Technical",
+    "domain": "CS",
+    "difficulty": "Easy",
+    "question_text": "What is OOP?",
+    "what_interviewer_is_looking_for": "Explain object-oriented programming and core principles with examples.",
+    "sample_strong_answer": "Object-Oriented Programming is a programming approach based on objects and classes. It helps organize code by combining data and behavior. The main principles are encapsulation, inheritance, polymorphism, and abstraction. For example, a Student class can store student details and methods like update marks or show details.",
+    "common_mistakes_to_avoid": "Only expanding OOP; not explaining principles; no example.",
+    "follow_up_questions": [
+      "Explain encapsulation.",
+      "Difference between class and object?"
+    ],
+    "keywords": [
+      "class",
+      "object",
+      "encapsulation",
+      "inheritance"
+    ]
+  },
+  {
+    "id": "Q022",
+    "role": "Software Engineer",
+    "category": "Technical",
+    "domain": "CS",
+    "difficulty": "Medium",
+    "question_text": "What is the difference between class and object?",
+    "what_interviewer_is_looking_for": "Clear definition and simple example.",
+    "sample_strong_answer": "A class is a blueprint or template, and an object is an actual instance created from that class. For example, Student is a class, and s1 with name and roll number is an object of that class.",
+    "common_mistakes_to_avoid": "Saying both are same; no example.",
+    "follow_up_questions": [
+      "Can a class have multiple objects?",
+      "What is constructor?"
+    ],
+    "keywords": [
+      "class",
+      "object",
+      "instance"
+    ]
+  },
+  {
+    "id": "Q023",
+    "role": "Software Engineer",
+    "category": "Technical",
+    "domain": "CS",
+    "difficulty": "Hard",
+    "question_text": "Explain encapsulation.",
+    "what_interviewer_is_looking_for": "Data hiding, controlled access, methods/getters/setters.",
+    "sample_strong_answer": "Encapsulation means wrapping data and methods together inside a class and controlling direct access to data. It improves security and maintainability. For example, using methods like getCGPA and updateCGPA allows controlled access to student CGPA.",
+    "common_mistakes_to_avoid": "Confusing with abstraction; not mentioning data hiding.",
+    "follow_up_questions": [
+      "How is encapsulation implemented in Python?",
+      "Why is encapsulation useful?"
+    ],
+    "keywords": [
+      "data hiding",
+      "class",
+      "methods"
+    ]
+  },
+  {
+    "id": "Q024",
+    "role": "Software Engineer",
+    "category": "Technical",
+    "domain": "CS",
+    "difficulty": "Easy",
+    "question_text": "Explain inheritance.",
+    "what_interviewer_is_looking_for": "Parent-child relationship, code reuse, example.",
+    "sample_strong_answer": "Inheritance allows one class to acquire properties and methods of another class. It supports code reuse. For example, a Vehicle class can have common methods, and Car class can inherit them and add car-specific features.",
+    "common_mistakes_to_avoid": "Only saying reusability; no parent-child explanation.",
+    "follow_up_questions": [
+      "Types of inheritance?",
+      "Difference between inheritance and composition?"
+    ],
+    "keywords": [
+      "parent",
+      "child",
+      "reuse"
+    ]
+  },
+  {
+    "id": "Q025",
+    "role": "Software Engineer",
+    "category": "Technical",
+    "domain": "CS",
+    "difficulty": "Medium",
+    "question_text": "What is polymorphism?",
+    "what_interviewer_is_looking_for": "Same interface different behavior, method overriding/overloading concept.",
+    "sample_strong_answer": "Polymorphism means one name or interface can have different forms. For example, a method called calculate_area can work differently for a circle and a rectangle. It helps write flexible and reusable code.",
+    "common_mistakes_to_avoid": "No example; confusing with inheritance.",
+    "follow_up_questions": [
+      "What is method overriding?",
+      "Is method overloading supported in Python?"
+    ],
+    "keywords": [
+      "overriding",
+      "flexibility",
+      "same interface"
+    ]
+  },
+  {
+    "id": "Q026",
+    "role": "Software Engineer",
+    "category": "Technical",
+    "domain": "CS",
+    "difficulty": "Hard",
+    "question_text": "What is DBMS?",
+    "what_interviewer_is_looking_for": "Definition, purpose, examples, benefits.",
+    "sample_strong_answer": "DBMS stands for Database Management System. It is software used to store, manage, retrieve, and organize data efficiently. Examples include MySQL, PostgreSQL, and Oracle. It provides data security, consistency, and easy querying.",
+    "common_mistakes_to_avoid": "Only full form; not explaining purpose or examples.",
+    "follow_up_questions": [
+      "What is RDBMS?",
+      "Why use DBMS instead of files?"
+    ],
+    "keywords": [
+      "database",
+      "query",
+      "security"
+    ]
+  },
+  {
+    "id": "Q027",
+    "role": "Software Engineer",
+    "category": "Technical",
+    "domain": "CS",
+    "difficulty": "Easy",
+    "question_text": "What is normalization in DBMS?",
+    "what_interviewer_is_looking_for": "Reducing redundancy, improving integrity, normal forms.",
+    "sample_strong_answer": "Normalization is the process of organizing database tables to reduce duplicate data and improve data integrity. It divides large tables into smaller related tables. Common forms include 1NF, 2NF, and 3NF.",
+    "common_mistakes_to_avoid": "Not mentioning redundancy; no normal forms.",
+    "follow_up_questions": [
+      "Explain 1NF.",
+      "Why normalization is important?"
+    ],
+    "keywords": [
+      "redundancy",
+      "integrity",
+      "1NF",
+      "2NF",
+      "3NF"
+    ]
+  },
+  {
+    "id": "Q028",
+    "role": "Software Engineer",
+    "category": "Technical",
+    "domain": "CS",
+    "difficulty": "Medium",
+    "question_text": "What is primary key?",
+    "what_interviewer_is_looking_for": "Uniquely identifies row, not null, example.",
+    "sample_strong_answer": "A primary key is a column or group of columns that uniquely identifies each record in a table. It cannot contain duplicate or null values. For example, student_id can be the primary key in a Student table.",
+    "common_mistakes_to_avoid": "Saying it is just an ID; not mentioning uniqueness/null.",
+    "follow_up_questions": [
+      "Can a table have two primary keys?",
+      "What is composite key?"
+    ],
+    "keywords": [
+      "unique",
+      "not null",
+      "record"
+    ]
+  },
+  {
+    "id": "Q029",
+    "role": "Software Engineer",
+    "category": "Technical",
+    "domain": "CS",
+    "difficulty": "Hard",
+    "question_text": "What is foreign key?",
+    "what_interviewer_is_looking_for": "Relationship between tables, references primary key, integrity.",
+    "sample_strong_answer": "A foreign key is a column in one table that refers to the primary key of another table. It is used to create relationships between tables and maintain referential integrity. For example, department_id in Employee table can refer to Department table.",
+    "common_mistakes_to_avoid": "Confusing with primary key; no relationship explanation.",
+    "follow_up_questions": [
+      "Why foreign key is useful?",
+      "Can foreign key have duplicate values?"
+    ],
+    "keywords": [
+      "relationship",
+      "referential integrity"
+    ]
+  },
+  {
+    "id": "Q030",
+    "role": "Software Engineer",
+    "category": "Technical",
+    "domain": "CS",
+    "difficulty": "Easy",
+    "question_text": "Difference between SQL and NoSQL databases.",
+    "what_interviewer_is_looking_for": "Structure, schema, scalability, examples.",
+    "sample_strong_answer": "SQL databases are relational, table-based, and use structured schemas. NoSQL databases are non-relational and can store documents, key-value pairs, or graphs. SQL is useful for structured data and complex queries, while NoSQL is useful for flexible and scalable data storage.",
+    "common_mistakes_to_avoid": "Saying one is always better; no examples.",
+    "follow_up_questions": [
+      "Give examples of both.",
+      "When would you use NoSQL?"
+    ],
+    "keywords": [
+      "relational",
+      "schema",
+      "documents"
+    ]
+  },
+  {
+    "id": "Q031",
+    "role": "Software Engineer",
+    "category": "Technical",
+    "domain": "CS",
+    "difficulty": "Medium",
+    "question_text": "What is operating system?",
+    "what_interviewer_is_looking_for": "Resource manager, interface, examples.",
+    "sample_strong_answer": "An operating system is system software that manages hardware and software resources. It provides services like process management, memory management, file management, and device management. Examples include Windows, Linux, and macOS.",
+    "common_mistakes_to_avoid": "Only saying OS runs computer; no functions.",
+    "follow_up_questions": [
+      "What is process management?",
+      "Difference between process and program?"
+    ],
+    "keywords": [
+      "process",
+      "memory",
+      "file",
+      "device"
+    ]
+  },
+  {
+    "id": "Q032",
+    "role": "Software Engineer",
+    "category": "Technical",
+    "domain": "CS",
+    "difficulty": "Hard",
+    "question_text": "Difference between process and thread.",
+    "what_interviewer_is_looking_for": "Independent process vs lightweight thread, memory sharing.",
+    "sample_strong_answer": "A process is an independent program in execution with its own memory space. A thread is a smaller unit of execution within a process and shares memory with other threads of the same process. Threads are lighter and faster to switch than processes.",
+    "common_mistakes_to_avoid": "Saying both are same; not mentioning memory.",
+    "follow_up_questions": [
+      "Why threads are used?",
+      "What is multithreading?"
+    ],
+    "keywords": [
+      "process",
+      "thread",
+      "memory"
+    ]
+  },
+  {
+    "id": "Q033",
+    "role": "Software Engineer",
+    "category": "Technical",
+    "domain": "CS",
+    "difficulty": "Easy",
+    "question_text": "What is deadlock?",
+    "what_interviewer_is_looking_for": "Definition, conditions, example.",
+    "sample_strong_answer": "Deadlock is a situation where two or more processes wait for each other forever and none can continue. It occurs when conditions like mutual exclusion, hold and wait, no preemption, and circular wait happen together.",
+    "common_mistakes_to_avoid": "Only saying system hangs; not mentioning conditions.",
+    "follow_up_questions": [
+      "What are deadlock conditions?",
+      "How can deadlock be prevented?"
+    ],
+    "keywords": [
+      "mutual exclusion",
+      "circular wait"
+    ]
+  },
+  {
+    "id": "Q034",
+    "role": "Software Engineer",
+    "category": "Technical",
+    "domain": "CS",
+    "difficulty": "Medium",
+    "question_text": "What is computer network?",
+    "what_interviewer_is_looking_for": "Connected devices, data sharing, examples.",
+    "sample_strong_answer": "A computer network is a group of connected devices that communicate and share resources. Networks allow data transfer, internet access, file sharing, and communication. Examples include LAN, WAN, and the Internet.",
+    "common_mistakes_to_avoid": "Only saying internet; no purpose or types.",
+    "follow_up_questions": [
+      "Difference between LAN and WAN?",
+      "What is IP address?"
+    ],
+    "keywords": [
+      "LAN",
+      "WAN",
+      "data transfer"
+    ]
+  },
+  {
+    "id": "Q035",
+    "role": "Software Engineer",
+    "category": "Technical",
+    "domain": "CS",
+    "difficulty": "Hard",
+    "question_text": "What is IP address?",
+    "what_interviewer_is_looking_for": "Unique identifier, IPv4/IPv6, device communication.",
+    "sample_strong_answer": "An IP address is a unique address assigned to a device on a network. It helps devices identify and communicate with each other. IPv4 and IPv6 are common versions of IP addresses.",
+    "common_mistakes_to_avoid": "Confusing with MAC address; no communication purpose.",
+    "follow_up_questions": [
+      "Difference between IPv4 and IPv6?",
+      "What is static IP?"
+    ],
+    "keywords": [
+      "network",
+      "IPv4",
+      "IPv6"
+    ]
+  },
+  {
+    "id": "Q036",
+    "role": "Software Engineer",
+    "category": "Technical",
+    "domain": "CS",
+    "difficulty": "Easy",
+    "question_text": "Difference between TCP and UDP.",
+    "what_interviewer_is_looking_for": "Reliable connection-oriented vs fast connectionless.",
+    "sample_strong_answer": "TCP is connection-oriented and reliable because it ensures data delivery, ordering, and error checking. UDP is connectionless and faster but does not guarantee delivery. TCP is used in web browsing and email, while UDP is used in streaming and gaming.",
+    "common_mistakes_to_avoid": "Saying only TCP slow UDP fast; no reliability explanation.",
+    "follow_up_questions": [
+      "Where is UDP used?",
+      "Why is TCP reliable?"
+    ],
+    "keywords": [
+      "reliable",
+      "connection",
+      "fast"
+    ]
+  },
+  {
+    "id": "Q037",
+    "role": "Software Engineer",
+    "category": "Technical",
+    "domain": "CS",
+    "difficulty": "Medium",
+    "question_text": "What is HTTP?",
+    "what_interviewer_is_looking_for": "Web protocol, client-server request-response.",
+    "sample_strong_answer": "HTTP stands for HyperText Transfer Protocol. It is used for communication between web browsers and web servers. The browser sends a request, and the server returns a response like a web page or data.",
+    "common_mistakes_to_avoid": "Only full form; no request-response explanation.",
+    "follow_up_questions": [
+      "Difference between HTTP and HTTPS?",
+      "What is status code 404?"
+    ],
+    "keywords": [
+      "request",
+      "response",
+      "web"
+    ]
+  },
+  {
+    "id": "Q038",
+    "role": "Software Engineer",
+    "category": "Technical",
+    "domain": "CS",
+    "difficulty": "Hard",
+    "question_text": "What is API?",
+    "what_interviewer_is_looking_for": "Interface between systems, request/response, example.",
+    "sample_strong_answer": "An API is an Application Programming Interface that allows two software systems to communicate. For example, a weather app can use a weather API to fetch current weather data. APIs usually work through requests and responses.",
+    "common_mistakes_to_avoid": "Only expanding API; no example.",
+    "follow_up_questions": [
+      "What is REST API?",
+      "What is an API key?"
+    ],
+    "keywords": [
+      "request",
+      "response",
+      "software"
+    ]
+  },
+  {
+    "id": "Q039",
+    "role": "Software Engineer",
+    "category": "Technical",
+    "domain": "CS",
+    "difficulty": "Easy",
+    "question_text": "What is Git?",
+    "what_interviewer_is_looking_for": "Version control, tracking changes, collaboration.",
+    "sample_strong_answer": "Git is a version control system used to track changes in code. It helps developers manage versions, collaborate with others, and revert changes if needed. GitHub is a platform where Git repositories can be hosted online.",
+    "common_mistakes_to_avoid": "Confusing Git and GitHub; no version control explanation.",
+    "follow_up_questions": [
+      "Difference between Git and GitHub?",
+      "What is commit?"
+    ],
+    "keywords": [
+      "version control",
+      "commit",
+      "repository"
+    ]
+  },
+  {
+    "id": "Q040",
+    "role": "Software Engineer",
+    "category": "Technical",
+    "domain": "CS",
+    "difficulty": "Medium",
+    "question_text": "What is debugging?",
+    "what_interviewer_is_looking_for": "Finding and fixing errors, systematic approach.",
+    "sample_strong_answer": "Debugging is the process of finding, analyzing, and fixing errors in a program. A good approach is to understand the error message, reproduce the issue, check the related code, and test after fixing it.",
+    "common_mistakes_to_avoid": "Saying only removing errors; no process.",
+    "follow_up_questions": [
+      "Which debugging tools do you use?",
+      "How do you handle runtime errors?"
+    ],
+    "keywords": [
+      "error",
+      "fix",
+      "test"
+    ]
+  },
+  {
+    "id": "Q041",
+    "role": "Data Analyst",
+    "category": "Role-Specific",
+    "domain": "Data Analytics",
+    "difficulty": "Easy",
+    "question_text": "What is data cleaning?",
+    "what_interviewer_is_looking_for": "Handle missing values, duplicates, incorrect formats, outliers.",
+    "sample_strong_answer": "Data cleaning is the process of preparing raw data for analysis by fixing missing values, duplicates, incorrect formats, inconsistent values, and outliers. Clean data improves accuracy and makes analysis more reliable.",
+    "common_mistakes_to_avoid": "Only saying removing errors; not mentioning examples.",
+    "follow_up_questions": [
+      "How do you handle missing values?",
+      "Why is data cleaning important?"
+    ],
+    "keywords": [
+      "missing values",
+      "duplicates",
+      "outliers"
+    ]
+  },
+  {
+    "id": "Q042",
+    "role": "Data Analyst",
+    "category": "Role-Specific",
+    "domain": "Data Analytics",
+    "difficulty": "Medium",
+    "question_text": "Difference between data analysis and data visualization.",
+    "what_interviewer_is_looking_for": "Analysis finds insights; visualization communicates insights.",
+    "sample_strong_answer": "Data analysis is the process of inspecting and interpreting data to find patterns and insights. Data visualization is presenting those insights through charts, dashboards, and graphs so users can understand them easily.",
+    "common_mistakes_to_avoid": "Saying both are same; not explaining purpose.",
+    "follow_up_questions": [
+      "Which visualization tool do you use?",
+      "Why are dashboards useful?"
+    ],
+    "keywords": [
+      "insights",
+      "charts",
+      "dashboard"
+    ]
+  },
+  {
+    "id": "Q043",
+    "role": "Data Analyst",
+    "category": "Role-Specific",
+    "domain": "Data Analytics",
+    "difficulty": "Hard",
+    "question_text": "What is SQL JOIN?",
+    "what_interviewer_is_looking_for": "Combining rows from tables using related columns, join types.",
+    "sample_strong_answer": "SQL JOIN is used to combine data from two or more tables based on a related column. Common joins include INNER JOIN, LEFT JOIN, RIGHT JOIN, and FULL JOIN. For example, joining Customers and Orders using customer_id can show customer order details.",
+    "common_mistakes_to_avoid": "Only naming joins; no relationship explanation.",
+    "follow_up_questions": [
+      "Difference between INNER and LEFT JOIN?",
+      "When do you use FULL JOIN?"
+    ],
+    "keywords": [
+      "INNER JOIN",
+      "LEFT JOIN",
+      "foreign key"
+    ]
+  },
+  {
+    "id": "Q044",
+    "role": "Data Analyst",
+    "category": "Role-Specific",
+    "domain": "Data Analytics",
+    "difficulty": "Easy",
+    "question_text": "What is GROUP BY in SQL?",
+    "what_interviewer_is_looking_for": "Aggregation by category, COUNT/SUM/AVG.",
+    "sample_strong_answer": "GROUP BY is used to group rows with the same values and perform aggregate calculations. For example, we can group sales by region and calculate total sales using SUM.",
+    "common_mistakes_to_avoid": "Not mentioning aggregate functions; confusing with ORDER BY.",
+    "follow_up_questions": [
+      "Difference between GROUP BY and ORDER BY?",
+      "What is HAVING?"
+    ],
+    "keywords": [
+      "aggregation",
+      "SUM",
+      "COUNT",
+      "AVG"
+    ]
+  },
+  {
+    "id": "Q045",
+    "role": "Data Analyst",
+    "category": "Role-Specific",
+    "domain": "Data Analytics",
+    "difficulty": "Medium",
+    "question_text": "What is Power BI?",
+    "what_interviewer_is_looking_for": "BI tool for dashboards, data modeling, visualization.",
+    "sample_strong_answer": "Power BI is a business intelligence tool used to connect data sources, clean and transform data, create data models, and build interactive dashboards. It helps businesses monitor KPIs and make data-driven decisions.",
+    "common_mistakes_to_avoid": "Saying only chart tool; no business value.",
+    "follow_up_questions": [
+      "What is Power Query?",
+      "What is DAX?"
+    ],
+    "keywords": [
+      "dashboard",
+      "KPI",
+      "Power Query",
+      "DAX"
+    ]
+  },
+  {
+    "id": "Q046",
+    "role": "Data Analyst",
+    "category": "Role-Specific",
+    "domain": "Data Analytics",
+    "difficulty": "Hard",
+    "question_text": "What is KPI?",
+    "what_interviewer_is_looking_for": "Measurable metric that tracks performance against goals.",
+    "sample_strong_answer": "KPI stands for Key Performance Indicator. It is a measurable value used to track progress toward a business goal. For example, revenue, customer churn rate, and conversion rate can be KPIs.",
+    "common_mistakes_to_avoid": "Only expanding KPI; no examples.",
+    "follow_up_questions": [
+      "Give KPIs for sales dashboard.",
+      "How do you choose KPIs?"
+    ],
+    "keywords": [
+      "metric",
+      "goal",
+      "performance"
+    ]
+  },
+  {
+    "id": "Q047",
+    "role": "Data Analyst",
+    "category": "Role-Specific",
+    "domain": "Data Analytics",
+    "difficulty": "Easy",
+    "question_text": "What is exploratory data analysis?",
+    "what_interviewer_is_looking_for": "Understand data using summaries, patterns, outliers, visualizations.",
+    "sample_strong_answer": "Exploratory Data Analysis, or EDA, is the process of understanding data before final modeling or reporting. It includes checking data types, missing values, summary statistics, distributions, correlations, and outliers.",
+    "common_mistakes_to_avoid": "Skipping data quality checks; saying only charts.",
+    "follow_up_questions": [
+      "Which libraries are used for EDA?",
+      "What charts do you use in EDA?"
+    ],
+    "keywords": [
+      "summary statistics",
+      "correlation",
+      "outliers"
+    ]
+  },
+  {
+    "id": "Q048",
+    "role": "Data Analyst",
+    "category": "Role-Specific",
+    "domain": "Data Analytics",
+    "difficulty": "Medium",
+    "question_text": "How do you handle missing values?",
+    "what_interviewer_is_looking_for": "Identify reason, remove/impute based on context, document decision.",
+    "sample_strong_answer": "First, I check the percentage and pattern of missing values. If very few rows are missing, I may remove them. If important columns have missing values, I use suitable imputation like mean, median, mode, or domain-based values. I also document the decision.",
+    "common_mistakes_to_avoid": "Replacing everything with mean; not checking impact.",
+    "follow_up_questions": [
+      "When would you remove rows?",
+      "Mean vs median imputation?"
+    ],
+    "keywords": [
+      "imputation",
+      "mean",
+      "median",
+      "mode"
+    ]
+  },
+  {
+    "id": "Q049",
+    "role": "Data Analyst",
+    "category": "Role-Specific",
+    "domain": "Data Analytics",
+    "difficulty": "Hard",
+    "question_text": "What is correlation?",
+    "what_interviewer_is_looking_for": "Relationship between variables, range, caution about causation.",
+    "sample_strong_answer": "Correlation measures the relationship between two variables. It ranges from -1 to +1. A positive correlation means both variables increase together, while a negative correlation means one increases as the other decreases. Correlation does not always mean causation.",
+    "common_mistakes_to_avoid": "Saying correlation proves cause; not explaining range.",
+    "follow_up_questions": [
+      "What is negative correlation?",
+      "Correlation vs causation?"
+    ],
+    "keywords": [
+      "relationship",
+      "-1",
+      "+1",
+      "causation"
+    ]
+  },
+  {
+    "id": "Q050",
+    "role": "Data Analyst",
+    "category": "Role-Specific",
+    "domain": "Data Analytics",
+    "difficulty": "Easy",
+    "question_text": "What are outliers?",
+    "what_interviewer_is_looking_for": "Extreme values, impact, detection methods.",
+    "sample_strong_answer": "Outliers are data points that are very different from the rest of the data. They can affect averages and analysis results. We can detect them using boxplots, IQR method, z-score, or domain knowledge.",
+    "common_mistakes_to_avoid": "Removing all outliers without checking; no detection method.",
+    "follow_up_questions": [
+      "How do outliers affect mean?",
+      "How do you treat outliers?"
+    ],
+    "keywords": [
+      "IQR",
+      "boxplot",
+      "z-score"
+    ]
+  },
+  {
+    "id": "Q051",
+    "role": "Data Analyst",
+    "category": "Role-Specific",
+    "domain": "Data Analytics",
+    "difficulty": "Medium",
+    "question_text": "Explain your data analysis project.",
+    "what_interviewer_is_looking_for": "Problem, dataset, tools, cleaning, analysis, insights, impact.",
+    "sample_strong_answer": "In my data analysis project, I first understood the business problem and dataset. Then I cleaned missing values and duplicates, performed EDA using Python, created visualizations, and identified key insights. Finally, I explained the results in a simple way that could support decision-making.",
+    "common_mistakes_to_avoid": "Only describing tools; not mentioning insights or impact.",
+    "follow_up_questions": [
+      "What was your best insight?",
+      "Which challenge did you face?"
+    ],
+    "keywords": [
+      "problem",
+      "tools",
+      "insights",
+      "impact"
+    ]
+  },
+  {
+    "id": "Q052",
+    "role": "Data Analyst",
+    "category": "Role-Specific",
+    "domain": "Data Analytics",
+    "difficulty": "Hard",
+    "question_text": "What is dashboard storytelling?",
+    "what_interviewer_is_looking_for": "Clear KPIs, visuals, flow, audience-focused insights.",
+    "sample_strong_answer": "Dashboard storytelling means presenting data in a way that guides the user from key metrics to detailed insights. A good dashboard has clear KPIs, meaningful charts, filters, and a layout that answers business questions quickly.",
+    "common_mistakes_to_avoid": "Adding too many charts; no business question.",
+    "follow_up_questions": [
+      "What makes a dashboard good?",
+      "How do you choose chart types?"
+    ],
+    "keywords": [
+      "KPI",
+      "charts",
+      "business question"
+    ]
+  },
+  {
+    "id": "Q053",
+    "role": "Web Developer",
+    "category": "Role-Specific",
+    "domain": "Web Development",
+    "difficulty": "Easy",
+    "question_text": "What is HTML?",
+    "what_interviewer_is_looking_for": "Structure of web page, tags, semantic elements.",
+    "sample_strong_answer": "HTML is the standard markup language used to create the structure of web pages. It uses elements like headings, paragraphs, links, images, forms, and semantic tags to organize content.",
+    "common_mistakes_to_avoid": "Calling HTML a programming language; no structure explanation.",
+    "follow_up_questions": [
+      "What are semantic tags?",
+      "Difference between div and span?"
+    ],
+    "keywords": [
+      "tags",
+      "structure",
+      "semantic"
+    ]
+  },
+  {
+    "id": "Q054",
+    "role": "Web Developer",
+    "category": "Role-Specific",
+    "domain": "Web Development",
+    "difficulty": "Medium",
+    "question_text": "What is CSS?",
+    "what_interviewer_is_looking_for": "Styling, layout, responsive design.",
+    "sample_strong_answer": "CSS is used to style HTML pages. It controls colors, fonts, spacing, layout, and responsiveness. CSS helps make web pages attractive and user-friendly.",
+    "common_mistakes_to_avoid": "Saying only colors; not mentioning layout/responsiveness.",
+    "follow_up_questions": [
+      "What is Flexbox?",
+      "What is media query?"
+    ],
+    "keywords": [
+      "style",
+      "layout",
+      "responsive"
+    ]
+  },
+  {
+    "id": "Q055",
+    "role": "Web Developer",
+    "category": "Role-Specific",
+    "domain": "Web Development",
+    "difficulty": "Hard",
+    "question_text": "What is JavaScript?",
+    "what_interviewer_is_looking_for": "Dynamic behavior, DOM, events.",
+    "sample_strong_answer": "JavaScript is a programming language used to make web pages interactive. It can handle events, update the DOM, validate forms, and communicate with APIs.",
+    "common_mistakes_to_avoid": "Saying only scripting; no examples.",
+    "follow_up_questions": [
+      "What is DOM?",
+      "What are events?"
+    ],
+    "keywords": [
+      "DOM",
+      "events",
+      "API"
+    ]
+  },
+  {
+    "id": "Q056",
+    "role": "Web Developer",
+    "category": "Role-Specific",
+    "domain": "Web Development",
+    "difficulty": "Easy",
+    "question_text": "What is responsive web design?",
+    "what_interviewer_is_looking_for": "Works on different screen sizes, media queries, flexible layout.",
+    "sample_strong_answer": "Responsive web design means designing websites that work well on mobiles, tablets, and desktops. It uses flexible layouts, images, and CSS media queries to adjust the page based on screen size.",
+    "common_mistakes_to_avoid": "Only saying mobile-friendly; no technique.",
+    "follow_up_questions": [
+      "What are media queries?",
+      "How do you test responsiveness?"
+    ],
+    "keywords": [
+      "mobile",
+      "media query",
+      "flexible layout"
+    ]
+  },
+  {
+    "id": "Q057",
+    "role": "Web Developer",
+    "category": "Role-Specific",
+    "domain": "Web Development",
+    "difficulty": "Medium",
+    "question_text": "What is React?",
+    "what_interviewer_is_looking_for": "JS library, components, state, props.",
+    "sample_strong_answer": "React is a JavaScript library for building user interfaces. It uses reusable components, state, and props to create dynamic applications efficiently.",
+    "common_mistakes_to_avoid": "Calling React a full framework only; not mentioning components.",
+    "follow_up_questions": [
+      "What are props?",
+      "What is state?"
+    ],
+    "keywords": [
+      "components",
+      "state",
+      "props"
+    ]
+  },
+  {
+    "id": "Q058",
+    "role": "Web Developer",
+    "category": "Role-Specific",
+    "domain": "Web Development",
+    "difficulty": "Hard",
+    "question_text": "Difference between frontend and backend.",
+    "what_interviewer_is_looking_for": "Client-side UI vs server-side logic/data.",
+    "sample_strong_answer": "Frontend is the part of an application users see and interact with, such as pages and forms. Backend handles server-side logic, databases, authentication, and APIs. Both work together to deliver a complete application.",
+    "common_mistakes_to_avoid": "Saying frontend is easy backend is hard; no responsibilities.",
+    "follow_up_questions": [
+      "What connects frontend and backend?",
+      "What is API?"
+    ],
+    "keywords": [
+      "UI",
+      "server",
+      "database",
+      "API"
+    ]
+  },
+  {
+    "id": "Q059",
+    "role": "Web Developer",
+    "category": "Role-Specific",
+    "domain": "Web Development",
+    "difficulty": "Easy",
+    "question_text": "What is REST API?",
+    "what_interviewer_is_looking_for": "HTTP methods, resources, request/response.",
+    "sample_strong_answer": "A REST API is an API style where clients communicate with servers using HTTP methods like GET, POST, PUT, and DELETE. It works with resources and usually returns data in JSON format.",
+    "common_mistakes_to_avoid": "Only expanding REST; no methods.",
+    "follow_up_questions": [
+      "Difference between GET and POST?",
+      "What is JSON?"
+    ],
+    "keywords": [
+      "GET",
+      "POST",
+      "JSON",
+      "HTTP"
+    ]
+  },
+  {
+    "id": "Q060",
+    "role": "Web Developer",
+    "category": "Role-Specific",
+    "domain": "Web Development",
+    "difficulty": "Medium",
+    "question_text": "What is form validation?",
+    "what_interviewer_is_looking_for": "Checking input correctness before processing.",
+    "sample_strong_answer": "Form validation ensures that user input is correct before submitting or processing it. For example, checking email format, required fields, password length, and numeric values improves data quality and user experience.",
+    "common_mistakes_to_avoid": "Only saying error checking; not giving examples.",
+    "follow_up_questions": [
+      "Client-side vs server-side validation?",
+      "Why is validation important?"
+    ],
+    "keywords": [
+      "input",
+      "email",
+      "required"
+    ]
+  },
+  {
+    "id": "Q061",
+    "role": "Web Developer",
+    "category": "Role-Specific",
+    "domain": "Web Development",
+    "difficulty": "Hard",
+    "question_text": "What is GitHub used for in web development?",
+    "what_interviewer_is_looking_for": "Hosting code, collaboration, version control, deployment.",
+    "sample_strong_answer": "GitHub is used to host code repositories, collaborate with team members, track changes, and manage project versions. It can also be used to showcase projects and deploy static websites through GitHub Pages.",
+    "common_mistakes_to_avoid": "Confusing GitHub with coding editor; no collaboration explanation.",
+    "follow_up_questions": [
+      "What is pull request?",
+      "What is repository?"
+    ],
+    "keywords": [
+      "repository",
+      "collaboration",
+      "version"
+    ]
+  },
+  {
+    "id": "Q062",
+    "role": "Web Developer",
+    "category": "Role-Specific",
+    "domain": "Web Development",
+    "difficulty": "Easy",
+    "question_text": "Explain one web development project you built.",
+    "what_interviewer_is_looking_for": "Problem, features, tech stack, your role, result.",
+    "sample_strong_answer": "In my web project, I focused on building a clean user interface and useful features. I used HTML, CSS, JavaScript, and backend/API integration where required. My role included designing pages, writing logic, testing functionality, and improving user experience.",
+    "common_mistakes_to_avoid": "Only saying project title; no features or role.",
+    "follow_up_questions": [
+      "What was your biggest challenge?",
+      "How did you test it?"
+    ],
+    "keywords": [
+      "features",
+      "tech stack",
+      "testing"
+    ]
+  },
+  {
+    "id": "Q063",
+    "role": "General",
+    "category": "Technical",
+    "domain": "Non-CS/Aptitude",
+    "difficulty": "Easy",
+    "question_text": "How do you approach an aptitude problem?",
+    "what_interviewer_is_looking_for": "Understand, identify given data, choose formula/logic, verify answer.",
+    "sample_strong_answer": "I first read the question carefully and identify what is given and what is asked. Then I choose the suitable formula or logical approach, solve step by step, and verify whether the answer is reasonable.",
+    "common_mistakes_to_avoid": "Directly guessing; not checking units or options.",
+    "follow_up_questions": [
+      "How do you manage time in aptitude tests?",
+      "What topic is difficult for you?"
+    ],
+    "keywords": [
+      "logic",
+      "formula",
+      "verification"
+    ]
+  },
+  {
+    "id": "Q064",
+    "role": "General",
+    "category": "Technical",
+    "domain": "Non-CS/Aptitude",
+    "difficulty": "Medium",
+    "question_text": "What is percentage?",
+    "what_interviewer_is_looking_for": "Part per hundred, formula, example.",
+    "sample_strong_answer": "Percentage means a value out of 100. It is calculated as part divided by whole multiplied by 100. For example, if 40 out of 50 marks are scored, the percentage is 80%.",
+    "common_mistakes_to_avoid": "Wrong formula; no example.",
+    "follow_up_questions": [
+      "How do you calculate percentage increase?",
+      "Percentage vs percentile?"
+    ],
+    "keywords": [
+      "part",
+      "whole",
+      "100"
+    ]
+  },
+  {
+    "id": "Q065",
+    "role": "General",
+    "category": "Technical",
+    "domain": "Non-CS/Aptitude",
+    "difficulty": "Hard",
+    "question_text": "Explain average with example.",
+    "what_interviewer_is_looking_for": "Sum of values divided by count.",
+    "sample_strong_answer": "Average is the central value calculated by dividing the sum of values by the number of values. For example, average of 10, 20, and 30 is 60 divided by 3, which is 20.",
+    "common_mistakes_to_avoid": "Confusing average with median; calculation mistake.",
+    "follow_up_questions": [
+      "What happens if one value is very high?",
+      "Mean vs median?"
+    ],
+    "keywords": [
+      "sum",
+      "count",
+      "mean"
+    ]
+  },
+  {
+    "id": "Q066",
+    "role": "General",
+    "category": "Technical",
+    "domain": "Non-CS/Aptitude",
+    "difficulty": "Easy",
+    "question_text": "What is logical reasoning?",
+    "what_interviewer_is_looking_for": "Using patterns, rules, deduction to solve problems.",
+    "sample_strong_answer": "Logical reasoning is the ability to solve problems using patterns, rules, and structured thinking. It includes topics like series, coding-decoding, seating arrangement, direction sense, and syllogisms.",
+    "common_mistakes_to_avoid": "Only saying common sense; no topics.",
+    "follow_up_questions": [
+      "Which reasoning topic do you practice most?",
+      "How do you solve series questions?"
+    ],
+    "keywords": [
+      "patterns",
+      "deduction",
+      "series"
+    ]
+  },
+  {
+    "id": "Q067",
+    "role": "General",
+    "category": "Technical",
+    "domain": "Non-CS/Aptitude",
+    "difficulty": "Medium",
+    "question_text": "How do you solve number series questions?",
+    "what_interviewer_is_looking_for": "Find pattern: difference, multiplication, squares, alternating logic.",
+    "sample_strong_answer": "I check the difference between numbers first. If that does not work, I check multiplication, division, squares, cubes, or alternating patterns. After finding the pattern, I verify it with all terms before choosing the answer.",
+    "common_mistakes_to_avoid": "Checking only one pattern; not verifying.",
+    "follow_up_questions": [
+      "Give an example of alternating series.",
+      "What if differences are increasing?"
+    ],
+    "keywords": [
+      "difference",
+      "pattern",
+      "verify"
+    ]
+  },
+  {
+    "id": "Q068",
+    "role": "General",
+    "category": "Technical",
+    "domain": "Non-CS/Aptitude",
+    "difficulty": "Hard",
+    "question_text": "What is probability?",
+    "what_interviewer_is_looking_for": "Chance of event, favorable outcomes/total outcomes.",
+    "sample_strong_answer": "Probability measures the chance of an event occurring. It is calculated as favorable outcomes divided by total possible outcomes. For example, probability of getting heads in a coin toss is 1/2.",
+    "common_mistakes_to_avoid": "Confusing probability with percentage; no formula.",
+    "follow_up_questions": [
+      "Probability of rolling a 6?",
+      "What is impossible event probability?"
+    ],
+    "keywords": [
+      "chance",
+      "favorable",
+      "total"
+    ]
+  },
+  {
+    "id": "Q069",
+    "role": "General",
+    "category": "Technical",
+    "domain": "Non-CS/Aptitude",
+    "difficulty": "Easy",
+    "question_text": "How do you handle a question you do not know in an exam?",
+    "what_interviewer_is_looking_for": "Prioritize, skip temporarily, return later, eliminate options.",
+    "sample_strong_answer": "If I do not know a question, I do not waste too much time. I mark it, move to easier questions, and come back later. If it is multiple choice, I use elimination to remove clearly wrong options.",
+    "common_mistakes_to_avoid": "Spending too much time; random guessing immediately.",
+    "follow_up_questions": [
+      "How do you avoid panic?",
+      "When do you guess?"
+    ],
+    "keywords": [
+      "prioritize",
+      "skip",
+      "elimination"
+    ]
+  },
+  {
+    "id": "Q070",
+    "role": "General",
+    "category": "Technical",
+    "domain": "Non-CS/Aptitude",
+    "difficulty": "Medium",
+    "question_text": "Why are aptitude skills important for placements?",
+    "what_interviewer_is_looking_for": "Problem solving, speed, accuracy, decision making.",
+    "sample_strong_answer": "Aptitude skills are important because companies use them to check problem-solving ability, logical thinking, speed, and accuracy. These skills also help in technical problem solving and decision-making tasks.",
+    "common_mistakes_to_avoid": "Saying only because companies ask; no skill value.",
+    "follow_up_questions": [
+      "Which aptitude area are you improving?",
+      "How do you practice aptitude?"
+    ],
+    "keywords": [
+      "problem solving",
+      "speed",
+      "accuracy"
+    ]
+  },
+  {
+    "id": "Q071",
+    "role": "Marketing",
+    "category": "Role-Specific",
+    "domain": "Marketing",
+    "difficulty": "Easy",
+    "question_text": "What is digital marketing?",
+    "what_interviewer_is_looking_for": "Promotion using digital channels, examples, goals.",
+    "sample_strong_answer": "Digital marketing is promoting products or services through online channels like search engines, social media, email, websites, and paid ads. Its goal is to reach the right audience, generate leads, and improve conversions.",
+    "common_mistakes_to_avoid": "Only saying social media; no channels/goals.",
+    "follow_up_questions": [
+      "What is SEO?",
+      "What is conversion rate?"
+    ],
+    "keywords": [
+      "SEO",
+      "social media",
+      "conversion"
+    ]
+  },
+  {
+    "id": "Q072",
+    "role": "Marketing",
+    "category": "Role-Specific",
+    "domain": "Marketing",
+    "difficulty": "Medium",
+    "question_text": "What is SEO?",
+    "what_interviewer_is_looking_for": "Improve organic visibility using keywords, content, technical optimization.",
+    "sample_strong_answer": "SEO stands for Search Engine Optimization. It is the process of improving a website's visibility in search engine results through keyword optimization, quality content, backlinks, and technical improvements.",
+    "common_mistakes_to_avoid": "Saying paid ads; not mentioning organic traffic.",
+    "follow_up_questions": [
+      "On-page vs off-page SEO?",
+      "Why are keywords important?"
+    ],
+    "keywords": [
+      "organic",
+      "keywords",
+      "content"
+    ]
+  },
+  {
+    "id": "Q073",
+    "role": "Marketing",
+    "category": "Role-Specific",
+    "domain": "Marketing",
+    "difficulty": "Hard",
+    "question_text": "What is target audience?",
+    "what_interviewer_is_looking_for": "Specific group likely to buy/use product.",
+    "sample_strong_answer": "A target audience is the specific group of people a business wants to reach with its product or message. It can be defined by age, location, interests, needs, behavior, and buying intent.",
+    "common_mistakes_to_avoid": "Saying everyone is target audience; no segmentation.",
+    "follow_up_questions": [
+      "How do you identify target audience?",
+      "What is customer persona?"
+    ],
+    "keywords": [
+      "segmentation",
+      "persona",
+      "needs"
+    ]
+  },
+  {
+    "id": "Q074",
+    "role": "Marketing",
+    "category": "Role-Specific",
+    "domain": "Marketing",
+    "difficulty": "Easy",
+    "question_text": "What is conversion rate?",
+    "what_interviewer_is_looking_for": "Percentage of users completing desired action.",
+    "sample_strong_answer": "Conversion rate is the percentage of users who complete a desired action, such as signing up, buying a product, or submitting a form. It is calculated as conversions divided by total visitors multiplied by 100.",
+    "common_mistakes_to_avoid": "Only saying sales; no formula.",
+    "follow_up_questions": [
+      "How can conversion rate be improved?",
+      "What is CTA?"
+    ],
+    "keywords": [
+      "conversion",
+      "visitors",
+      "CTA"
+    ]
+  },
+  {
+    "id": "Q075",
+    "role": "Marketing",
+    "category": "Role-Specific",
+    "domain": "Marketing",
+    "difficulty": "Medium",
+    "question_text": "How do you measure campaign performance?",
+    "what_interviewer_is_looking_for": "Use KPIs such as CTR, conversions, CPA, ROI.",
+    "sample_strong_answer": "I measure campaign performance using KPIs like impressions, clicks, click-through rate, conversion rate, cost per acquisition, and ROI. The right metric depends on the campaign objective.",
+    "common_mistakes_to_avoid": "Checking only likes; ignoring business goal.",
+    "follow_up_questions": [
+      "What is CTR?",
+      "Which metric matters for lead generation?"
+    ],
+    "keywords": [
+      "CTR",
+      "ROI",
+      "CPA"
+    ]
+  },
+  {
+    "id": "Q076",
+    "role": "Finance",
+    "category": "Role-Specific",
+    "domain": "Finance",
+    "difficulty": "Easy",
+    "question_text": "What is finance?",
+    "what_interviewer_is_looking_for": "Managing money, investments, budgeting, risk.",
+    "sample_strong_answer": "Finance is the study and management of money, investments, budgeting, and risk. It helps individuals and organizations make better financial decisions.",
+    "common_mistakes_to_avoid": "Only saying money; no decisions/risk.",
+    "follow_up_questions": [
+      "What is budgeting?",
+      "What is investment?"
+    ],
+    "keywords": [
+      "money",
+      "investment",
+      "risk"
+    ]
+  },
+  {
+    "id": "Q077",
+    "role": "Finance",
+    "category": "Role-Specific",
+    "domain": "Finance",
+    "difficulty": "Medium",
+    "question_text": "What is budgeting?",
+    "what_interviewer_is_looking_for": "Planning income and expenses to control money.",
+    "sample_strong_answer": "Budgeting is the process of planning expected income and expenses for a period. It helps control spending, allocate resources, and track financial goals.",
+    "common_mistakes_to_avoid": "Saying only saving money; no planning.",
+    "follow_up_questions": [
+      "Why is budgeting important?",
+      "What is variance?"
+    ],
+    "keywords": [
+      "income",
+      "expenses",
+      "planning"
+    ]
+  },
+  {
+    "id": "Q078",
+    "role": "Finance",
+    "category": "Role-Specific",
+    "domain": "Finance",
+    "difficulty": "Hard",
+    "question_text": "What is profit and loss?",
+    "what_interviewer_is_looking_for": "Revenue vs cost difference.",
+    "sample_strong_answer": "Profit occurs when revenue is greater than total cost, while loss occurs when cost is greater than revenue. Profit and loss analysis helps understand business performance.",
+    "common_mistakes_to_avoid": "Confusing revenue with profit; no cost mention.",
+    "follow_up_questions": [
+      "What is gross profit?",
+      "What is net profit?"
+    ],
+    "keywords": [
+      "revenue",
+      "cost",
+      "profit"
+    ]
+  },
+  {
+    "id": "Q079",
+    "role": "Finance",
+    "category": "Role-Specific",
+    "domain": "Finance",
+    "difficulty": "Easy",
+    "question_text": "What is ROI?",
+    "what_interviewer_is_looking_for": "Return on investment formula and purpose.",
+    "sample_strong_answer": "ROI stands for Return on Investment. It measures how much return is generated compared to the investment cost. It is commonly calculated as net return divided by investment cost multiplied by 100.",
+    "common_mistakes_to_avoid": "Only expanding ROI; no formula.",
+    "follow_up_questions": [
+      "Why is ROI useful?",
+      "Can ROI be negative?"
+    ],
+    "keywords": [
+      "return",
+      "investment",
+      "percentage"
+    ]
+  },
+  {
+    "id": "Q080",
+    "role": "Finance",
+    "category": "Role-Specific",
+    "domain": "Finance",
+    "difficulty": "Medium",
+    "question_text": "What is financial analysis?",
+    "what_interviewer_is_looking_for": "Evaluating financial data to support decisions.",
+    "sample_strong_answer": "Financial analysis is the process of studying financial data such as revenue, expenses, profit, cash flow, and ratios to understand performance and support decision-making.",
+    "common_mistakes_to_avoid": "Only saying checking accounts; no decision-making.",
+    "follow_up_questions": [
+      "Which ratios are useful?",
+      "What is cash flow?"
+    ],
+    "keywords": [
+      "revenue",
+      "cash flow",
+      "ratios"
+    ]
+  },
+  {
+    "id": "Q081",
+    "role": "Data Scientist",
+    "category": "Role-Specific",
+    "domain": "Data Science",
+    "difficulty": "Easy",
+    "question_text": "What is machine learning?",
+    "what_interviewer_is_looking_for": "Learning patterns from data, prediction, examples.",
+    "sample_strong_answer": "Machine learning is a branch of AI where systems learn patterns from data and make predictions or decisions without being explicitly programmed for every rule. Examples include spam detection, recommendation systems, and price prediction.",
+    "common_mistakes_to_avoid": "Saying it is just robots; no data/prediction explanation.",
+    "follow_up_questions": [
+      "Supervised vs unsupervised learning?",
+      "Give one ML use case."
+    ],
+    "keywords": [
+      "data",
+      "patterns",
+      "prediction"
+    ]
+  },
+  {
+    "id": "Q082",
+    "role": "Data Scientist",
+    "category": "Role-Specific",
+    "domain": "Data Science",
+    "difficulty": "Medium",
+    "question_text": "Difference between supervised and unsupervised learning.",
+    "what_interviewer_is_looking_for": "Labeled data vs unlabeled data, examples.",
+    "sample_strong_answer": "Supervised learning uses labeled data where the target output is known, such as predicting house prices. Unsupervised learning uses unlabeled data to find patterns or groups, such as customer segmentation.",
+    "common_mistakes_to_avoid": "Not mentioning labels; no examples.",
+    "follow_up_questions": [
+      "What is classification?",
+      "What is clustering?"
+    ],
+    "keywords": [
+      "labeled",
+      "unlabeled",
+      "classification",
+      "clustering"
+    ]
+  },
+  {
+    "id": "Q083",
+    "role": "Data Scientist",
+    "category": "Role-Specific",
+    "domain": "Data Science",
+    "difficulty": "Hard",
+    "question_text": "What is classification?",
+    "what_interviewer_is_looking_for": "Predicting categories, examples, metrics.",
+    "sample_strong_answer": "Classification is a supervised learning task where the output is a category or class. Examples include spam or not spam, churn or not churn, and pass or fail. Common metrics include accuracy, precision, recall, and F1-score.",
+    "common_mistakes_to_avoid": "Confusing with regression; no category example.",
+    "follow_up_questions": [
+      "Classification vs regression?",
+      "What is accuracy?"
+    ],
+    "keywords": [
+      "category",
+      "accuracy",
+      "precision"
+    ]
+  },
+  {
+    "id": "Q084",
+    "role": "Data Scientist",
+    "category": "Role-Specific",
+    "domain": "Data Science",
+    "difficulty": "Easy",
+    "question_text": "What is regression?",
+    "what_interviewer_is_looking_for": "Predicting continuous numerical values.",
+    "sample_strong_answer": "Regression is a supervised learning task used to predict continuous numerical values. Examples include predicting house price, sales amount, or temperature. Linear regression is a common regression algorithm.",
+    "common_mistakes_to_avoid": "Saying regression predicts classes; no examples.",
+    "follow_up_questions": [
+      "What is linear regression?",
+      "How do you evaluate regression?"
+    ],
+    "keywords": [
+      "continuous",
+      "linear regression",
+      "prediction"
+    ]
+  },
+  {
+    "id": "Q085",
+    "role": "Data Scientist",
+    "category": "Role-Specific",
+    "domain": "Data Science",
+    "difficulty": "Medium",
+    "question_text": "What is model overfitting?",
+    "what_interviewer_is_looking_for": "Model performs well on training data but poorly on new data.",
+    "sample_strong_answer": "Overfitting happens when a model learns training data too closely, including noise, and fails to generalize to new data. It can be reduced using more data, regularization, cross-validation, and simpler models.",
+    "common_mistakes_to_avoid": "Saying high accuracy always good; no generalization explanation.",
+    "follow_up_questions": [
+      "How to reduce overfitting?",
+      "What is underfitting?"
+    ],
+    "keywords": [
+      "training data",
+      "generalization",
+      "regularization"
+    ]
+  }
+]
