@@ -1,0 +1,2702 @@
+[
+  {
+    "id": "TCS001",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Easy",
+    "question_text": "What is Object-Oriented Programming?",
+    "what_interviewer_is_looking_for": "Basic understanding of OOP, classes, objects, and real-world modeling.",
+    "sample_strong_answer": "Object-Oriented Programming is a programming approach that organizes code using objects and classes. It helps in reusability, modularity, and better code organization.",
+    "common_mistakes_to_avoid": [
+      "Only expanding OOP",
+      "No mention of classes and objects",
+      "No real-world example"
+    ],
+    "follow_up_questions": [
+      "What are the main pillars of OOP?",
+      "Can you give a real-world example of OOP?"
+    ]
+  },
+  {
+    "id": "TCS002",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Easy",
+    "question_text": "What is a class?",
+    "what_interviewer_is_looking_for": "Definition of class as a blueprint and its role in creating objects.",
+    "sample_strong_answer": "A class is a blueprint or template used to create objects. It defines properties and methods that objects of that class can use.",
+    "common_mistakes_to_avoid": [
+      "Confusing class with object",
+      "No example",
+      "Too vague answer"
+    ],
+    "follow_up_questions": [
+      "How is a class different from an object?",
+      "Can you write a simple class example?"
+    ]
+  },
+  {
+    "id": "TCS003",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Easy",
+    "question_text": "What is an object?",
+    "what_interviewer_is_looking_for": "Understanding object as an instance of a class.",
+    "sample_strong_answer": "An object is an instance of a class. It has data and behavior defined by the class.",
+    "common_mistakes_to_avoid": [
+      "Saying object is only data",
+      "No relation to class",
+      "No example"
+    ],
+    "follow_up_questions": [
+      "Can one class create multiple objects?",
+      "What is object state and behavior?"
+    ]
+  },
+  {
+    "id": "TCS004",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Easy",
+    "question_text": "What are the four pillars of OOP?",
+    "what_interviewer_is_looking_for": "Knowledge of encapsulation, inheritance, polymorphism, and abstraction.",
+    "sample_strong_answer": "The four pillars of OOP are encapsulation, inheritance, polymorphism, and abstraction. They help in secure, reusable, flexible, and simplified software design.",
+    "common_mistakes_to_avoid": [
+      "Missing one pillar",
+      "Only listing without meaning",
+      "Wrong pillar names"
+    ],
+    "follow_up_questions": [
+      "Explain each pillar briefly.",
+      "Which OOP pillar improves reusability?"
+    ]
+  },
+  {
+    "id": "TCS005",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Easy",
+    "question_text": "What is encapsulation?",
+    "what_interviewer_is_looking_for": "Data hiding and binding data with methods.",
+    "sample_strong_answer": "Encapsulation is the process of binding data and methods together and restricting direct access to data using access modifiers or private variables.",
+    "common_mistakes_to_avoid": [
+      "Calling it only data hiding",
+      "No mention of methods",
+      "No example"
+    ],
+    "follow_up_questions": [
+      "How is encapsulation implemented?",
+      "Why is encapsulation useful?"
+    ]
+  },
+  {
+    "id": "TCS006",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Easy",
+    "question_text": "What is inheritance?",
+    "what_interviewer_is_looking_for": "Understanding parent-child class relationship and code reuse.",
+    "sample_strong_answer": "Inheritance allows one class to acquire properties and methods of another class. It promotes code reuse and hierarchy.",
+    "common_mistakes_to_avoid": [
+      "No parent-child explanation",
+      "No code reuse point",
+      "Confusing with polymorphism"
+    ],
+    "follow_up_questions": [
+      "What are types of inheritance?",
+      "Why do we use inheritance?"
+    ]
+  },
+  {
+    "id": "TCS007",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Medium",
+    "question_text": "What is polymorphism?",
+    "what_interviewer_is_looking_for": "Understanding one name, many forms; compile-time and runtime.",
+    "sample_strong_answer": "Polymorphism means one function or method can behave differently based on context. It can be achieved through method overloading and method overriding.",
+    "common_mistakes_to_avoid": [
+      "Only saying many forms",
+      "No example",
+      "Confusing overloading and overriding"
+    ],
+    "follow_up_questions": [
+      "What is method overloading?",
+      "What is method overriding?"
+    ]
+  },
+  {
+    "id": "TCS008",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Medium",
+    "question_text": "What is abstraction?",
+    "what_interviewer_is_looking_for": "Hiding internal implementation and showing essential details.",
+    "sample_strong_answer": "Abstraction means showing only necessary details to the user and hiding internal implementation. It reduces complexity.",
+    "common_mistakes_to_avoid": [
+      "Confusing abstraction with encapsulation",
+      "No implementation hiding",
+      "No example"
+    ],
+    "follow_up_questions": [
+      "How is abstraction achieved?",
+      "What is the difference between abstraction and encapsulation?"
+    ]
+  },
+  {
+    "id": "TCS009",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Medium",
+    "question_text": "What is method overloading?",
+    "what_interviewer_is_looking_for": "Same method name with different parameters.",
+    "sample_strong_answer": "Method overloading means defining multiple methods with the same name but different parameter lists in the same class.",
+    "common_mistakes_to_avoid": [
+      "Saying same method with same parameters",
+      "Confusing with overriding",
+      "No parameter difference"
+    ],
+    "follow_up_questions": [
+      "Is method overloading compile-time or runtime polymorphism?",
+      "Give an example of overloading."
+    ]
+  },
+  {
+    "id": "TCS010",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Medium",
+    "question_text": "What is method overriding?",
+    "what_interviewer_is_looking_for": "Child class redefining parent class method.",
+    "sample_strong_answer": "Method overriding happens when a child class provides its own implementation of a method already defined in the parent class.",
+    "common_mistakes_to_avoid": [
+      "Confusing with overloading",
+      "No inheritance relation",
+      "No runtime polymorphism point"
+    ],
+    "follow_up_questions": [
+      "Is overriding runtime polymorphism?",
+      "Why do we override methods?"
+    ]
+  },
+  {
+    "id": "TCS011",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Easy",
+    "question_text": "What is a constructor?",
+    "what_interviewer_is_looking_for": "Special method used to initialize objects.",
+    "sample_strong_answer": "A constructor is a special method that is automatically called when an object is created. It initializes object data.",
+    "common_mistakes_to_avoid": [
+      "Calling it normal function only",
+      "No initialization point",
+      "No automatic call"
+    ],
+    "follow_up_questions": [
+      "Can constructors be overloaded?",
+      "What is a default constructor?"
+    ]
+  },
+  {
+    "id": "TCS012",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Medium",
+    "question_text": "What is a destructor?",
+    "what_interviewer_is_looking_for": "Object cleanup and memory/resource release.",
+    "sample_strong_answer": "A destructor is a special method used to clean up resources when an object is destroyed or no longer needed.",
+    "common_mistakes_to_avoid": [
+      "Confusing with constructor",
+      "No cleanup point",
+      "Language-specific confusion"
+    ],
+    "follow_up_questions": [
+      "When is a destructor called?",
+      "Why is cleanup important?"
+    ]
+  },
+  {
+    "id": "TCS013",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Medium",
+    "question_text": "What is the difference between class variable and instance variable?",
+    "what_interviewer_is_looking_for": "Class-level shared variable vs object-specific variable.",
+    "sample_strong_answer": "A class variable is shared by all objects of a class, while an instance variable belongs to a specific object and can have different values for each object.",
+    "common_mistakes_to_avoid": [
+      "Saying both are same",
+      "No shared vs object-specific point",
+      "No example"
+    ],
+    "follow_up_questions": [
+      "Where are class variables declared?",
+      "When do you use instance variables?"
+    ]
+  },
+  {
+    "id": "TCS014",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Medium",
+    "question_text": "What are access modifiers?",
+    "what_interviewer_is_looking_for": "Public, private, protected access control.",
+    "sample_strong_answer": "Access modifiers control visibility of class members. Common access modifiers are public, private, and protected.",
+    "common_mistakes_to_avoid": [
+      "Only listing names",
+      "No visibility explanation",
+      "No security purpose"
+    ],
+    "follow_up_questions": [
+      "What is private access?",
+      "Why are access modifiers used?"
+    ]
+  },
+  {
+    "id": "TCS015",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Medium",
+    "question_text": "What is coupling?",
+    "what_interviewer_is_looking_for": "Dependency between modules/classes.",
+    "sample_strong_answer": "Coupling refers to the level of dependency between modules or classes. Low coupling is preferred because it makes code easier to maintain.",
+    "common_mistakes_to_avoid": [
+      "No dependency explanation",
+      "Saying high coupling is always good",
+      "No maintainability point"
+    ],
+    "follow_up_questions": [
+      "What is low coupling?",
+      "How can coupling be reduced?"
+    ]
+  },
+  {
+    "id": "TCS016",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Medium",
+    "question_text": "What is cohesion?",
+    "what_interviewer_is_looking_for": "How closely related responsibilities of a module are.",
+    "sample_strong_answer": "Cohesion means how strongly the responsibilities of a module or class are related. High cohesion is preferred for clean design.",
+    "common_mistakes_to_avoid": [
+      "Confusing with coupling",
+      "No module responsibility point",
+      "No design benefit"
+    ],
+    "follow_up_questions": [
+      "Why is high cohesion good?",
+      "Difference between coupling and cohesion?"
+    ]
+  },
+  {
+    "id": "TCS017",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Medium",
+    "question_text": "What is an interface?",
+    "what_interviewer_is_looking_for": "Contract defining methods without full implementation.",
+    "sample_strong_answer": "An interface defines a contract that classes can implement. It usually contains method declarations that implementing classes must define.",
+    "common_mistakes_to_avoid": [
+      "Confusing interface with class",
+      "No contract concept",
+      "No implementation point"
+    ],
+    "follow_up_questions": [
+      "Why do we use interfaces?",
+      "Difference between interface and abstract class?"
+    ]
+  },
+  {
+    "id": "TCS018",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Medium",
+    "question_text": "What is an abstract class?",
+    "what_interviewer_is_looking_for": "Class that cannot be directly instantiated and may have abstract methods.",
+    "sample_strong_answer": "An abstract class is a class that cannot be directly instantiated. It can contain abstract methods and concrete methods.",
+    "common_mistakes_to_avoid": [
+      "Saying it has no methods",
+      "No instantiation point",
+      "Confusing with interface"
+    ],
+    "follow_up_questions": [
+      "When do you use abstract class?",
+      "Can abstract class have concrete methods?"
+    ]
+  },
+  {
+    "id": "TCS019",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Easy",
+    "question_text": "What is exception handling?",
+    "what_interviewer_is_looking_for": "Handling runtime errors gracefully.",
+    "sample_strong_answer": "Exception handling is a mechanism to handle runtime errors so that the program does not crash unexpectedly. It uses blocks like try, catch, finally, or except.",
+    "common_mistakes_to_avoid": [
+      "No runtime error point",
+      "Confusing compile error with exception",
+      "No try-catch mention"
+    ],
+    "follow_up_questions": [
+      "What is finally block?",
+      "Difference between error and exception?"
+    ]
+  },
+  {
+    "id": "TCS020",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Medium",
+    "question_text": "What is the difference between error and exception?",
+    "what_interviewer_is_looking_for": "Serious system-level problem vs handleable runtime issue.",
+    "sample_strong_answer": "An error is usually a serious problem that may not be recoverable, while an exception is a runtime issue that can be handled using exception handling.",
+    "common_mistakes_to_avoid": [
+      "Saying both are same",
+      "No handling difference",
+      "No example"
+    ],
+    "follow_up_questions": [
+      "Can exceptions be handled?",
+      "Give examples of exceptions."
+    ]
+  },
+  {
+    "id": "TCS021",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Easy",
+    "question_text": "What is DBMS?",
+    "what_interviewer_is_looking_for": "Definition, purpose, and data management role.",
+    "sample_strong_answer": "DBMS stands for Database Management System. It is software used to store, manage, retrieve, and organize data efficiently.",
+    "common_mistakes_to_avoid": [
+      "Only expanding DBMS",
+      "No purpose",
+      "No examples"
+    ],
+    "follow_up_questions": [
+      "Give examples of DBMS.",
+      "Why do we use DBMS?"
+    ]
+  },
+  {
+    "id": "TCS022",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Easy",
+    "question_text": "What is RDBMS?",
+    "what_interviewer_is_looking_for": "Relational database and table-based storage.",
+    "sample_strong_answer": "RDBMS stands for Relational Database Management System. It stores data in tables with rows and columns and supports relationships between tables.",
+    "common_mistakes_to_avoid": [
+      "No table concept",
+      "Confusing DBMS and RDBMS",
+      "No relationship point"
+    ],
+    "follow_up_questions": [
+      "Examples of RDBMS?",
+      "Difference between DBMS and RDBMS?"
+    ]
+  },
+  {
+    "id": "TCS023",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Easy",
+    "question_text": "What is a database?",
+    "what_interviewer_is_looking_for": "Organized collection of data.",
+    "sample_strong_answer": "A database is an organized collection of data that can be stored, accessed, and managed easily.",
+    "common_mistakes_to_avoid": [
+      "Too vague answer",
+      "No organized data point",
+      "Confusing database with DBMS"
+    ],
+    "follow_up_questions": [
+      "What is the difference between database and DBMS?",
+      "Why do companies use databases?"
+    ]
+  },
+  {
+    "id": "TCS024",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Easy",
+    "question_text": "What is a table in DBMS?",
+    "what_interviewer_is_looking_for": "Rows and columns structure.",
+    "sample_strong_answer": "A table is a database object that stores data in rows and columns. Each row represents a record and each column represents an attribute.",
+    "common_mistakes_to_avoid": [
+      "No row-column explanation",
+      "Confusing table with database",
+      "No record concept"
+    ],
+    "follow_up_questions": [
+      "What is a row?",
+      "What is a column?"
+    ]
+  },
+  {
+    "id": "TCS025",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Easy",
+    "question_text": "What is a primary key?",
+    "what_interviewer_is_looking_for": "Unique identification of rows.",
+    "sample_strong_answer": "A primary key is a column or set of columns that uniquely identifies each record in a table. It cannot be null and must be unique.",
+    "common_mistakes_to_avoid": [
+      "No uniqueness point",
+      "Saying primary key can be null",
+      "No record identification"
+    ],
+    "follow_up_questions": [
+      "Can a table have multiple primary keys?",
+      "What is composite key?"
+    ]
+  },
+  {
+    "id": "TCS026",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Easy",
+    "question_text": "What is a foreign key?",
+    "what_interviewer_is_looking_for": "Key used to connect two tables.",
+    "sample_strong_answer": "A foreign key is a column in one table that refers to the primary key of another table. It is used to maintain relationships between tables.",
+    "common_mistakes_to_avoid": [
+      "Confusing with primary key",
+      "No relationship point",
+      "No reference concept"
+    ],
+    "follow_up_questions": [
+      "Why foreign keys are used?",
+      "Can foreign key have duplicate values?"
+    ]
+  },
+  {
+    "id": "TCS027",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Medium",
+    "question_text": "What is a candidate key?",
+    "what_interviewer_is_looking_for": "Columns capable of uniquely identifying records.",
+    "sample_strong_answer": "A candidate key is any column or combination of columns that can uniquely identify a row in a table. One candidate key is selected as the primary key.",
+    "common_mistakes_to_avoid": [
+      "Confusing with foreign key",
+      "No uniqueness point",
+      "No primary key relation"
+    ],
+    "follow_up_questions": [
+      "How is candidate key different from primary key?",
+      "Can a table have multiple candidate keys?"
+    ]
+  },
+  {
+    "id": "TCS028",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Medium",
+    "question_text": "What is a composite key?",
+    "what_interviewer_is_looking_for": "Combination of columns used as key.",
+    "sample_strong_answer": "A composite key is a key made using two or more columns to uniquely identify a record in a table.",
+    "common_mistakes_to_avoid": [
+      "Saying one column only",
+      "No uniqueness explanation",
+      "No example"
+    ],
+    "follow_up_questions": [
+      "When do we use composite key?",
+      "Is composite key a primary key?"
+    ]
+  },
+  {
+    "id": "TCS029",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Medium",
+    "question_text": "What is normalization?",
+    "what_interviewer_is_looking_for": "Organizing database to reduce redundancy and improve consistency.",
+    "sample_strong_answer": "Normalization is the process of organizing data in a database to reduce redundancy and improve data integrity by dividing data into related tables.",
+    "common_mistakes_to_avoid": [
+      "Only saying removes duplicates",
+      "No data integrity point",
+      "No table organization"
+    ],
+    "follow_up_questions": [
+      "What are normal forms?",
+      "Why is normalization important?"
+    ]
+  },
+  {
+    "id": "TCS030",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Medium",
+    "question_text": "What is denormalization?",
+    "what_interviewer_is_looking_for": "Adding redundancy to improve read performance.",
+    "sample_strong_answer": "Denormalization is the process of combining data or adding redundancy to improve read performance, usually at the cost of extra storage.",
+    "common_mistakes_to_avoid": [
+      "Confusing with normalization",
+      "No performance point",
+      "No redundancy tradeoff"
+    ],
+    "follow_up_questions": [
+      "When is denormalization used?",
+      "What is its disadvantage?"
+    ]
+  },
+  {
+    "id": "TCS031",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Medium",
+    "question_text": "What is 1NF?",
+    "what_interviewer_is_looking_for": "Atomic values and no repeating groups.",
+    "sample_strong_answer": "First Normal Form means each column should contain atomic values and there should be no repeating groups.",
+    "common_mistakes_to_avoid": [
+      "No atomic value concept",
+      "Confusing with 2NF",
+      "No example"
+    ],
+    "follow_up_questions": [
+      "What is an atomic value?",
+      "How to convert table to 1NF?"
+    ]
+  },
+  {
+    "id": "TCS032",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Medium",
+    "question_text": "What is 2NF?",
+    "what_interviewer_is_looking_for": "1NF plus no partial dependency.",
+    "sample_strong_answer": "Second Normal Form means the table is in 1NF and every non-key attribute fully depends on the complete primary key.",
+    "common_mistakes_to_avoid": [
+      "No partial dependency point",
+      "Confusing with 3NF",
+      "No 1NF requirement"
+    ],
+    "follow_up_questions": [
+      "What is partial dependency?",
+      "When does 2NF matter?"
+    ]
+  },
+  {
+    "id": "TCS033",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Medium",
+    "question_text": "What is 3NF?",
+    "what_interviewer_is_looking_for": "2NF plus no transitive dependency.",
+    "sample_strong_answer": "Third Normal Form means the table is in 2NF and non-key attributes should not depend on other non-key attributes.",
+    "common_mistakes_to_avoid": [
+      "No transitive dependency point",
+      "Confusing with 2NF",
+      "No non-key attribute concept"
+    ],
+    "follow_up_questions": [
+      "What is transitive dependency?",
+      "Why is 3NF useful?"
+    ]
+  },
+  {
+    "id": "TCS034",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Easy",
+    "question_text": "What is SQL?",
+    "what_interviewer_is_looking_for": "Query language for managing relational databases.",
+    "sample_strong_answer": "SQL stands for Structured Query Language. It is used to create, retrieve, update, and delete data in relational databases.",
+    "common_mistakes_to_avoid": [
+      "Only expanding SQL",
+      "No CRUD operations",
+      "No database connection"
+    ],
+    "follow_up_questions": [
+      "What are SQL command types?",
+      "Give examples of SQL commands."
+    ]
+  },
+  {
+    "id": "TCS035",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Easy",
+    "question_text": "What are DDL commands?",
+    "what_interviewer_is_looking_for": "Data Definition Language commands.",
+    "sample_strong_answer": "DDL commands are used to define or modify database structure. Examples include CREATE, ALTER, DROP, and TRUNCATE.",
+    "common_mistakes_to_avoid": [
+      "Confusing with DML",
+      "No structure point",
+      "Wrong examples"
+    ],
+    "follow_up_questions": [
+      "What is CREATE used for?",
+      "Difference between DROP and TRUNCATE?"
+    ]
+  },
+  {
+    "id": "TCS036",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Easy",
+    "question_text": "What are DML commands?",
+    "what_interviewer_is_looking_for": "Data Manipulation Language commands.",
+    "sample_strong_answer": "DML commands are used to manipulate data stored in tables. Examples include INSERT, UPDATE, DELETE, and SELECT.",
+    "common_mistakes_to_avoid": [
+      "Confusing with DDL",
+      "No data manipulation point",
+      "Wrong examples"
+    ],
+    "follow_up_questions": [
+      "What is UPDATE used for?",
+      "Is SELECT DML?"
+    ]
+  },
+  {
+    "id": "TCS037",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Medium",
+    "question_text": "What are DCL commands?",
+    "what_interviewer_is_looking_for": "Data Control Language for permissions.",
+    "sample_strong_answer": "DCL commands are used to control access permissions in a database. Examples include GRANT and REVOKE.",
+    "common_mistakes_to_avoid": [
+      "Confusing with TCL",
+      "No permission point",
+      "Wrong command examples"
+    ],
+    "follow_up_questions": [
+      "What is GRANT?",
+      "What is REVOKE?"
+    ]
+  },
+  {
+    "id": "TCS038",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Medium",
+    "question_text": "What are TCL commands?",
+    "what_interviewer_is_looking_for": "Transaction Control Language commands.",
+    "sample_strong_answer": "TCL commands are used to manage transactions. Examples include COMMIT, ROLLBACK, and SAVEPOINT.",
+    "common_mistakes_to_avoid": [
+      "No transaction point",
+      "Confusing with DCL",
+      "Wrong examples"
+    ],
+    "follow_up_questions": [
+      "What is COMMIT?",
+      "What is ROLLBACK?"
+    ]
+  },
+  {
+    "id": "TCS039",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Medium",
+    "question_text": "What is a JOIN in SQL?",
+    "what_interviewer_is_looking_for": "Combining rows from multiple tables.",
+    "sample_strong_answer": "A JOIN is used to combine data from two or more tables based on related columns.",
+    "common_mistakes_to_avoid": [
+      "No multiple table concept",
+      "No related column point",
+      "Confusing join with union"
+    ],
+    "follow_up_questions": [
+      "What are types of joins?",
+      "Difference between inner join and left join?"
+    ]
+  },
+  {
+    "id": "TCS040",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Medium",
+    "question_text": "What is INNER JOIN?",
+    "what_interviewer_is_looking_for": "Returns matching records from both tables.",
+    "sample_strong_answer": "INNER JOIN returns only the records that have matching values in both tables.",
+    "common_mistakes_to_avoid": [
+      "Saying it returns all rows",
+      "Confusing with left join",
+      "No matching condition"
+    ],
+    "follow_up_questions": [
+      "When do we use inner join?",
+      "Write inner join syntax."
+    ]
+  },
+  {
+    "id": "TCS041",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Medium",
+    "question_text": "What is LEFT JOIN?",
+    "what_interviewer_is_looking_for": "All records from left table and matched records from right table.",
+    "sample_strong_answer": "LEFT JOIN returns all rows from the left table and matching rows from the right table. If no match exists, NULL values are returned for right table columns.",
+    "common_mistakes_to_avoid": [
+      "No null point",
+      "Confusing with inner join",
+      "Wrong table side"
+    ],
+    "follow_up_questions": [
+      "Difference between left join and right join?",
+      "When is left join useful?"
+    ]
+  },
+  {
+    "id": "TCS042",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Medium",
+    "question_text": "What is a subquery?",
+    "what_interviewer_is_looking_for": "Query inside another query.",
+    "sample_strong_answer": "A subquery is a query written inside another SQL query. It is used to get intermediate results for the outer query.",
+    "common_mistakes_to_avoid": [
+      "No nested query concept",
+      "Confusing with join",
+      "No outer query point"
+    ],
+    "follow_up_questions": [
+      "Where can subqueries be used?",
+      "Subquery vs join?"
+    ]
+  },
+  {
+    "id": "TCS043",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Medium",
+    "question_text": "What is an index in DBMS?",
+    "what_interviewer_is_looking_for": "Data structure that improves search performance.",
+    "sample_strong_answer": "An index is a database structure that improves query search speed by allowing faster data lookup, similar to an index in a book.",
+    "common_mistakes_to_avoid": [
+      "Saying index stores full data",
+      "No performance point",
+      "No disadvantage"
+    ],
+    "follow_up_questions": [
+      "What is the disadvantage of indexes?",
+      "When should indexes be used?"
+    ]
+  },
+  {
+    "id": "TCS044",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Medium",
+    "question_text": "What is a view in SQL?",
+    "what_interviewer_is_looking_for": "Virtual table based on query result.",
+    "sample_strong_answer": "A view is a virtual table created from a SQL query. It does not usually store data physically but shows data from one or more tables.",
+    "common_mistakes_to_avoid": [
+      "Calling it always physical table",
+      "No query-based concept",
+      "No security use"
+    ],
+    "follow_up_questions": [
+      "Why do we use views?",
+      "Can a view be updated?"
+    ]
+  },
+  {
+    "id": "TCS045",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Medium",
+    "question_text": "What is a stored procedure?",
+    "what_interviewer_is_looking_for": "Saved SQL code that can be reused.",
+    "sample_strong_answer": "A stored procedure is a pre-written set of SQL statements stored in the database and executed when needed.",
+    "common_mistakes_to_avoid": [
+      "No reuse point",
+      "Confusing with function",
+      "No database storage concept"
+    ],
+    "follow_up_questions": [
+      "Why use stored procedures?",
+      "Stored procedure vs function?"
+    ]
+  },
+  {
+    "id": "TCS046",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Medium",
+    "question_text": "What is ACID property?",
+    "what_interviewer_is_looking_for": "Transaction reliability: Atomicity, Consistency, Isolation, Durability.",
+    "sample_strong_answer": "ACID properties ensure reliable database transactions. They stand for Atomicity, Consistency, Isolation, and Durability.",
+    "common_mistakes_to_avoid": [
+      "Only listing letters",
+      "No transaction context",
+      "Missing properties"
+    ],
+    "follow_up_questions": [
+      "Explain atomicity.",
+      "Why is ACID important?"
+    ]
+  },
+  {
+    "id": "TCS047",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Medium",
+    "question_text": "What is transaction in DBMS?",
+    "what_interviewer_is_looking_for": "Single logical unit of work.",
+    "sample_strong_answer": "A transaction is a set of database operations performed as a single logical unit. It should either complete fully or fail completely.",
+    "common_mistakes_to_avoid": [
+      "No unit of work point",
+      "No commit/rollback mention",
+      "Confusing with query"
+    ],
+    "follow_up_questions": [
+      "What is commit?",
+      "What is rollback?"
+    ]
+  },
+  {
+    "id": "TCS048",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Easy",
+    "question_text": "What is data redundancy?",
+    "what_interviewer_is_looking_for": "Duplicate or repeated data.",
+    "sample_strong_answer": "Data redundancy means unnecessary duplication of data in a database. It can cause storage waste and inconsistency.",
+    "common_mistakes_to_avoid": [
+      "Only saying duplicate",
+      "No problem explanation",
+      "No storage/inconsistency point"
+    ],
+    "follow_up_questions": [
+      "How can redundancy be reduced?",
+      "Why is redundancy harmful?"
+    ]
+  },
+  {
+    "id": "TCS049",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Medium",
+    "question_text": "What is data integrity?",
+    "what_interviewer_is_looking_for": "Accuracy and consistency of data.",
+    "sample_strong_answer": "Data integrity means maintaining accurate, consistent, and reliable data throughout its lifecycle.",
+    "common_mistakes_to_avoid": [
+      "Saying only security",
+      "No accuracy point",
+      "No consistency point"
+    ],
+    "follow_up_questions": [
+      "How do constraints help integrity?",
+      "What are examples of integrity constraints?"
+    ]
+  },
+  {
+    "id": "TCS050",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Easy",
+    "question_text": "What is an operating system?",
+    "what_interviewer_is_looking_for": "OS as interface between user and hardware.",
+    "sample_strong_answer": "An operating system is system software that manages hardware resources and provides services for application programs. It acts as an interface between user and hardware.",
+    "common_mistakes_to_avoid": [
+      "Only saying Windows",
+      "No hardware management",
+      "No interface point"
+    ],
+    "follow_up_questions": [
+      "Examples of operating systems?",
+      "What are OS functions?"
+    ]
+  },
+  {
+    "id": "TCS051",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Easy",
+    "question_text": "What are the main functions of an operating system?",
+    "what_interviewer_is_looking_for": "Process, memory, file, device, and security management.",
+    "sample_strong_answer": "Main functions of an OS include process management, memory management, file management, device management, and security.",
+    "common_mistakes_to_avoid": [
+      "Only listing one function",
+      "No resource management point",
+      "Too vague"
+    ],
+    "follow_up_questions": [
+      "What is memory management?",
+      "What is process management?"
+    ]
+  },
+  {
+    "id": "TCS052",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Easy",
+    "question_text": "What is a process?",
+    "what_interviewer_is_looking_for": "Program in execution.",
+    "sample_strong_answer": "A process is a program in execution. It has its own memory space, resources, and execution state.",
+    "common_mistakes_to_avoid": [
+      "Saying process is only program",
+      "No execution point",
+      "No resource point"
+    ],
+    "follow_up_questions": [
+      "Difference between process and program?",
+      "What are process states?"
+    ]
+  },
+  {
+    "id": "TCS053",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Medium",
+    "question_text": "What is a thread?",
+    "what_interviewer_is_looking_for": "Lightweight unit of execution within a process.",
+    "sample_strong_answer": "A thread is the smallest unit of execution within a process. Multiple threads can share the same process resources.",
+    "common_mistakes_to_avoid": [
+      "Confusing thread with process",
+      "No sharing point",
+      "No execution unit"
+    ],
+    "follow_up_questions": [
+      "Difference between process and thread?",
+      "Why use multithreading?"
+    ]
+  },
+  {
+    "id": "TCS054",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Easy",
+    "question_text": "What is multitasking?",
+    "what_interviewer_is_looking_for": "Running multiple tasks apparently at same time.",
+    "sample_strong_answer": "Multitasking is the ability of an operating system to run multiple tasks or processes at the same time by sharing CPU time.",
+    "common_mistakes_to_avoid": [
+      "No CPU sharing point",
+      "Confusing with multiprocessing",
+      "Too vague"
+    ],
+    "follow_up_questions": [
+      "How does OS manage multitasking?",
+      "What is context switching?"
+    ]
+  },
+  {
+    "id": "TCS055",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Medium",
+    "question_text": "What is multiprocessing?",
+    "what_interviewer_is_looking_for": "Using multiple CPUs/processors for execution.",
+    "sample_strong_answer": "Multiprocessing means using two or more processors or CPU cores to execute processes simultaneously.",
+    "common_mistakes_to_avoid": [
+      "Confusing with multitasking",
+      "No multiple CPU point",
+      "No parallel execution"
+    ],
+    "follow_up_questions": [
+      "Difference between multitasking and multiprocessing?",
+      "Where is multiprocessing useful?"
+    ]
+  },
+  {
+    "id": "TCS056",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Medium",
+    "question_text": "What is context switching?",
+    "what_interviewer_is_looking_for": "CPU switching from one process/thread to another.",
+    "sample_strong_answer": "Context switching is the process of saving the state of a running process and loading the state of another process so the CPU can switch execution.",
+    "common_mistakes_to_avoid": [
+      "No saving state point",
+      "No CPU switch explanation",
+      "Confusing with scheduling"
+    ],
+    "follow_up_questions": [
+      "Why is context switching needed?",
+      "Is context switching costly?"
+    ]
+  },
+  {
+    "id": "TCS057",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Medium",
+    "question_text": "What is CPU scheduling?",
+    "what_interviewer_is_looking_for": "Selecting process for CPU execution.",
+    "sample_strong_answer": "CPU scheduling is the method used by the operating system to decide which process gets the CPU next.",
+    "common_mistakes_to_avoid": [
+      "No process selection point",
+      "Confusing with memory management",
+      "No scheduler mention"
+    ],
+    "follow_up_questions": [
+      "Name CPU scheduling algorithms.",
+      "What is FCFS?"
+    ]
+  },
+  {
+    "id": "TCS058",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Easy",
+    "question_text": "What is FCFS scheduling?",
+    "what_interviewer_is_looking_for": "First Come First Served scheduling.",
+    "sample_strong_answer": "FCFS scheduling executes processes in the order they arrive. It is simple but can cause long waiting time.",
+    "common_mistakes_to_avoid": [
+      "No arrival order point",
+      "No disadvantage",
+      "Confusing with SJF"
+    ],
+    "follow_up_questions": [
+      "What is convoy effect?",
+      "Is FCFS preemptive?"
+    ]
+  },
+  {
+    "id": "TCS059",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Medium",
+    "question_text": "What is Round Robin scheduling?",
+    "what_interviewer_is_looking_for": "Time quantum based scheduling.",
+    "sample_strong_answer": "Round Robin scheduling gives each process a fixed time quantum. After the time expires, the process goes back to the ready queue if not completed.",
+    "common_mistakes_to_avoid": [
+      "No time quantum point",
+      "Confusing with FCFS",
+      "No ready queue concept"
+    ],
+    "follow_up_questions": [
+      "Where is Round Robin used?",
+      "What happens if time quantum is too small?"
+    ]
+  },
+  {
+    "id": "TCS060",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Medium",
+    "question_text": "What is deadlock?",
+    "what_interviewer_is_looking_for": "Processes waiting forever for resources.",
+    "sample_strong_answer": "Deadlock is a situation where two or more processes wait indefinitely for resources held by each other.",
+    "common_mistakes_to_avoid": [
+      "Only saying system stuck",
+      "No resource waiting point",
+      "No multiple process concept"
+    ],
+    "follow_up_questions": [
+      "What are deadlock conditions?",
+      "How can deadlock be prevented?"
+    ]
+  },
+  {
+    "id": "TCS061",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Hard",
+    "question_text": "What are the necessary conditions for deadlock?",
+    "what_interviewer_is_looking_for": "Mutual exclusion, hold and wait, no preemption, circular wait.",
+    "sample_strong_answer": "The four necessary conditions for deadlock are mutual exclusion, hold and wait, no preemption, and circular wait.",
+    "common_mistakes_to_avoid": [
+      "Missing conditions",
+      "No explanation",
+      "Wrong terms"
+    ],
+    "follow_up_questions": [
+      "Explain circular wait.",
+      "Which condition can be removed to prevent deadlock?"
+    ]
+  },
+  {
+    "id": "TCS062",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Medium",
+    "question_text": "What is memory management?",
+    "what_interviewer_is_looking_for": "Managing main memory allocation and deallocation.",
+    "sample_strong_answer": "Memory management is the OS function that manages allocation and deallocation of main memory to processes.",
+    "common_mistakes_to_avoid": [
+      "No allocation point",
+      "Confusing with storage",
+      "No process relation"
+    ],
+    "follow_up_questions": [
+      "What is virtual memory?",
+      "What is paging?"
+    ]
+  },
+  {
+    "id": "TCS063",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Medium",
+    "question_text": "What is virtual memory?",
+    "what_interviewer_is_looking_for": "Using secondary storage as extension of RAM.",
+    "sample_strong_answer": "Virtual memory is a memory management technique that uses disk space as an extension of RAM, allowing larger programs to run.",
+    "common_mistakes_to_avoid": [
+      "Saying it is physical RAM",
+      "No disk/RAM concept",
+      "No benefit"
+    ],
+    "follow_up_questions": [
+      "Why is virtual memory useful?",
+      "What is page fault?"
+    ]
+  },
+  {
+    "id": "TCS064",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Medium",
+    "question_text": "What is paging?",
+    "what_interviewer_is_looking_for": "Dividing memory into fixed-size pages/frames.",
+    "sample_strong_answer": "Paging is a memory management technique where logical memory is divided into pages and physical memory into frames.",
+    "common_mistakes_to_avoid": [
+      "No page/frame concept",
+      "Confusing with segmentation",
+      "No fixed size point"
+    ],
+    "follow_up_questions": [
+      "What is page fault?",
+      "Paging vs segmentation?"
+    ]
+  },
+  {
+    "id": "TCS065",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Medium",
+    "question_text": "What is segmentation?",
+    "what_interviewer_is_looking_for": "Dividing memory into variable-sized logical segments.",
+    "sample_strong_answer": "Segmentation divides memory into logical variable-sized segments such as code, data, and stack.",
+    "common_mistakes_to_avoid": [
+      "Confusing with paging",
+      "No logical segment point",
+      "No variable size"
+    ],
+    "follow_up_questions": [
+      "Difference between paging and segmentation?",
+      "What are examples of segments?"
+    ]
+  },
+  {
+    "id": "TCS066",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Medium",
+    "question_text": "What is a page fault?",
+    "what_interviewer_is_looking_for": "Requested page not present in main memory.",
+    "sample_strong_answer": "A page fault occurs when a program tries to access a page that is not currently present in main memory.",
+    "common_mistakes_to_avoid": [
+      "Confusing with syntax error",
+      "No memory access point",
+      "No page loading"
+    ],
+    "follow_up_questions": [
+      "How does OS handle page fault?",
+      "Is page fault always bad?"
+    ]
+  },
+  {
+    "id": "TCS067",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Easy",
+    "question_text": "What is a file system?",
+    "what_interviewer_is_looking_for": "Method to store and organize files.",
+    "sample_strong_answer": "A file system is a method used by the operating system to store, organize, retrieve, and manage files on storage devices.",
+    "common_mistakes_to_avoid": [
+      "Only saying folder",
+      "No storage organization",
+      "No OS role"
+    ],
+    "follow_up_questions": [
+      "Examples of file systems?",
+      "Why do we need file systems?"
+    ]
+  },
+  {
+    "id": "TCS068",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Easy",
+    "question_text": "What is cache memory?",
+    "what_interviewer_is_looking_for": "Small fast memory near CPU.",
+    "sample_strong_answer": "Cache memory is a small and fast memory located close to the CPU that stores frequently used data for faster access.",
+    "common_mistakes_to_avoid": [
+      "Saying cache is main memory",
+      "No speed point",
+      "No CPU relation"
+    ],
+    "follow_up_questions": [
+      "Why is cache memory used?",
+      "Difference between cache and RAM?"
+    ]
+  },
+  {
+    "id": "TCS069",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Medium",
+    "question_text": "What is a system call?",
+    "what_interviewer_is_looking_for": "Interface for program to request OS services.",
+    "sample_strong_answer": "A system call is a way for a program to request services from the operating system, such as file access or process creation.",
+    "common_mistakes_to_avoid": [
+      "No OS service point",
+      "Confusing with function call",
+      "No user-kernel interaction"
+    ],
+    "follow_up_questions": [
+      "Give examples of system calls.",
+      "Why are system calls needed?"
+    ]
+  },
+  {
+    "id": "TCS070",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Easy",
+    "question_text": "What is a computer network?",
+    "what_interviewer_is_looking_for": "Connected devices sharing data/resources.",
+    "sample_strong_answer": "A computer network is a group of connected devices that can communicate and share data or resources.",
+    "common_mistakes_to_avoid": [
+      "Only saying internet",
+      "No connected devices point",
+      "No resource sharing"
+    ],
+    "follow_up_questions": [
+      "What are types of networks?",
+      "Why are networks used?"
+    ]
+  },
+  {
+    "id": "TCS071",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Easy",
+    "question_text": "What is LAN?",
+    "what_interviewer_is_looking_for": "Local Area Network in small area.",
+    "sample_strong_answer": "LAN stands for Local Area Network. It connects devices within a small area such as a home, office, or college.",
+    "common_mistakes_to_avoid": [
+      "Confusing with WAN",
+      "No small area point",
+      "No example"
+    ],
+    "follow_up_questions": [
+      "Where is LAN used?",
+      "Difference between LAN and WAN?"
+    ]
+  },
+  {
+    "id": "TCS072",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Easy",
+    "question_text": "What is WAN?",
+    "what_interviewer_is_looking_for": "Wide Area Network across large geography.",
+    "sample_strong_answer": "WAN stands for Wide Area Network. It connects networks across large geographical areas, such as cities or countries.",
+    "common_mistakes_to_avoid": [
+      "Confusing with LAN",
+      "No large area point",
+      "No example"
+    ],
+    "follow_up_questions": [
+      "Is the Internet a WAN?",
+      "Difference between WAN and MAN?"
+    ]
+  },
+  {
+    "id": "TCS073",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Medium",
+    "question_text": "What is the OSI model?",
+    "what_interviewer_is_looking_for": "Seven-layer network reference model.",
+    "sample_strong_answer": "The OSI model is a seven-layer reference model that explains how data communication happens in networks.",
+    "common_mistakes_to_avoid": [
+      "Not knowing layers",
+      "No communication purpose",
+      "Confusing with TCP/IP"
+    ],
+    "follow_up_questions": [
+      "Name the seven OSI layers.",
+      "Why is OSI model used?"
+    ]
+  },
+  {
+    "id": "TCS074",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Medium",
+    "question_text": "Name the seven layers of OSI model.",
+    "what_interviewer_is_looking_for": "Correct OSI layer order.",
+    "sample_strong_answer": "The seven OSI layers are Physical, Data Link, Network, Transport, Session, Presentation, and Application.",
+    "common_mistakes_to_avoid": [
+      "Wrong order",
+      "Missing layers",
+      "Adding TCP/IP layers"
+    ],
+    "follow_up_questions": [
+      "Which layer handles routing?",
+      "Which layer handles end-to-end delivery?"
+    ]
+  },
+  {
+    "id": "TCS075",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Medium",
+    "question_text": "What is TCP/IP model?",
+    "what_interviewer_is_looking_for": "Practical internet protocol suite model.",
+    "sample_strong_answer": "The TCP/IP model is a networking model used for internet communication. It includes layers such as network access, internet, transport, and application.",
+    "common_mistakes_to_avoid": [
+      "Confusing with OSI",
+      "No internet communication point",
+      "Wrong layers"
+    ],
+    "follow_up_questions": [
+      "Difference between OSI and TCP/IP?",
+      "Which protocols use TCP/IP?"
+    ]
+  },
+  {
+    "id": "TCS076",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Easy",
+    "question_text": "What is IP address?",
+    "what_interviewer_is_looking_for": "Unique logical address of device in network.",
+    "sample_strong_answer": "An IP address is a unique logical address assigned to a device on a network to identify and communicate with it.",
+    "common_mistakes_to_avoid": [
+      "Saying only number",
+      "No device identification",
+      "No communication point"
+    ],
+    "follow_up_questions": [
+      "What is IPv4?",
+      "Difference between public and private IP?"
+    ]
+  },
+  {
+    "id": "TCS077",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Medium",
+    "question_text": "What is MAC address?",
+    "what_interviewer_is_looking_for": "Physical hardware address of network device.",
+    "sample_strong_answer": "A MAC address is a unique hardware address assigned to a network interface card. It is used for communication within a local network.",
+    "common_mistakes_to_avoid": [
+      "Confusing with IP address",
+      "No hardware point",
+      "No local network use"
+    ],
+    "follow_up_questions": [
+      "Difference between MAC and IP address?",
+      "Can MAC address change?"
+    ]
+  },
+  {
+    "id": "TCS078",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Easy",
+    "question_text": "What is DNS?",
+    "what_interviewer_is_looking_for": "Domain name to IP address translation.",
+    "sample_strong_answer": "DNS stands for Domain Name System. It translates domain names like google.com into IP addresses.",
+    "common_mistakes_to_avoid": [
+      "Only expanding DNS",
+      "No translation point",
+      "No domain example"
+    ],
+    "follow_up_questions": [
+      "Why is DNS needed?",
+      "What happens if DNS fails?"
+    ]
+  },
+  {
+    "id": "TCS079",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Easy",
+    "question_text": "What is HTTP?",
+    "what_interviewer_is_looking_for": "Protocol for web communication.",
+    "sample_strong_answer": "HTTP stands for HyperText Transfer Protocol. It is used for communication between web browsers and web servers.",
+    "common_mistakes_to_avoid": [
+      "Confusing with HTML",
+      "No client-server point",
+      "No web communication"
+    ],
+    "follow_up_questions": [
+      "What is HTTPS?",
+      "Difference between HTTP and HTTPS?"
+    ]
+  },
+  {
+    "id": "TCS080",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Easy",
+    "question_text": "What is HTTPS?",
+    "what_interviewer_is_looking_for": "Secure version of HTTP.",
+    "sample_strong_answer": "HTTPS is the secure version of HTTP. It uses encryption to protect data transferred between browser and server.",
+    "common_mistakes_to_avoid": [
+      "Saying it is same as HTTP",
+      "No security point",
+      "No encryption"
+    ],
+    "follow_up_questions": [
+      "Why is HTTPS important?",
+      "What is SSL/TLS?"
+    ]
+  },
+  {
+    "id": "TCS081",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Medium",
+    "question_text": "What is TCP?",
+    "what_interviewer_is_looking_for": "Reliable connection-oriented transport protocol.",
+    "sample_strong_answer": "TCP is a connection-oriented protocol that provides reliable data delivery with error checking and ordering.",
+    "common_mistakes_to_avoid": [
+      "No reliability point",
+      "Confusing with UDP",
+      "No connection-oriented mention"
+    ],
+    "follow_up_questions": [
+      "Difference between TCP and UDP?",
+      "Where is TCP used?"
+    ]
+  },
+  {
+    "id": "TCS082",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Medium",
+    "question_text": "What is UDP?",
+    "what_interviewer_is_looking_for": "Connectionless faster protocol.",
+    "sample_strong_answer": "UDP is a connectionless protocol that sends data quickly but does not guarantee delivery, ordering, or error recovery.",
+    "common_mistakes_to_avoid": [
+      "Saying UDP is reliable",
+      "No speed point",
+      "Confusing with TCP"
+    ],
+    "follow_up_questions": [
+      "Where is UDP used?",
+      "Why is UDP faster than TCP?"
+    ]
+  },
+  {
+    "id": "TCS083",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Medium",
+    "question_text": "Difference between TCP and UDP.",
+    "what_interviewer_is_looking_for": "Reliability, connection, speed, and use cases.",
+    "sample_strong_answer": "TCP is reliable, connection-oriented, and slower, while UDP is connectionless, faster, and does not guarantee delivery.",
+    "common_mistakes_to_avoid": [
+      "Only saying one is fast",
+      "No reliability point",
+      "No use cases"
+    ],
+    "follow_up_questions": [
+      "Which protocol is used for video streaming?",
+      "Which is used for file transfer?"
+    ]
+  },
+  {
+    "id": "TCS084",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Easy",
+    "question_text": "What is a router?",
+    "what_interviewer_is_looking_for": "Device that forwards packets between networks.",
+    "sample_strong_answer": "A router is a networking device that forwards data packets between different networks and helps connect devices to the internet.",
+    "common_mistakes_to_avoid": [
+      "Confusing with switch",
+      "No different network point",
+      "No packet forwarding"
+    ],
+    "follow_up_questions": [
+      "Difference between router and switch?",
+      "Why do we use routers?"
+    ]
+  },
+  {
+    "id": "TCS085",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Easy",
+    "question_text": "What is a switch?",
+    "what_interviewer_is_looking_for": "Device connecting devices in LAN.",
+    "sample_strong_answer": "A switch connects multiple devices in a local network and forwards data to the correct device using MAC addresses.",
+    "common_mistakes_to_avoid": [
+      "Confusing with router",
+      "No LAN point",
+      "No MAC address use"
+    ],
+    "follow_up_questions": [
+      "Difference between hub and switch?",
+      "Which address does switch use?"
+    ]
+  },
+  {
+    "id": "TCS086",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Medium",
+    "question_text": "What is a firewall?",
+    "what_interviewer_is_looking_for": "Security system controlling network traffic.",
+    "sample_strong_answer": "A firewall is a network security system that monitors and controls incoming and outgoing traffic based on security rules.",
+    "common_mistakes_to_avoid": [
+      "Only saying antivirus",
+      "No traffic filtering",
+      "No security rule"
+    ],
+    "follow_up_questions": [
+      "Why is firewall needed?",
+      "Types of firewalls?"
+    ]
+  },
+  {
+    "id": "TCS087",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Easy",
+    "question_text": "What is bandwidth?",
+    "what_interviewer_is_looking_for": "Maximum data transfer capacity.",
+    "sample_strong_answer": "Bandwidth is the maximum amount of data that can be transmitted over a network in a given time.",
+    "common_mistakes_to_avoid": [
+      "Confusing with speed only",
+      "No data capacity point",
+      "No unit mention"
+    ],
+    "follow_up_questions": [
+      "How is bandwidth measured?",
+      "Bandwidth vs latency?"
+    ]
+  },
+  {
+    "id": "TCS088",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Easy",
+    "question_text": "What is latency?",
+    "what_interviewer_is_looking_for": "Delay in data transmission.",
+    "sample_strong_answer": "Latency is the time delay between sending a request and receiving a response over a network.",
+    "common_mistakes_to_avoid": [
+      "Confusing with bandwidth",
+      "No delay point",
+      "No request-response"
+    ],
+    "follow_up_questions": [
+      "How can latency affect applications?",
+      "Latency vs bandwidth?"
+    ]
+  },
+  {
+    "id": "TCS089",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Medium",
+    "question_text": "What is packet switching?",
+    "what_interviewer_is_looking_for": "Data divided into packets for transmission.",
+    "sample_strong_answer": "Packet switching is a method where data is divided into small packets and sent independently across a network.",
+    "common_mistakes_to_avoid": [
+      "No packet concept",
+      "Confusing with circuit switching",
+      "No independent path point"
+    ],
+    "follow_up_questions": [
+      "Why is packet switching used?",
+      "Packet switching vs circuit switching?"
+    ]
+  },
+  {
+    "id": "TCS090",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Easy",
+    "question_text": "What is a data structure?",
+    "what_interviewer_is_looking_for": "Way to organize and store data.",
+    "sample_strong_answer": "A data structure is a way of organizing and storing data so it can be accessed and modified efficiently.",
+    "common_mistakes_to_avoid": [
+      "Only saying stores data",
+      "No organization point",
+      "No efficiency"
+    ],
+    "follow_up_questions": [
+      "Give examples of data structures.",
+      "Why are data structures important?"
+    ]
+  },
+  {
+    "id": "TCS091",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Easy",
+    "question_text": "What is an array?",
+    "what_interviewer_is_looking_for": "Collection of same type elements stored contiguously.",
+    "sample_strong_answer": "An array is a collection of elements stored in contiguous memory locations and accessed using index positions.",
+    "common_mistakes_to_avoid": [
+      "No index concept",
+      "No contiguous memory point",
+      "Confusing with linked list"
+    ],
+    "follow_up_questions": [
+      "What is array indexing?",
+      "Advantages of arrays?"
+    ]
+  },
+  {
+    "id": "TCS092",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Medium",
+    "question_text": "What is a linked list?",
+    "what_interviewer_is_looking_for": "Linear structure with nodes connected by pointers.",
+    "sample_strong_answer": "A linked list is a linear data structure where elements are stored in nodes, and each node points to the next node.",
+    "common_mistakes_to_avoid": [
+      "No node concept",
+      "No pointer/reference point",
+      "Confusing with array"
+    ],
+    "follow_up_questions": [
+      "Array vs linked list?",
+      "Types of linked list?"
+    ]
+  },
+  {
+    "id": "TCS093",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Easy",
+    "question_text": "What is a stack?",
+    "what_interviewer_is_looking_for": "LIFO data structure.",
+    "sample_strong_answer": "A stack is a linear data structure that follows LIFO, meaning Last In First Out. Insert and delete operations happen at the top.",
+    "common_mistakes_to_avoid": [
+      "No LIFO point",
+      "Confusing with queue",
+      "No top concept"
+    ],
+    "follow_up_questions": [
+      "What are push and pop?",
+      "Applications of stack?"
+    ]
+  },
+  {
+    "id": "TCS094",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Easy",
+    "question_text": "What is a queue?",
+    "what_interviewer_is_looking_for": "FIFO data structure.",
+    "sample_strong_answer": "A queue is a linear data structure that follows FIFO, meaning First In First Out. Insertion happens at rear and deletion at front.",
+    "common_mistakes_to_avoid": [
+      "No FIFO point",
+      "Confusing with stack",
+      "No front/rear concept"
+    ],
+    "follow_up_questions": [
+      "What are enqueue and dequeue?",
+      "Applications of queue?"
+    ]
+  },
+  {
+    "id": "TCS095",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Medium",
+    "question_text": "What is a tree?",
+    "what_interviewer_is_looking_for": "Hierarchical data structure.",
+    "sample_strong_answer": "A tree is a hierarchical data structure made of nodes, with one root node and child nodes.",
+    "common_mistakes_to_avoid": [
+      "No hierarchy point",
+      "Confusing with graph",
+      "No root concept"
+    ],
+    "follow_up_questions": [
+      "What is root node?",
+      "What is binary tree?"
+    ]
+  },
+  {
+    "id": "TCS096",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Medium",
+    "question_text": "What is a binary tree?",
+    "what_interviewer_is_looking_for": "Tree where each node has at most two children.",
+    "sample_strong_answer": "A binary tree is a tree data structure where each node can have at most two children, usually called left and right child.",
+    "common_mistakes_to_avoid": [
+      "Saying exactly two children always",
+      "No left/right point",
+      "Confusing with BST"
+    ],
+    "follow_up_questions": [
+      "What is binary search tree?",
+      "Applications of binary tree?"
+    ]
+  },
+  {
+    "id": "TCS097",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Medium",
+    "question_text": "What is a binary search tree?",
+    "what_interviewer_is_looking_for": "Binary tree with ordered left and right subtrees.",
+    "sample_strong_answer": "A binary search tree is a binary tree where the left child has smaller values and the right child has greater values than the root.",
+    "common_mistakes_to_avoid": [
+      "Confusing with binary tree",
+      "No ordering property",
+      "Wrong left/right rule"
+    ],
+    "follow_up_questions": [
+      "Why is BST useful?",
+      "What is BST search complexity?"
+    ]
+  },
+  {
+    "id": "TCS098",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Medium",
+    "question_text": "What is a graph?",
+    "what_interviewer_is_looking_for": "Nodes and edges data structure.",
+    "sample_strong_answer": "A graph is a data structure made of vertices and edges, used to represent relationships between objects.",
+    "common_mistakes_to_avoid": [
+      "No vertices/edges",
+      "Confusing with tree",
+      "No relationship point"
+    ],
+    "follow_up_questions": [
+      "Directed vs undirected graph?",
+      "Applications of graphs?"
+    ]
+  },
+  {
+    "id": "TCS099",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Medium",
+    "question_text": "What is hashing?",
+    "what_interviewer_is_looking_for": "Mapping keys to values using hash function.",
+    "sample_strong_answer": "Hashing is a technique that uses a hash function to map keys to indexes for fast data storage and retrieval.",
+    "common_mistakes_to_avoid": [
+      "No hash function point",
+      "No fast lookup",
+      "Confusing with encryption"
+    ],
+    "follow_up_questions": [
+      "What is collision?",
+      "Why is hashing fast?"
+    ]
+  },
+  {
+    "id": "TCS100",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Easy",
+    "question_text": "What is time complexity?",
+    "what_interviewer_is_looking_for": "How algorithm running time grows with input size.",
+    "sample_strong_answer": "Time complexity describes how the running time of an algorithm increases as the input size grows.",
+    "common_mistakes_to_avoid": [
+      "Saying actual time only",
+      "No input size concept",
+      "No Big O mention"
+    ],
+    "follow_up_questions": [
+      "What is Big O notation?",
+      "Why is time complexity important?"
+    ]
+  },
+  {
+    "id": "TCS101",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Easy",
+    "question_text": "What is space complexity?",
+    "what_interviewer_is_looking_for": "Memory used by an algorithm based on input size.",
+    "sample_strong_answer": "Space complexity describes how much memory an algorithm uses as input size increases.",
+    "common_mistakes_to_avoid": [
+      "Confusing with time complexity",
+      "No memory point",
+      "No input size"
+    ],
+    "follow_up_questions": [
+      "Why is space complexity important?",
+      "Can time and space be traded off?"
+    ]
+  },
+  {
+    "id": "TCS102",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Medium",
+    "question_text": "What is Big O notation?",
+    "what_interviewer_is_looking_for": "Worst-case growth representation.",
+    "sample_strong_answer": "Big O notation is used to represent the growth rate of an algorithm's time or space complexity, usually in worst-case terms.",
+    "common_mistakes_to_avoid": [
+      "No growth rate",
+      "No algorithm analysis point",
+      "Only saying formula"
+    ],
+    "follow_up_questions": [
+      "What is O(1)?",
+      "What is O(n)?"
+    ]
+  },
+  {
+    "id": "TCS103",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Easy",
+    "question_text": "What is linear search?",
+    "what_interviewer_is_looking_for": "Searching elements one by one.",
+    "sample_strong_answer": "Linear search checks each element one by one until the target element is found or the list ends.",
+    "common_mistakes_to_avoid": [
+      "No sequential checking",
+      "Confusing with binary search",
+      "No complexity"
+    ],
+    "follow_up_questions": [
+      "What is its time complexity?",
+      "When is linear search useful?"
+    ]
+  },
+  {
+    "id": "TCS104",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Medium",
+    "question_text": "What is binary search?",
+    "what_interviewer_is_looking_for": "Search algorithm on sorted data by dividing range.",
+    "sample_strong_answer": "Binary search is an efficient searching algorithm that works on sorted data by repeatedly dividing the search range into halves.",
+    "common_mistakes_to_avoid": [
+      "Forgetting sorted requirement",
+      "No half division",
+      "Confusing with linear search"
+    ],
+    "follow_up_questions": [
+      "What is binary search complexity?",
+      "Why must data be sorted?"
+    ]
+  },
+  {
+    "id": "TCS105",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Easy",
+    "question_text": "What is bubble sort?",
+    "what_interviewer_is_looking_for": "Sorting by repeatedly swapping adjacent elements.",
+    "sample_strong_answer": "Bubble sort repeatedly compares adjacent elements and swaps them if they are in the wrong order until the list becomes sorted.",
+    "common_mistakes_to_avoid": [
+      "No adjacent comparison",
+      "No swapping point",
+      "Wrong complexity"
+    ],
+    "follow_up_questions": [
+      "What is bubble sort complexity?",
+      "Is bubble sort efficient?"
+    ]
+  },
+  {
+    "id": "TCS106",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Medium",
+    "question_text": "What is merge sort?",
+    "what_interviewer_is_looking_for": "Divide and conquer sorting algorithm.",
+    "sample_strong_answer": "Merge sort is a divide-and-conquer algorithm that divides an array into smaller parts, sorts them, and merges them back.",
+    "common_mistakes_to_avoid": [
+      "No divide and conquer",
+      "No merge step",
+      "Confusing with quick sort"
+    ],
+    "follow_up_questions": [
+      "What is merge sort complexity?",
+      "Is merge sort stable?"
+    ]
+  },
+  {
+    "id": "TCS107",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Medium",
+    "question_text": "What is quick sort?",
+    "what_interviewer_is_looking_for": "Divide and conquer using pivot.",
+    "sample_strong_answer": "Quick sort is a divide-and-conquer sorting algorithm that selects a pivot and partitions elements around it.",
+    "common_mistakes_to_avoid": [
+      "No pivot concept",
+      "No partition",
+      "Confusing with merge sort"
+    ],
+    "follow_up_questions": [
+      "What is quick sort average complexity?",
+      "Worst case of quick sort?"
+    ]
+  },
+  {
+    "id": "TCS108",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Medium",
+    "question_text": "What is recursion?",
+    "what_interviewer_is_looking_for": "Function calling itself with base condition.",
+    "sample_strong_answer": "Recursion is a technique where a function calls itself to solve smaller parts of a problem. It must have a base condition to stop.",
+    "common_mistakes_to_avoid": [
+      "No base condition",
+      "Infinite recursion risk ignored",
+      "Confusing with loop"
+    ],
+    "follow_up_questions": [
+      "What is base case?",
+      "Recursion vs iteration?"
+    ]
+  },
+  {
+    "id": "TCS109",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Hard",
+    "question_text": "What is dynamic programming?",
+    "what_interviewer_is_looking_for": "Solving problems by storing overlapping subproblem results.",
+    "sample_strong_answer": "Dynamic programming is a technique used to solve problems by breaking them into overlapping subproblems and storing results to avoid repeated work.",
+    "common_mistakes_to_avoid": [
+      "No overlapping subproblem point",
+      "Confusing with recursion only",
+      "No memoization/tabulation"
+    ],
+    "follow_up_questions": [
+      "What is memoization?",
+      "When do we use DP?"
+    ]
+  },
+  {
+    "id": "TCS110",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Easy",
+    "question_text": "What is Python?",
+    "what_interviewer_is_looking_for": "High-level interpreted language and common uses.",
+    "sample_strong_answer": "Python is a high-level, interpreted programming language known for simple syntax and wide use in web development, data analysis, automation, and AI.",
+    "common_mistakes_to_avoid": [
+      "Only saying programming language",
+      "No interpreted/simple syntax point",
+      "No use cases"
+    ],
+    "follow_up_questions": [
+      "Why is Python popular?",
+      "Is Python compiled or interpreted?"
+    ]
+  },
+  {
+    "id": "TCS111",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Easy",
+    "question_text": "What are Python lists?",
+    "what_interviewer_is_looking_for": "Ordered mutable collection.",
+    "sample_strong_answer": "A list in Python is an ordered and mutable collection that can store multiple items, including different data types.",
+    "common_mistakes_to_avoid": [
+      "No mutable point",
+      "Confusing with tuple",
+      "No ordered point"
+    ],
+    "follow_up_questions": [
+      "Difference between list and tuple?",
+      "How do you add elements to a list?"
+    ]
+  },
+  {
+    "id": "TCS112",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Easy",
+    "question_text": "What is a tuple in Python?",
+    "what_interviewer_is_looking_for": "Ordered immutable collection.",
+    "sample_strong_answer": "A tuple is an ordered collection in Python that cannot be changed after creation.",
+    "common_mistakes_to_avoid": [
+      "No immutable point",
+      "Confusing with list",
+      "No ordered point"
+    ],
+    "follow_up_questions": [
+      "Tuple vs list?",
+      "When do you use tuple?"
+    ]
+  },
+  {
+    "id": "TCS113",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Easy",
+    "question_text": "What is a dictionary in Python?",
+    "what_interviewer_is_looking_for": "Key-value pair collection.",
+    "sample_strong_answer": "A dictionary in Python stores data in key-value pairs. It is useful for fast lookup using keys.",
+    "common_mistakes_to_avoid": [
+      "No key-value point",
+      "Confusing with list",
+      "No lookup point"
+    ],
+    "follow_up_questions": [
+      "How do you access dictionary values?",
+      "Can dictionary keys be duplicated?"
+    ]
+  },
+  {
+    "id": "TCS114",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Easy",
+    "question_text": "What is a function?",
+    "what_interviewer_is_looking_for": "Reusable block of code.",
+    "sample_strong_answer": "A function is a reusable block of code that performs a specific task. It helps reduce repetition and improves code organization.",
+    "common_mistakes_to_avoid": [
+      "Only saying code block",
+      "No reusability",
+      "No specific task"
+    ],
+    "follow_up_questions": [
+      "Why do we use functions?",
+      "What are parameters?"
+    ]
+  },
+  {
+    "id": "TCS115",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Easy",
+    "question_text": "What is a variable?",
+    "what_interviewer_is_looking_for": "Named storage for data.",
+    "sample_strong_answer": "A variable is a named memory location used to store data values that can be used and changed in a program.",
+    "common_mistakes_to_avoid": [
+      "No storage point",
+      "Confusing with constant",
+      "No example"
+    ],
+    "follow_up_questions": [
+      "What are data types?",
+      "Can variable values change?"
+    ]
+  },
+  {
+    "id": "TCS116",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Easy",
+    "question_text": "What are data types?",
+    "what_interviewer_is_looking_for": "Classification of values.",
+    "sample_strong_answer": "Data types define the type of value a variable can store, such as integer, float, string, boolean, list, or dictionary.",
+    "common_mistakes_to_avoid": [
+      "No examples",
+      "Too vague",
+      "Confusing data type with variable"
+    ],
+    "follow_up_questions": [
+      "Give examples of data types.",
+      "Why are data types important?"
+    ]
+  },
+  {
+    "id": "TCS117",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Easy",
+    "question_text": "What is Java?",
+    "what_interviewer_is_looking_for": "Object-oriented platform-independent language.",
+    "sample_strong_answer": "Java is an object-oriented programming language known for platform independence because Java code runs on the JVM.",
+    "common_mistakes_to_avoid": [
+      "No JVM point",
+      "Only saying programming language",
+      "No OOP point"
+    ],
+    "follow_up_questions": [
+      "What is JVM?",
+      "Why is Java platform independent?"
+    ]
+  },
+  {
+    "id": "TCS118",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Medium",
+    "question_text": "What is JVM?",
+    "what_interviewer_is_looking_for": "Java Virtual Machine that runs bytecode.",
+    "sample_strong_answer": "JVM stands for Java Virtual Machine. It executes Java bytecode and helps Java achieve platform independence.",
+    "common_mistakes_to_avoid": [
+      "No bytecode point",
+      "Confusing with JDK",
+      "No execution role"
+    ],
+    "follow_up_questions": [
+      "JVM vs JDK?",
+      "What is bytecode?"
+    ]
+  },
+  {
+    "id": "TCS119",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Medium",
+    "question_text": "Difference between JDK, JRE, and JVM.",
+    "what_interviewer_is_looking_for": "Java development kit, runtime environment, and virtual machine.",
+    "sample_strong_answer": "JDK is used to develop Java programs, JRE provides runtime environment, and JVM executes Java bytecode.",
+    "common_mistakes_to_avoid": [
+      "Mixing definitions",
+      "No execution/development difference",
+      "Wrong expansion"
+    ],
+    "follow_up_questions": [
+      "Which one is needed to run Java programs?",
+      "Which one is needed to develop Java programs?"
+    ]
+  },
+  {
+    "id": "TCS120",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Easy",
+    "question_text": "What is Git?",
+    "what_interviewer_is_looking_for": "Version control system.",
+    "sample_strong_answer": "Git is a distributed version control system used to track changes in code and collaborate with others.",
+    "common_mistakes_to_avoid": [
+      "Saying GitHub only",
+      "No version control point",
+      "No tracking changes"
+    ],
+    "follow_up_questions": [
+      "Git vs GitHub?",
+      "Why is Git used?"
+    ]
+  },
+  {
+    "id": "TCS121",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Easy",
+    "question_text": "What is GitHub?",
+    "what_interviewer_is_looking_for": "Cloud platform for hosting Git repositories.",
+    "sample_strong_answer": "GitHub is an online platform used to host Git repositories, collaborate on projects, and manage code.",
+    "common_mistakes_to_avoid": [
+      "Confusing with Git",
+      "No hosting point",
+      "No collaboration point"
+    ],
+    "follow_up_questions": [
+      "Difference between Git and GitHub?",
+      "What is a repository?"
+    ]
+  },
+  {
+    "id": "TCS122",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Medium",
+    "question_text": "What is SDLC?",
+    "what_interviewer_is_looking_for": "Software Development Life Cycle phases.",
+    "sample_strong_answer": "SDLC stands for Software Development Life Cycle. It is a process followed to design, develop, test, deploy, and maintain software.",
+    "common_mistakes_to_avoid": [
+      "Only expanding SDLC",
+      "No phases",
+      "No software process point"
+    ],
+    "follow_up_questions": [
+      "Name SDLC phases.",
+      "Why is SDLC important?"
+    ]
+  },
+  {
+    "id": "TCS123",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Easy",
+    "question_text": "What is debugging?",
+    "what_interviewer_is_looking_for": "Finding and fixing errors in code.",
+    "sample_strong_answer": "Debugging is the process of finding, analyzing, and fixing errors or bugs in a program.",
+    "common_mistakes_to_avoid": [
+      "Only saying fixing",
+      "No finding/analyzing",
+      "No program error point"
+    ],
+    "follow_up_questions": [
+      "What tools help debugging?",
+      "How do you debug code?"
+    ]
+  },
+  {
+    "id": "TCS124",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Easy",
+    "question_text": "What is testing in software development?",
+    "what_interviewer_is_looking_for": "Checking software quality and correctness.",
+    "sample_strong_answer": "Testing is the process of checking whether software works as expected and meets requirements.",
+    "common_mistakes_to_avoid": [
+      "No requirement point",
+      "Only saying finding bugs",
+      "No quality point"
+    ],
+    "follow_up_questions": [
+      "Types of testing?",
+      "Why is testing important?"
+    ]
+  },
+  {
+    "id": "TCS125",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Medium",
+    "question_text": "What is unit testing?",
+    "what_interviewer_is_looking_for": "Testing individual components/functions.",
+    "sample_strong_answer": "Unit testing is testing small individual parts of a program, such as functions or methods, to ensure they work correctly.",
+    "common_mistakes_to_avoid": [
+      "No individual component point",
+      "Confusing with system testing",
+      "No function example"
+    ],
+    "follow_up_questions": [
+      "Why is unit testing useful?",
+      "Who writes unit tests?"
+    ]
+  },
+  {
+    "id": "TCS126",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Easy",
+    "question_text": "What is API?",
+    "what_interviewer_is_looking_for": "Interface for software communication.",
+    "sample_strong_answer": "API stands for Application Programming Interface. It allows two software applications to communicate with each other.",
+    "common_mistakes_to_avoid": [
+      "Only expanding API",
+      "No communication point",
+      "No example"
+    ],
+    "follow_up_questions": [
+      "What is REST API?",
+      "Where are APIs used?"
+    ]
+  },
+  {
+    "id": "TCS127",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Medium",
+    "question_text": "What is REST API?",
+    "what_interviewer_is_looking_for": "Web API style using HTTP methods.",
+    "sample_strong_answer": "A REST API is an API that follows REST principles and uses HTTP methods like GET, POST, PUT, and DELETE to access resources.",
+    "common_mistakes_to_avoid": [
+      "No HTTP methods",
+      "No resource concept",
+      "Confusing with normal website"
+    ],
+    "follow_up_questions": [
+      "What is GET method?",
+      "Difference between POST and PUT?"
+    ]
+  },
+  {
+    "id": "TCS128",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Easy",
+    "question_text": "What is JSON?",
+    "what_interviewer_is_looking_for": "Lightweight data exchange format.",
+    "sample_strong_answer": "JSON stands for JavaScript Object Notation. It is a lightweight format used to store and exchange data in key-value structure.",
+    "common_mistakes_to_avoid": [
+      "Only expanding JSON",
+      "No data exchange point",
+      "No key-value structure"
+    ],
+    "follow_up_questions": [
+      "Why is JSON used in APIs?",
+      "JSON vs XML?"
+    ]
+  },
+  {
+    "id": "TCS129",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Easy",
+    "question_text": "What is cybersecurity?",
+    "what_interviewer_is_looking_for": "Protecting systems and data from attacks.",
+    "sample_strong_answer": "Cybersecurity is the practice of protecting computers, networks, applications, and data from unauthorized access or attacks.",
+    "common_mistakes_to_avoid": [
+      "Only saying hacking",
+      "No protection point",
+      "No data security"
+    ],
+    "follow_up_questions": [
+      "Why is cybersecurity important?",
+      "What is phishing?"
+    ]
+  },
+  {
+    "id": "TCS130",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Medium",
+    "question_text": "What is authentication?",
+    "what_interviewer_is_looking_for": "Verifying user identity.",
+    "sample_strong_answer": "Authentication is the process of verifying who a user is, usually using username-password, OTP, or biometrics.",
+    "common_mistakes_to_avoid": [
+      "Confusing with authorization",
+      "No identity verification",
+      "No example"
+    ],
+    "follow_up_questions": [
+      "Authentication vs authorization?",
+      "What is two-factor authentication?"
+    ]
+  },
+  {
+    "id": "TCS131",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Medium",
+    "question_text": "What is authorization?",
+    "what_interviewer_is_looking_for": "Checking user permissions.",
+    "sample_strong_answer": "Authorization is the process of checking what actions or resources an authenticated user is allowed to access.",
+    "common_mistakes_to_avoid": [
+      "Confusing with authentication",
+      "No permission point",
+      "No access control"
+    ],
+    "follow_up_questions": [
+      "Authentication vs authorization?",
+      "Give an example of authorization."
+    ]
+  },
+  {
+    "id": "TCS132",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Medium",
+    "question_text": "What is encryption?",
+    "what_interviewer_is_looking_for": "Converting readable data into unreadable form.",
+    "sample_strong_answer": "Encryption is the process of converting readable data into unreadable form to protect it from unauthorized access.",
+    "common_mistakes_to_avoid": [
+      "Confusing with hashing",
+      "No security point",
+      "No reversible concept"
+    ],
+    "follow_up_questions": [
+      "Why is encryption used?",
+      "Encryption vs hashing?"
+    ]
+  },
+  {
+    "id": "TCS133",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Medium",
+    "question_text": "What is hashing in security?",
+    "what_interviewer_is_looking_for": "One-way conversion of data into fixed-length value.",
+    "sample_strong_answer": "Hashing converts data into a fixed-length hash value. It is commonly used for password storage and data integrity checks.",
+    "common_mistakes_to_avoid": [
+      "Confusing with encryption",
+      "No one-way point",
+      "No password/integrity use"
+    ],
+    "follow_up_questions": [
+      "Why is hashing used for passwords?",
+      "Can hashing be reversed?"
+    ]
+  },
+  {
+    "id": "TCS134",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Easy",
+    "question_text": "What is cloud computing?",
+    "what_interviewer_is_looking_for": "Using computing resources over internet.",
+    "sample_strong_answer": "Cloud computing means using servers, storage, databases, and software over the internet instead of only local machines.",
+    "common_mistakes_to_avoid": [
+      "Only saying online storage",
+      "No computing resources",
+      "No internet service point"
+    ],
+    "follow_up_questions": [
+      "Examples of cloud platforms?",
+      "Benefits of cloud computing?"
+    ]
+  },
+  {
+    "id": "TCS135",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Easy",
+    "question_text": "What is a server?",
+    "what_interviewer_is_looking_for": "System that provides services/resources to clients.",
+    "sample_strong_answer": "A server is a computer or program that provides services, data, or resources to other computers called clients.",
+    "common_mistakes_to_avoid": [
+      "No client relation",
+      "Confusing with normal computer",
+      "No service point"
+    ],
+    "follow_up_questions": [
+      "What is client-server model?",
+      "Examples of servers?"
+    ]
+  },
+  {
+    "id": "TCS136",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Medium",
+    "question_text": "What is client-server architecture?",
+    "what_interviewer_is_looking_for": "Clients request services and servers respond.",
+    "sample_strong_answer": "Client-server architecture is a model where clients send requests and servers process those requests and send responses.",
+    "common_mistakes_to_avoid": [
+      "No request-response point",
+      "Confusing peer-to-peer",
+      "No roles"
+    ],
+    "follow_up_questions": [
+      "Where is client-server architecture used?",
+      "What is a client?"
+    ]
+  },
+  {
+    "id": "TCS137",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Easy",
+    "question_text": "What is compiler?",
+    "what_interviewer_is_looking_for": "Translates entire source code to machine code.",
+    "sample_strong_answer": "A compiler translates source code into machine code or intermediate code before execution.",
+    "common_mistakes_to_avoid": [
+      "Confusing with interpreter",
+      "No translation point",
+      "No before execution"
+    ],
+    "follow_up_questions": [
+      "Compiler vs interpreter?",
+      "Examples of compiled languages?"
+    ]
+  },
+  {
+    "id": "TCS138",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Easy",
+    "question_text": "What is interpreter?",
+    "what_interviewer_is_looking_for": "Executes code line by line.",
+    "sample_strong_answer": "An interpreter translates and executes code line by line during runtime.",
+    "common_mistakes_to_avoid": [
+      "Confusing with compiler",
+      "No line-by-line point",
+      "No runtime execution"
+    ],
+    "follow_up_questions": [
+      "Is Python interpreted?",
+      "Compiler vs interpreter?"
+    ]
+  },
+  {
+    "id": "TCS139",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Easy",
+    "question_text": "What is IDE?",
+    "what_interviewer_is_looking_for": "Integrated Development Environment for coding.",
+    "sample_strong_answer": "An IDE is software that provides tools like code editor, compiler/interpreter support, debugger, and project management for development.",
+    "common_mistakes_to_avoid": [
+      "Only saying code editor",
+      "No tools mention",
+      "No development support"
+    ],
+    "follow_up_questions": [
+      "Examples of IDEs?",
+      "IDE vs text editor?"
+    ]
+  },
+  {
+    "id": "TCS140",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Easy",
+    "question_text": "What is algorithm?",
+    "what_interviewer_is_looking_for": "Step-by-step procedure to solve a problem.",
+    "sample_strong_answer": "An algorithm is a step-by-step set of instructions used to solve a specific problem.",
+    "common_mistakes_to_avoid": [
+      "No step-by-step point",
+      "Confusing with program",
+      "No problem-solving"
+    ],
+    "follow_up_questions": [
+      "Why are algorithms important?",
+      "Give an algorithm example."
+    ]
+  },
+  {
+    "id": "TCS141",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Easy",
+    "question_text": "What is pseudocode?",
+    "what_interviewer_is_looking_for": "Informal code-like representation of logic.",
+    "sample_strong_answer": "Pseudocode is a simple, informal way to write program logic using plain language and programming-like structure.",
+    "common_mistakes_to_avoid": [
+      "Confusing with actual code",
+      "No logic representation",
+      "Too vague"
+    ],
+    "follow_up_questions": [
+      "Why use pseudocode?",
+      "Pseudocode vs flowchart?"
+    ]
+  },
+  {
+    "id": "TCS142",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Easy",
+    "question_text": "What is flowchart?",
+    "what_interviewer_is_looking_for": "Diagrammatic representation of steps.",
+    "sample_strong_answer": "A flowchart is a diagram that represents steps of a process or algorithm using symbols and arrows.",
+    "common_mistakes_to_avoid": [
+      "No diagram point",
+      "No process/algorithm",
+      "Confusing with pseudocode"
+    ],
+    "follow_up_questions": [
+      "Why are flowcharts useful?",
+      "Name common flowchart symbols."
+    ]
+  },
+  {
+    "id": "TCS143",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Easy",
+    "question_text": "What is version control?",
+    "what_interviewer_is_looking_for": "Tracking and managing changes in files/code.",
+    "sample_strong_answer": "Version control is a system used to track changes in files and code, allowing developers to manage versions and collaborate.",
+    "common_mistakes_to_avoid": [
+      "No tracking changes",
+      "Only saying backup",
+      "No collaboration"
+    ],
+    "follow_up_questions": [
+      "Why is version control important?",
+      "What is Git?"
+    ]
+  },
+  {
+    "id": "TCS144",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Medium",
+    "question_text": "What is database indexing disadvantage?",
+    "what_interviewer_is_looking_for": "Extra storage and slower write operations.",
+    "sample_strong_answer": "Indexes improve read speed but require extra storage and can slow down insert, update, and delete operations because indexes also need updating.",
+    "common_mistakes_to_avoid": [
+      "Saying no disadvantage",
+      "Only mentioning storage",
+      "No write performance point"
+    ],
+    "follow_up_questions": [
+      "When should indexes be avoided?",
+      "How do indexes improve search?"
+    ]
+  },
+  {
+    "id": "TCS145",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Hard",
+    "question_text": "What is SQL injection?",
+    "what_interviewer_is_looking_for": "Attack by inserting malicious SQL input.",
+    "sample_strong_answer": "SQL injection is a security attack where malicious SQL code is inserted into input fields to access or modify database data.",
+    "common_mistakes_to_avoid": [
+      "No malicious input point",
+      "Confusing with normal SQL",
+      "No security risk"
+    ],
+    "follow_up_questions": [
+      "How can SQL injection be prevented?",
+      "Why are prepared statements useful?"
+    ]
+  },
+  {
+    "id": "TCS146",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Hard",
+    "question_text": "What is prepared statement?",
+    "what_interviewer_is_looking_for": "Parameterized query preventing SQL injection.",
+    "sample_strong_answer": "A prepared statement is a precompiled SQL query that uses parameters instead of directly inserting user input, helping prevent SQL injection.",
+    "common_mistakes_to_avoid": [
+      "No parameter concept",
+      "No SQL injection prevention",
+      "Confusing with stored procedure"
+    ],
+    "follow_up_questions": [
+      "Why are prepared statements secure?",
+      "Prepared statement vs normal query?"
+    ]
+  },
+  {
+    "id": "TCS147",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Medium",
+    "question_text": "What is MVC architecture?",
+    "what_interviewer_is_looking_for": "Model View Controller design pattern.",
+    "sample_strong_answer": "MVC stands for Model View Controller. It separates application logic into data model, user interface view, and controller handling user input.",
+    "common_mistakes_to_avoid": [
+      "Only expanding MVC",
+      "No separation point",
+      "Wrong component roles"
+    ],
+    "follow_up_questions": [
+      "What is model?",
+      "Why is MVC useful?"
+    ]
+  },
+  {
+    "id": "TCS148",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Medium",
+    "question_text": "What is Agile methodology?",
+    "what_interviewer_is_looking_for": "Iterative software development approach.",
+    "sample_strong_answer": "Agile is an iterative software development methodology where teams build software in small increments and adapt based on feedback.",
+    "common_mistakes_to_avoid": [
+      "No iterative point",
+      "Confusing with waterfall",
+      "No feedback point"
+    ],
+    "follow_up_questions": [
+      "What is Scrum?",
+      "Agile vs Waterfall?"
+    ]
+  },
+  {
+    "id": "TCS149",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Medium",
+    "question_text": "What is Waterfall model?",
+    "what_interviewer_is_looking_for": "Sequential SDLC model.",
+    "sample_strong_answer": "Waterfall is a sequential software development model where each phase is completed before moving to the next phase.",
+    "common_mistakes_to_avoid": [
+      "No sequential point",
+      "Confusing with Agile",
+      "No phase concept"
+    ],
+    "follow_up_questions": [
+      "Waterfall vs Agile?",
+      "When is Waterfall useful?"
+    ]
+  },
+  {
+    "id": "TCS150",
+    "category": "Technical CS",
+    "domain": "CS",
+    "difficulty": "Easy",
+    "question_text": "What is requirement analysis?",
+    "what_interviewer_is_looking_for": "Understanding what users/business need.",
+    "sample_strong_answer": "Requirement analysis is the process of collecting and understanding what the software should do based on user or business needs.",
+    "common_mistakes_to_avoid": [
+      "No user/business needs",
+      "Only coding focus",
+      "No clarity purpose"
+    ],
+    "follow_up_questions": [
+      "Why is requirement analysis important?",
+      "What happens if requirements are unclear?"
+    ]
+  }
+]

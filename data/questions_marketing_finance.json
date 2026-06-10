@@ -1,0 +1,902 @@
+[
+  {
+    "id": "MF001",
+    "category": "Marketing & Finance",
+    "domain": "Marketing & Finance",
+    "difficulty": "Easy",
+    "question_text": "Explain the concept of Digital Marketing.",
+    "what_interviewer_is_looking_for": "Understanding of Digital Marketing, business awareness, analytical thinking, and practical applications.",
+    "sample_strong_answer": "Digital Marketing is an important concept in marketing and finance used for business growth, customer engagement, financial planning, and decision making. A strong answer should explain the concept clearly along with practical examples and real-world applications.",
+    "common_mistakes_to_avoid": [
+      "Giving only textbook definitions",
+      "Not explaining practical usage",
+      "No business examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Digital Marketing?",
+      "What tools or strategies are commonly used in Digital Marketing?"
+    ]
+  },
+  {
+    "id": "MF002",
+    "category": "Marketing & Finance",
+    "domain": "Marketing & Finance",
+    "difficulty": "Easy",
+    "question_text": "Explain the concept of SEO.",
+    "what_interviewer_is_looking_for": "Understanding of SEO, business awareness, analytical thinking, and practical applications.",
+    "sample_strong_answer": "SEO is an important concept in marketing and finance used for business growth, customer engagement, financial planning, and decision making. A strong answer should explain the concept clearly along with practical examples and real-world applications.",
+    "common_mistakes_to_avoid": [
+      "Giving only textbook definitions",
+      "Not explaining practical usage",
+      "No business examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of SEO?",
+      "What tools or strategies are commonly used in SEO?"
+    ]
+  },
+  {
+    "id": "MF003",
+    "category": "Marketing & Finance",
+    "domain": "Marketing & Finance",
+    "difficulty": "Easy",
+    "question_text": "Explain the concept of Social Media Marketing.",
+    "what_interviewer_is_looking_for": "Understanding of Social Media Marketing, business awareness, analytical thinking, and practical applications.",
+    "sample_strong_answer": "Social Media Marketing is an important concept in marketing and finance used for business growth, customer engagement, financial planning, and decision making. A strong answer should explain the concept clearly along with practical examples and real-world applications.",
+    "common_mistakes_to_avoid": [
+      "Giving only textbook definitions",
+      "Not explaining practical usage",
+      "No business examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Social Media Marketing?",
+      "What tools or strategies are commonly used in Social Media Marketing?"
+    ]
+  },
+  {
+    "id": "MF004",
+    "category": "Marketing & Finance",
+    "domain": "Marketing & Finance",
+    "difficulty": "Easy",
+    "question_text": "Explain the concept of Content Marketing.",
+    "what_interviewer_is_looking_for": "Understanding of Content Marketing, business awareness, analytical thinking, and practical applications.",
+    "sample_strong_answer": "Content Marketing is an important concept in marketing and finance used for business growth, customer engagement, financial planning, and decision making. A strong answer should explain the concept clearly along with practical examples and real-world applications.",
+    "common_mistakes_to_avoid": [
+      "Giving only textbook definitions",
+      "Not explaining practical usage",
+      "No business examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Content Marketing?",
+      "What tools or strategies are commonly used in Content Marketing?"
+    ]
+  },
+  {
+    "id": "MF005",
+    "category": "Marketing & Finance",
+    "domain": "Marketing & Finance",
+    "difficulty": "Easy",
+    "question_text": "Explain the concept of Email Marketing.",
+    "what_interviewer_is_looking_for": "Understanding of Email Marketing, business awareness, analytical thinking, and practical applications.",
+    "sample_strong_answer": "Email Marketing is an important concept in marketing and finance used for business growth, customer engagement, financial planning, and decision making. A strong answer should explain the concept clearly along with practical examples and real-world applications.",
+    "common_mistakes_to_avoid": [
+      "Giving only textbook definitions",
+      "Not explaining practical usage",
+      "No business examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Email Marketing?",
+      "What tools or strategies are commonly used in Email Marketing?"
+    ]
+  },
+  {
+    "id": "MF006",
+    "category": "Marketing & Finance",
+    "domain": "Marketing & Finance",
+    "difficulty": "Easy",
+    "question_text": "Explain the concept of Branding.",
+    "what_interviewer_is_looking_for": "Understanding of Branding, business awareness, analytical thinking, and practical applications.",
+    "sample_strong_answer": "Branding is an important concept in marketing and finance used for business growth, customer engagement, financial planning, and decision making. A strong answer should explain the concept clearly along with practical examples and real-world applications.",
+    "common_mistakes_to_avoid": [
+      "Giving only textbook definitions",
+      "Not explaining practical usage",
+      "No business examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Branding?",
+      "What tools or strategies are commonly used in Branding?"
+    ]
+  },
+  {
+    "id": "MF007",
+    "category": "Marketing & Finance",
+    "domain": "Marketing & Finance",
+    "difficulty": "Easy",
+    "question_text": "Explain the concept of Market Research.",
+    "what_interviewer_is_looking_for": "Understanding of Market Research, business awareness, analytical thinking, and practical applications.",
+    "sample_strong_answer": "Market Research is an important concept in marketing and finance used for business growth, customer engagement, financial planning, and decision making. A strong answer should explain the concept clearly along with practical examples and real-world applications.",
+    "common_mistakes_to_avoid": [
+      "Giving only textbook definitions",
+      "Not explaining practical usage",
+      "No business examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Market Research?",
+      "What tools or strategies are commonly used in Market Research?"
+    ]
+  },
+  {
+    "id": "MF008",
+    "category": "Marketing & Finance",
+    "domain": "Marketing & Finance",
+    "difficulty": "Easy",
+    "question_text": "Explain the concept of Target Audience.",
+    "what_interviewer_is_looking_for": "Understanding of Target Audience, business awareness, analytical thinking, and practical applications.",
+    "sample_strong_answer": "Target Audience is an important concept in marketing and finance used for business growth, customer engagement, financial planning, and decision making. A strong answer should explain the concept clearly along with practical examples and real-world applications.",
+    "common_mistakes_to_avoid": [
+      "Giving only textbook definitions",
+      "Not explaining practical usage",
+      "No business examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Target Audience?",
+      "What tools or strategies are commonly used in Target Audience?"
+    ]
+  },
+  {
+    "id": "MF009",
+    "category": "Marketing & Finance",
+    "domain": "Marketing & Finance",
+    "difficulty": "Easy",
+    "question_text": "Explain the concept of Advertising.",
+    "what_interviewer_is_looking_for": "Understanding of Advertising, business awareness, analytical thinking, and practical applications.",
+    "sample_strong_answer": "Advertising is an important concept in marketing and finance used for business growth, customer engagement, financial planning, and decision making. A strong answer should explain the concept clearly along with practical examples and real-world applications.",
+    "common_mistakes_to_avoid": [
+      "Giving only textbook definitions",
+      "Not explaining practical usage",
+      "No business examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Advertising?",
+      "What tools or strategies are commonly used in Advertising?"
+    ]
+  },
+  {
+    "id": "MF010",
+    "category": "Marketing & Finance",
+    "domain": "Marketing & Finance",
+    "difficulty": "Easy",
+    "question_text": "Explain the concept of Sales Funnel.",
+    "what_interviewer_is_looking_for": "Understanding of Sales Funnel, business awareness, analytical thinking, and practical applications.",
+    "sample_strong_answer": "Sales Funnel is an important concept in marketing and finance used for business growth, customer engagement, financial planning, and decision making. A strong answer should explain the concept clearly along with practical examples and real-world applications.",
+    "common_mistakes_to_avoid": [
+      "Giving only textbook definitions",
+      "Not explaining practical usage",
+      "No business examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Sales Funnel?",
+      "What tools or strategies are commonly used in Sales Funnel?"
+    ]
+  },
+  {
+    "id": "MF011",
+    "category": "Marketing & Finance",
+    "domain": "Marketing & Finance",
+    "difficulty": "Easy",
+    "question_text": "Explain the concept of Google Ads.",
+    "what_interviewer_is_looking_for": "Understanding of Google Ads, business awareness, analytical thinking, and practical applications.",
+    "sample_strong_answer": "Google Ads is an important concept in marketing and finance used for business growth, customer engagement, financial planning, and decision making. A strong answer should explain the concept clearly along with practical examples and real-world applications.",
+    "common_mistakes_to_avoid": [
+      "Giving only textbook definitions",
+      "Not explaining practical usage",
+      "No business examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Google Ads?",
+      "What tools or strategies are commonly used in Google Ads?"
+    ]
+  },
+  {
+    "id": "MF012",
+    "category": "Marketing & Finance",
+    "domain": "Marketing & Finance",
+    "difficulty": "Easy",
+    "question_text": "Explain the concept of Customer Retention.",
+    "what_interviewer_is_looking_for": "Understanding of Customer Retention, business awareness, analytical thinking, and practical applications.",
+    "sample_strong_answer": "Customer Retention is an important concept in marketing and finance used for business growth, customer engagement, financial planning, and decision making. A strong answer should explain the concept clearly along with practical examples and real-world applications.",
+    "common_mistakes_to_avoid": [
+      "Giving only textbook definitions",
+      "Not explaining practical usage",
+      "No business examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Customer Retention?",
+      "What tools or strategies are commonly used in Customer Retention?"
+    ]
+  },
+  {
+    "id": "MF013",
+    "category": "Marketing & Finance",
+    "domain": "Marketing & Finance",
+    "difficulty": "Easy",
+    "question_text": "Explain the concept of Marketing Strategy.",
+    "what_interviewer_is_looking_for": "Understanding of Marketing Strategy, business awareness, analytical thinking, and practical applications.",
+    "sample_strong_answer": "Marketing Strategy is an important concept in marketing and finance used for business growth, customer engagement, financial planning, and decision making. A strong answer should explain the concept clearly along with practical examples and real-world applications.",
+    "common_mistakes_to_avoid": [
+      "Giving only textbook definitions",
+      "Not explaining practical usage",
+      "No business examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Marketing Strategy?",
+      "What tools or strategies are commonly used in Marketing Strategy?"
+    ]
+  },
+  {
+    "id": "MF014",
+    "category": "Marketing & Finance",
+    "domain": "Marketing & Finance",
+    "difficulty": "Easy",
+    "question_text": "Explain the concept of ROI.",
+    "what_interviewer_is_looking_for": "Understanding of ROI, business awareness, analytical thinking, and practical applications.",
+    "sample_strong_answer": "ROI is an important concept in marketing and finance used for business growth, customer engagement, financial planning, and decision making. A strong answer should explain the concept clearly along with practical examples and real-world applications.",
+    "common_mistakes_to_avoid": [
+      "Giving only textbook definitions",
+      "Not explaining practical usage",
+      "No business examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of ROI?",
+      "What tools or strategies are commonly used in ROI?"
+    ]
+  },
+  {
+    "id": "MF015",
+    "category": "Marketing & Finance",
+    "domain": "Marketing & Finance",
+    "difficulty": "Easy",
+    "question_text": "Explain the concept of Finance Basics.",
+    "what_interviewer_is_looking_for": "Understanding of Finance Basics, business awareness, analytical thinking, and practical applications.",
+    "sample_strong_answer": "Finance Basics is an important concept in marketing and finance used for business growth, customer engagement, financial planning, and decision making. A strong answer should explain the concept clearly along with practical examples and real-world applications.",
+    "common_mistakes_to_avoid": [
+      "Giving only textbook definitions",
+      "Not explaining practical usage",
+      "No business examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Finance Basics?",
+      "What tools or strategies are commonly used in Finance Basics?"
+    ]
+  },
+  {
+    "id": "MF016",
+    "category": "Marketing & Finance",
+    "domain": "Marketing & Finance",
+    "difficulty": "Easy",
+    "question_text": "Explain the concept of Budgeting.",
+    "what_interviewer_is_looking_for": "Understanding of Budgeting, business awareness, analytical thinking, and practical applications.",
+    "sample_strong_answer": "Budgeting is an important concept in marketing and finance used for business growth, customer engagement, financial planning, and decision making. A strong answer should explain the concept clearly along with practical examples and real-world applications.",
+    "common_mistakes_to_avoid": [
+      "Giving only textbook definitions",
+      "Not explaining practical usage",
+      "No business examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Budgeting?",
+      "What tools or strategies are commonly used in Budgeting?"
+    ]
+  },
+  {
+    "id": "MF017",
+    "category": "Marketing & Finance",
+    "domain": "Marketing & Finance",
+    "difficulty": "Easy",
+    "question_text": "Explain the concept of Profit and Loss.",
+    "what_interviewer_is_looking_for": "Understanding of Profit and Loss, business awareness, analytical thinking, and practical applications.",
+    "sample_strong_answer": "Profit and Loss is an important concept in marketing and finance used for business growth, customer engagement, financial planning, and decision making. A strong answer should explain the concept clearly along with practical examples and real-world applications.",
+    "common_mistakes_to_avoid": [
+      "Giving only textbook definitions",
+      "Not explaining practical usage",
+      "No business examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Profit and Loss?",
+      "What tools or strategies are commonly used in Profit and Loss?"
+    ]
+  },
+  {
+    "id": "MF018",
+    "category": "Marketing & Finance",
+    "domain": "Marketing & Finance",
+    "difficulty": "Easy",
+    "question_text": "Explain the concept of Balance Sheet.",
+    "what_interviewer_is_looking_for": "Understanding of Balance Sheet, business awareness, analytical thinking, and practical applications.",
+    "sample_strong_answer": "Balance Sheet is an important concept in marketing and finance used for business growth, customer engagement, financial planning, and decision making. A strong answer should explain the concept clearly along with practical examples and real-world applications.",
+    "common_mistakes_to_avoid": [
+      "Giving only textbook definitions",
+      "Not explaining practical usage",
+      "No business examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Balance Sheet?",
+      "What tools or strategies are commonly used in Balance Sheet?"
+    ]
+  },
+  {
+    "id": "MF019",
+    "category": "Marketing & Finance",
+    "domain": "Marketing & Finance",
+    "difficulty": "Medium",
+    "question_text": "Explain the concept of Cash Flow.",
+    "what_interviewer_is_looking_for": "Understanding of Cash Flow, business awareness, analytical thinking, and practical applications.",
+    "sample_strong_answer": "Cash Flow is an important concept in marketing and finance used for business growth, customer engagement, financial planning, and decision making. A strong answer should explain the concept clearly along with practical examples and real-world applications.",
+    "common_mistakes_to_avoid": [
+      "Giving only textbook definitions",
+      "Not explaining practical usage",
+      "No business examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Cash Flow?",
+      "What tools or strategies are commonly used in Cash Flow?"
+    ]
+  },
+  {
+    "id": "MF020",
+    "category": "Marketing & Finance",
+    "domain": "Marketing & Finance",
+    "difficulty": "Medium",
+    "question_text": "Explain the concept of Investment.",
+    "what_interviewer_is_looking_for": "Understanding of Investment, business awareness, analytical thinking, and practical applications.",
+    "sample_strong_answer": "Investment is an important concept in marketing and finance used for business growth, customer engagement, financial planning, and decision making. A strong answer should explain the concept clearly along with practical examples and real-world applications.",
+    "common_mistakes_to_avoid": [
+      "Giving only textbook definitions",
+      "Not explaining practical usage",
+      "No business examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Investment?",
+      "What tools or strategies are commonly used in Investment?"
+    ]
+  },
+  {
+    "id": "MF021",
+    "category": "Marketing & Finance",
+    "domain": "Marketing & Finance",
+    "difficulty": "Medium",
+    "question_text": "Explain the concept of Stock Market.",
+    "what_interviewer_is_looking_for": "Understanding of Stock Market, business awareness, analytical thinking, and practical applications.",
+    "sample_strong_answer": "Stock Market is an important concept in marketing and finance used for business growth, customer engagement, financial planning, and decision making. A strong answer should explain the concept clearly along with practical examples and real-world applications.",
+    "common_mistakes_to_avoid": [
+      "Giving only textbook definitions",
+      "Not explaining practical usage",
+      "No business examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Stock Market?",
+      "What tools or strategies are commonly used in Stock Market?"
+    ]
+  },
+  {
+    "id": "MF022",
+    "category": "Marketing & Finance",
+    "domain": "Marketing & Finance",
+    "difficulty": "Medium",
+    "question_text": "Explain the concept of Risk Management.",
+    "what_interviewer_is_looking_for": "Understanding of Risk Management, business awareness, analytical thinking, and practical applications.",
+    "sample_strong_answer": "Risk Management is an important concept in marketing and finance used for business growth, customer engagement, financial planning, and decision making. A strong answer should explain the concept clearly along with practical examples and real-world applications.",
+    "common_mistakes_to_avoid": [
+      "Giving only textbook definitions",
+      "Not explaining practical usage",
+      "No business examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Risk Management?",
+      "What tools or strategies are commonly used in Risk Management?"
+    ]
+  },
+  {
+    "id": "MF023",
+    "category": "Marketing & Finance",
+    "domain": "Marketing & Finance",
+    "difficulty": "Medium",
+    "question_text": "Explain the concept of Financial Planning.",
+    "what_interviewer_is_looking_for": "Understanding of Financial Planning, business awareness, analytical thinking, and practical applications.",
+    "sample_strong_answer": "Financial Planning is an important concept in marketing and finance used for business growth, customer engagement, financial planning, and decision making. A strong answer should explain the concept clearly along with practical examples and real-world applications.",
+    "common_mistakes_to_avoid": [
+      "Giving only textbook definitions",
+      "Not explaining practical usage",
+      "No business examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Financial Planning?",
+      "What tools or strategies are commonly used in Financial Planning?"
+    ]
+  },
+  {
+    "id": "MF024",
+    "category": "Marketing & Finance",
+    "domain": "Marketing & Finance",
+    "difficulty": "Medium",
+    "question_text": "Explain the concept of Business Analysis.",
+    "what_interviewer_is_looking_for": "Understanding of Business Analysis, business awareness, analytical thinking, and practical applications.",
+    "sample_strong_answer": "Business Analysis is an important concept in marketing and finance used for business growth, customer engagement, financial planning, and decision making. A strong answer should explain the concept clearly along with practical examples and real-world applications.",
+    "common_mistakes_to_avoid": [
+      "Giving only textbook definitions",
+      "Not explaining practical usage",
+      "No business examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Business Analysis?",
+      "What tools or strategies are commonly used in Business Analysis?"
+    ]
+  },
+  {
+    "id": "MF025",
+    "category": "Marketing & Finance",
+    "domain": "Marketing & Finance",
+    "difficulty": "Medium",
+    "question_text": "Explain the concept of Revenue Models.",
+    "what_interviewer_is_looking_for": "Understanding of Revenue Models, business awareness, analytical thinking, and practical applications.",
+    "sample_strong_answer": "Revenue Models is an important concept in marketing and finance used for business growth, customer engagement, financial planning, and decision making. A strong answer should explain the concept clearly along with practical examples and real-world applications.",
+    "common_mistakes_to_avoid": [
+      "Giving only textbook definitions",
+      "Not explaining practical usage",
+      "No business examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Revenue Models?",
+      "What tools or strategies are commonly used in Revenue Models?"
+    ]
+  },
+  {
+    "id": "MF026",
+    "category": "Marketing & Finance",
+    "domain": "Marketing & Finance",
+    "difficulty": "Medium",
+    "question_text": "Explain the concept of Digital Marketing.",
+    "what_interviewer_is_looking_for": "Understanding of Digital Marketing, business awareness, analytical thinking, and practical applications.",
+    "sample_strong_answer": "Digital Marketing is an important concept in marketing and finance used for business growth, customer engagement, financial planning, and decision making. A strong answer should explain the concept clearly along with practical examples and real-world applications.",
+    "common_mistakes_to_avoid": [
+      "Giving only textbook definitions",
+      "Not explaining practical usage",
+      "No business examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Digital Marketing?",
+      "What tools or strategies are commonly used in Digital Marketing?"
+    ]
+  },
+  {
+    "id": "MF027",
+    "category": "Marketing & Finance",
+    "domain": "Marketing & Finance",
+    "difficulty": "Medium",
+    "question_text": "Explain the concept of SEO.",
+    "what_interviewer_is_looking_for": "Understanding of SEO, business awareness, analytical thinking, and practical applications.",
+    "sample_strong_answer": "SEO is an important concept in marketing and finance used for business growth, customer engagement, financial planning, and decision making. A strong answer should explain the concept clearly along with practical examples and real-world applications.",
+    "common_mistakes_to_avoid": [
+      "Giving only textbook definitions",
+      "Not explaining practical usage",
+      "No business examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of SEO?",
+      "What tools or strategies are commonly used in SEO?"
+    ]
+  },
+  {
+    "id": "MF028",
+    "category": "Marketing & Finance",
+    "domain": "Marketing & Finance",
+    "difficulty": "Medium",
+    "question_text": "Explain the concept of Social Media Marketing.",
+    "what_interviewer_is_looking_for": "Understanding of Social Media Marketing, business awareness, analytical thinking, and practical applications.",
+    "sample_strong_answer": "Social Media Marketing is an important concept in marketing and finance used for business growth, customer engagement, financial planning, and decision making. A strong answer should explain the concept clearly along with practical examples and real-world applications.",
+    "common_mistakes_to_avoid": [
+      "Giving only textbook definitions",
+      "Not explaining practical usage",
+      "No business examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Social Media Marketing?",
+      "What tools or strategies are commonly used in Social Media Marketing?"
+    ]
+  },
+  {
+    "id": "MF029",
+    "category": "Marketing & Finance",
+    "domain": "Marketing & Finance",
+    "difficulty": "Medium",
+    "question_text": "Explain the concept of Content Marketing.",
+    "what_interviewer_is_looking_for": "Understanding of Content Marketing, business awareness, analytical thinking, and practical applications.",
+    "sample_strong_answer": "Content Marketing is an important concept in marketing and finance used for business growth, customer engagement, financial planning, and decision making. A strong answer should explain the concept clearly along with practical examples and real-world applications.",
+    "common_mistakes_to_avoid": [
+      "Giving only textbook definitions",
+      "Not explaining practical usage",
+      "No business examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Content Marketing?",
+      "What tools or strategies are commonly used in Content Marketing?"
+    ]
+  },
+  {
+    "id": "MF030",
+    "category": "Marketing & Finance",
+    "domain": "Marketing & Finance",
+    "difficulty": "Medium",
+    "question_text": "Explain the concept of Email Marketing.",
+    "what_interviewer_is_looking_for": "Understanding of Email Marketing, business awareness, analytical thinking, and practical applications.",
+    "sample_strong_answer": "Email Marketing is an important concept in marketing and finance used for business growth, customer engagement, financial planning, and decision making. A strong answer should explain the concept clearly along with practical examples and real-world applications.",
+    "common_mistakes_to_avoid": [
+      "Giving only textbook definitions",
+      "Not explaining practical usage",
+      "No business examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Email Marketing?",
+      "What tools or strategies are commonly used in Email Marketing?"
+    ]
+  },
+  {
+    "id": "MF031",
+    "category": "Marketing & Finance",
+    "domain": "Marketing & Finance",
+    "difficulty": "Medium",
+    "question_text": "Explain the concept of Branding.",
+    "what_interviewer_is_looking_for": "Understanding of Branding, business awareness, analytical thinking, and practical applications.",
+    "sample_strong_answer": "Branding is an important concept in marketing and finance used for business growth, customer engagement, financial planning, and decision making. A strong answer should explain the concept clearly along with practical examples and real-world applications.",
+    "common_mistakes_to_avoid": [
+      "Giving only textbook definitions",
+      "Not explaining practical usage",
+      "No business examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Branding?",
+      "What tools or strategies are commonly used in Branding?"
+    ]
+  },
+  {
+    "id": "MF032",
+    "category": "Marketing & Finance",
+    "domain": "Marketing & Finance",
+    "difficulty": "Medium",
+    "question_text": "Explain the concept of Market Research.",
+    "what_interviewer_is_looking_for": "Understanding of Market Research, business awareness, analytical thinking, and practical applications.",
+    "sample_strong_answer": "Market Research is an important concept in marketing and finance used for business growth, customer engagement, financial planning, and decision making. A strong answer should explain the concept clearly along with practical examples and real-world applications.",
+    "common_mistakes_to_avoid": [
+      "Giving only textbook definitions",
+      "Not explaining practical usage",
+      "No business examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Market Research?",
+      "What tools or strategies are commonly used in Market Research?"
+    ]
+  },
+  {
+    "id": "MF033",
+    "category": "Marketing & Finance",
+    "domain": "Marketing & Finance",
+    "difficulty": "Medium",
+    "question_text": "Explain the concept of Target Audience.",
+    "what_interviewer_is_looking_for": "Understanding of Target Audience, business awareness, analytical thinking, and practical applications.",
+    "sample_strong_answer": "Target Audience is an important concept in marketing and finance used for business growth, customer engagement, financial planning, and decision making. A strong answer should explain the concept clearly along with practical examples and real-world applications.",
+    "common_mistakes_to_avoid": [
+      "Giving only textbook definitions",
+      "Not explaining practical usage",
+      "No business examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Target Audience?",
+      "What tools or strategies are commonly used in Target Audience?"
+    ]
+  },
+  {
+    "id": "MF034",
+    "category": "Marketing & Finance",
+    "domain": "Marketing & Finance",
+    "difficulty": "Medium",
+    "question_text": "Explain the concept of Advertising.",
+    "what_interviewer_is_looking_for": "Understanding of Advertising, business awareness, analytical thinking, and practical applications.",
+    "sample_strong_answer": "Advertising is an important concept in marketing and finance used for business growth, customer engagement, financial planning, and decision making. A strong answer should explain the concept clearly along with practical examples and real-world applications.",
+    "common_mistakes_to_avoid": [
+      "Giving only textbook definitions",
+      "Not explaining practical usage",
+      "No business examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Advertising?",
+      "What tools or strategies are commonly used in Advertising?"
+    ]
+  },
+  {
+    "id": "MF035",
+    "category": "Marketing & Finance",
+    "domain": "Marketing & Finance",
+    "difficulty": "Medium",
+    "question_text": "Explain the concept of Sales Funnel.",
+    "what_interviewer_is_looking_for": "Understanding of Sales Funnel, business awareness, analytical thinking, and practical applications.",
+    "sample_strong_answer": "Sales Funnel is an important concept in marketing and finance used for business growth, customer engagement, financial planning, and decision making. A strong answer should explain the concept clearly along with practical examples and real-world applications.",
+    "common_mistakes_to_avoid": [
+      "Giving only textbook definitions",
+      "Not explaining practical usage",
+      "No business examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Sales Funnel?",
+      "What tools or strategies are commonly used in Sales Funnel?"
+    ]
+  },
+  {
+    "id": "MF036",
+    "category": "Marketing & Finance",
+    "domain": "Marketing & Finance",
+    "difficulty": "Medium",
+    "question_text": "Explain the concept of Google Ads.",
+    "what_interviewer_is_looking_for": "Understanding of Google Ads, business awareness, analytical thinking, and practical applications.",
+    "sample_strong_answer": "Google Ads is an important concept in marketing and finance used for business growth, customer engagement, financial planning, and decision making. A strong answer should explain the concept clearly along with practical examples and real-world applications.",
+    "common_mistakes_to_avoid": [
+      "Giving only textbook definitions",
+      "Not explaining practical usage",
+      "No business examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Google Ads?",
+      "What tools or strategies are commonly used in Google Ads?"
+    ]
+  },
+  {
+    "id": "MF037",
+    "category": "Marketing & Finance",
+    "domain": "Marketing & Finance",
+    "difficulty": "Medium",
+    "question_text": "Explain the concept of Customer Retention.",
+    "what_interviewer_is_looking_for": "Understanding of Customer Retention, business awareness, analytical thinking, and practical applications.",
+    "sample_strong_answer": "Customer Retention is an important concept in marketing and finance used for business growth, customer engagement, financial planning, and decision making. A strong answer should explain the concept clearly along with practical examples and real-world applications.",
+    "common_mistakes_to_avoid": [
+      "Giving only textbook definitions",
+      "Not explaining practical usage",
+      "No business examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Customer Retention?",
+      "What tools or strategies are commonly used in Customer Retention?"
+    ]
+  },
+  {
+    "id": "MF038",
+    "category": "Marketing & Finance",
+    "domain": "Marketing & Finance",
+    "difficulty": "Medium",
+    "question_text": "Explain the concept of Marketing Strategy.",
+    "what_interviewer_is_looking_for": "Understanding of Marketing Strategy, business awareness, analytical thinking, and practical applications.",
+    "sample_strong_answer": "Marketing Strategy is an important concept in marketing and finance used for business growth, customer engagement, financial planning, and decision making. A strong answer should explain the concept clearly along with practical examples and real-world applications.",
+    "common_mistakes_to_avoid": [
+      "Giving only textbook definitions",
+      "Not explaining practical usage",
+      "No business examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Marketing Strategy?",
+      "What tools or strategies are commonly used in Marketing Strategy?"
+    ]
+  },
+  {
+    "id": "MF039",
+    "category": "Marketing & Finance",
+    "domain": "Marketing & Finance",
+    "difficulty": "Hard",
+    "question_text": "Explain the concept of ROI.",
+    "what_interviewer_is_looking_for": "Understanding of ROI, business awareness, analytical thinking, and practical applications.",
+    "sample_strong_answer": "ROI is an important concept in marketing and finance used for business growth, customer engagement, financial planning, and decision making. A strong answer should explain the concept clearly along with practical examples and real-world applications.",
+    "common_mistakes_to_avoid": [
+      "Giving only textbook definitions",
+      "Not explaining practical usage",
+      "No business examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of ROI?",
+      "What tools or strategies are commonly used in ROI?"
+    ]
+  },
+  {
+    "id": "MF040",
+    "category": "Marketing & Finance",
+    "domain": "Marketing & Finance",
+    "difficulty": "Hard",
+    "question_text": "Explain the concept of Finance Basics.",
+    "what_interviewer_is_looking_for": "Understanding of Finance Basics, business awareness, analytical thinking, and practical applications.",
+    "sample_strong_answer": "Finance Basics is an important concept in marketing and finance used for business growth, customer engagement, financial planning, and decision making. A strong answer should explain the concept clearly along with practical examples and real-world applications.",
+    "common_mistakes_to_avoid": [
+      "Giving only textbook definitions",
+      "Not explaining practical usage",
+      "No business examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Finance Basics?",
+      "What tools or strategies are commonly used in Finance Basics?"
+    ]
+  },
+  {
+    "id": "MF041",
+    "category": "Marketing & Finance",
+    "domain": "Marketing & Finance",
+    "difficulty": "Hard",
+    "question_text": "Explain the concept of Budgeting.",
+    "what_interviewer_is_looking_for": "Understanding of Budgeting, business awareness, analytical thinking, and practical applications.",
+    "sample_strong_answer": "Budgeting is an important concept in marketing and finance used for business growth, customer engagement, financial planning, and decision making. A strong answer should explain the concept clearly along with practical examples and real-world applications.",
+    "common_mistakes_to_avoid": [
+      "Giving only textbook definitions",
+      "Not explaining practical usage",
+      "No business examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Budgeting?",
+      "What tools or strategies are commonly used in Budgeting?"
+    ]
+  },
+  {
+    "id": "MF042",
+    "category": "Marketing & Finance",
+    "domain": "Marketing & Finance",
+    "difficulty": "Hard",
+    "question_text": "Explain the concept of Profit and Loss.",
+    "what_interviewer_is_looking_for": "Understanding of Profit and Loss, business awareness, analytical thinking, and practical applications.",
+    "sample_strong_answer": "Profit and Loss is an important concept in marketing and finance used for business growth, customer engagement, financial planning, and decision making. A strong answer should explain the concept clearly along with practical examples and real-world applications.",
+    "common_mistakes_to_avoid": [
+      "Giving only textbook definitions",
+      "Not explaining practical usage",
+      "No business examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Profit and Loss?",
+      "What tools or strategies are commonly used in Profit and Loss?"
+    ]
+  },
+  {
+    "id": "MF043",
+    "category": "Marketing & Finance",
+    "domain": "Marketing & Finance",
+    "difficulty": "Hard",
+    "question_text": "Explain the concept of Balance Sheet.",
+    "what_interviewer_is_looking_for": "Understanding of Balance Sheet, business awareness, analytical thinking, and practical applications.",
+    "sample_strong_answer": "Balance Sheet is an important concept in marketing and finance used for business growth, customer engagement, financial planning, and decision making. A strong answer should explain the concept clearly along with practical examples and real-world applications.",
+    "common_mistakes_to_avoid": [
+      "Giving only textbook definitions",
+      "Not explaining practical usage",
+      "No business examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Balance Sheet?",
+      "What tools or strategies are commonly used in Balance Sheet?"
+    ]
+  },
+  {
+    "id": "MF044",
+    "category": "Marketing & Finance",
+    "domain": "Marketing & Finance",
+    "difficulty": "Hard",
+    "question_text": "Explain the concept of Cash Flow.",
+    "what_interviewer_is_looking_for": "Understanding of Cash Flow, business awareness, analytical thinking, and practical applications.",
+    "sample_strong_answer": "Cash Flow is an important concept in marketing and finance used for business growth, customer engagement, financial planning, and decision making. A strong answer should explain the concept clearly along with practical examples and real-world applications.",
+    "common_mistakes_to_avoid": [
+      "Giving only textbook definitions",
+      "Not explaining practical usage",
+      "No business examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Cash Flow?",
+      "What tools or strategies are commonly used in Cash Flow?"
+    ]
+  },
+  {
+    "id": "MF045",
+    "category": "Marketing & Finance",
+    "domain": "Marketing & Finance",
+    "difficulty": "Hard",
+    "question_text": "Explain the concept of Investment.",
+    "what_interviewer_is_looking_for": "Understanding of Investment, business awareness, analytical thinking, and practical applications.",
+    "sample_strong_answer": "Investment is an important concept in marketing and finance used for business growth, customer engagement, financial planning, and decision making. A strong answer should explain the concept clearly along with practical examples and real-world applications.",
+    "common_mistakes_to_avoid": [
+      "Giving only textbook definitions",
+      "Not explaining practical usage",
+      "No business examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Investment?",
+      "What tools or strategies are commonly used in Investment?"
+    ]
+  },
+  {
+    "id": "MF046",
+    "category": "Marketing & Finance",
+    "domain": "Marketing & Finance",
+    "difficulty": "Hard",
+    "question_text": "Explain the concept of Stock Market.",
+    "what_interviewer_is_looking_for": "Understanding of Stock Market, business awareness, analytical thinking, and practical applications.",
+    "sample_strong_answer": "Stock Market is an important concept in marketing and finance used for business growth, customer engagement, financial planning, and decision making. A strong answer should explain the concept clearly along with practical examples and real-world applications.",
+    "common_mistakes_to_avoid": [
+      "Giving only textbook definitions",
+      "Not explaining practical usage",
+      "No business examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Stock Market?",
+      "What tools or strategies are commonly used in Stock Market?"
+    ]
+  },
+  {
+    "id": "MF047",
+    "category": "Marketing & Finance",
+    "domain": "Marketing & Finance",
+    "difficulty": "Hard",
+    "question_text": "Explain the concept of Risk Management.",
+    "what_interviewer_is_looking_for": "Understanding of Risk Management, business awareness, analytical thinking, and practical applications.",
+    "sample_strong_answer": "Risk Management is an important concept in marketing and finance used for business growth, customer engagement, financial planning, and decision making. A strong answer should explain the concept clearly along with practical examples and real-world applications.",
+    "common_mistakes_to_avoid": [
+      "Giving only textbook definitions",
+      "Not explaining practical usage",
+      "No business examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Risk Management?",
+      "What tools or strategies are commonly used in Risk Management?"
+    ]
+  },
+  {
+    "id": "MF048",
+    "category": "Marketing & Finance",
+    "domain": "Marketing & Finance",
+    "difficulty": "Hard",
+    "question_text": "Explain the concept of Financial Planning.",
+    "what_interviewer_is_looking_for": "Understanding of Financial Planning, business awareness, analytical thinking, and practical applications.",
+    "sample_strong_answer": "Financial Planning is an important concept in marketing and finance used for business growth, customer engagement, financial planning, and decision making. A strong answer should explain the concept clearly along with practical examples and real-world applications.",
+    "common_mistakes_to_avoid": [
+      "Giving only textbook definitions",
+      "Not explaining practical usage",
+      "No business examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Financial Planning?",
+      "What tools or strategies are commonly used in Financial Planning?"
+    ]
+  },
+  {
+    "id": "MF049",
+    "category": "Marketing & Finance",
+    "domain": "Marketing & Finance",
+    "difficulty": "Hard",
+    "question_text": "Explain the concept of Business Analysis.",
+    "what_interviewer_is_looking_for": "Understanding of Business Analysis, business awareness, analytical thinking, and practical applications.",
+    "sample_strong_answer": "Business Analysis is an important concept in marketing and finance used for business growth, customer engagement, financial planning, and decision making. A strong answer should explain the concept clearly along with practical examples and real-world applications.",
+    "common_mistakes_to_avoid": [
+      "Giving only textbook definitions",
+      "Not explaining practical usage",
+      "No business examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Business Analysis?",
+      "What tools or strategies are commonly used in Business Analysis?"
+    ]
+  },
+  {
+    "id": "MF050",
+    "category": "Marketing & Finance",
+    "domain": "Marketing & Finance",
+    "difficulty": "Hard",
+    "question_text": "Explain the concept of Revenue Models.",
+    "what_interviewer_is_looking_for": "Understanding of Revenue Models, business awareness, analytical thinking, and practical applications.",
+    "sample_strong_answer": "Revenue Models is an important concept in marketing and finance used for business growth, customer engagement, financial planning, and decision making. A strong answer should explain the concept clearly along with practical examples and real-world applications.",
+    "common_mistakes_to_avoid": [
+      "Giving only textbook definitions",
+      "Not explaining practical usage",
+      "No business examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Revenue Models?",
+      "What tools or strategies are commonly used in Revenue Models?"
+    ]
+  }
+]

@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "NCS001",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Easy",
+    "question_text": "Explain a basic problem related to Percentage.",
+    "what_interviewer_is_looking_for": "Understanding of Percentage, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Percentage, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Percentage?",
+      "Can you solve a slightly more difficult Percentage problem?"
+    ]
+  },
+  {
+    "id": "NCS002",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Easy",
+    "question_text": "Explain a basic problem related to Profit and Loss.",
+    "what_interviewer_is_looking_for": "Understanding of Profit and Loss, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Profit and Loss, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Profit and Loss?",
+      "Can you solve a slightly more difficult Profit and Loss problem?"
+    ]
+  },
+  {
+    "id": "NCS003",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Easy",
+    "question_text": "Explain a basic problem related to Simple Interest.",
+    "what_interviewer_is_looking_for": "Understanding of Simple Interest, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Simple Interest, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Simple Interest?",
+      "Can you solve a slightly more difficult Simple Interest problem?"
+    ]
+  },
+  {
+    "id": "NCS004",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Easy",
+    "question_text": "Explain a basic problem related to Compound Interest.",
+    "what_interviewer_is_looking_for": "Understanding of Compound Interest, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Compound Interest, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Compound Interest?",
+      "Can you solve a slightly more difficult Compound Interest problem?"
+    ]
+  },
+  {
+    "id": "NCS005",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Easy",
+    "question_text": "Explain a basic problem related to Time and Work.",
+    "what_interviewer_is_looking_for": "Understanding of Time and Work, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Time and Work, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Time and Work?",
+      "Can you solve a slightly more difficult Time and Work problem?"
+    ]
+  },
+  {
+    "id": "NCS006",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Easy",
+    "question_text": "Explain a basic problem related to Time Speed Distance.",
+    "what_interviewer_is_looking_for": "Understanding of Time Speed Distance, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Time Speed Distance, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Time Speed Distance?",
+      "Can you solve a slightly more difficult Time Speed Distance problem?"
+    ]
+  },
+  {
+    "id": "NCS007",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Easy",
+    "question_text": "Explain a basic problem related to Ratio and Proportion.",
+    "what_interviewer_is_looking_for": "Understanding of Ratio and Proportion, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Ratio and Proportion, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Ratio and Proportion?",
+      "Can you solve a slightly more difficult Ratio and Proportion problem?"
+    ]
+  },
+  {
+    "id": "NCS008",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Easy",
+    "question_text": "Explain a basic problem related to Averages.",
+    "what_interviewer_is_looking_for": "Understanding of Averages, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Averages, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Averages?",
+      "Can you solve a slightly more difficult Averages problem?"
+    ]
+  },
+  {
+    "id": "NCS009",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Easy",
+    "question_text": "Explain a basic problem related to Mixtures.",
+    "what_interviewer_is_looking_for": "Understanding of Mixtures, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Mixtures, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Mixtures?",
+      "Can you solve a slightly more difficult Mixtures problem?"
+    ]
+  },
+  {
+    "id": "NCS010",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Easy",
+    "question_text": "Explain a basic problem related to Probability.",
+    "what_interviewer_is_looking_for": "Understanding of Probability, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Probability, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Probability?",
+      "Can you solve a slightly more difficult Probability problem?"
+    ]
+  },
+  {
+    "id": "NCS011",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Easy",
+    "question_text": "Explain a basic problem related to Permutation and Combination.",
+    "what_interviewer_is_looking_for": "Understanding of Permutation and Combination, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Permutation and Combination, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Permutation and Combination?",
+      "Can you solve a slightly more difficult Permutation and Combination problem?"
+    ]
+  },
+  {
+    "id": "NCS012",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Easy",
+    "question_text": "Explain a basic problem related to Number Series.",
+    "what_interviewer_is_looking_for": "Understanding of Number Series, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Number Series, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Number Series?",
+      "Can you solve a slightly more difficult Number Series problem?"
+    ]
+  },
+  {
+    "id": "NCS013",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Easy",
+    "question_text": "Explain a basic problem related to Blood Relations.",
+    "what_interviewer_is_looking_for": "Understanding of Blood Relations, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Blood Relations, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Blood Relations?",
+      "Can you solve a slightly more difficult Blood Relations problem?"
+    ]
+  },
+  {
+    "id": "NCS014",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Easy",
+    "question_text": "Explain a basic problem related to Direction Sense.",
+    "what_interviewer_is_looking_for": "Understanding of Direction Sense, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Direction Sense, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Direction Sense?",
+      "Can you solve a slightly more difficult Direction Sense problem?"
+    ]
+  },
+  {
+    "id": "NCS015",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Easy",
+    "question_text": "Explain a basic problem related to Coding-Decoding.",
+    "what_interviewer_is_looking_for": "Understanding of Coding-Decoding, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Coding-Decoding, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Coding-Decoding?",
+      "Can you solve a slightly more difficult Coding-Decoding problem?"
+    ]
+  },
+  {
+    "id": "NCS016",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Easy",
+    "question_text": "Explain a basic problem related to Logical Puzzles.",
+    "what_interviewer_is_looking_for": "Understanding of Logical Puzzles, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Logical Puzzles, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Logical Puzzles?",
+      "Can you solve a slightly more difficult Logical Puzzles problem?"
+    ]
+  },
+  {
+    "id": "NCS017",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Easy",
+    "question_text": "Explain a basic problem related to Data Interpretation.",
+    "what_interviewer_is_looking_for": "Understanding of Data Interpretation, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Data Interpretation, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Data Interpretation?",
+      "Can you solve a slightly more difficult Data Interpretation problem?"
+    ]
+  },
+  {
+    "id": "NCS018",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Easy",
+    "question_text": "Explain a basic problem related to Seating Arrangement.",
+    "what_interviewer_is_looking_for": "Understanding of Seating Arrangement, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Seating Arrangement, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Seating Arrangement?",
+      "Can you solve a slightly more difficult Seating Arrangement problem?"
+    ]
+  },
+  {
+    "id": "NCS019",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Easy",
+    "question_text": "Explain a basic problem related to Calendar.",
+    "what_interviewer_is_looking_for": "Understanding of Calendar, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Calendar, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Calendar?",
+      "Can you solve a slightly more difficult Calendar problem?"
+    ]
+  },
+  {
+    "id": "NCS020",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Easy",
+    "question_text": "Explain a basic problem related to Clocks.",
+    "what_interviewer_is_looking_for": "Understanding of Clocks, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Clocks, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Clocks?",
+      "Can you solve a slightly more difficult Clocks problem?"
+    ]
+  },
+  {
+    "id": "NCS021",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Easy",
+    "question_text": "Explain a basic problem related to Percentage.",
+    "what_interviewer_is_looking_for": "Understanding of Percentage, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Percentage, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Percentage?",
+      "Can you solve a slightly more difficult Percentage problem?"
+    ]
+  },
+  {
+    "id": "NCS022",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Easy",
+    "question_text": "Explain a basic problem related to Profit and Loss.",
+    "what_interviewer_is_looking_for": "Understanding of Profit and Loss, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Profit and Loss, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Profit and Loss?",
+      "Can you solve a slightly more difficult Profit and Loss problem?"
+    ]
+  },
+  {
+    "id": "NCS023",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Easy",
+    "question_text": "Explain a basic problem related to Simple Interest.",
+    "what_interviewer_is_looking_for": "Understanding of Simple Interest, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Simple Interest, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Simple Interest?",
+      "Can you solve a slightly more difficult Simple Interest problem?"
+    ]
+  },
+  {
+    "id": "NCS024",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Easy",
+    "question_text": "Explain a basic problem related to Compound Interest.",
+    "what_interviewer_is_looking_for": "Understanding of Compound Interest, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Compound Interest, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Compound Interest?",
+      "Can you solve a slightly more difficult Compound Interest problem?"
+    ]
+  },
+  {
+    "id": "NCS025",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Easy",
+    "question_text": "Explain a basic problem related to Time and Work.",
+    "what_interviewer_is_looking_for": "Understanding of Time and Work, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Time and Work, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Time and Work?",
+      "Can you solve a slightly more difficult Time and Work problem?"
+    ]
+  },
+  {
+    "id": "NCS026",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Easy",
+    "question_text": "Explain a basic problem related to Time Speed Distance.",
+    "what_interviewer_is_looking_for": "Understanding of Time Speed Distance, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Time Speed Distance, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Time Speed Distance?",
+      "Can you solve a slightly more difficult Time Speed Distance problem?"
+    ]
+  },
+  {
+    "id": "NCS027",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Easy",
+    "question_text": "Explain a basic problem related to Ratio and Proportion.",
+    "what_interviewer_is_looking_for": "Understanding of Ratio and Proportion, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Ratio and Proportion, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Ratio and Proportion?",
+      "Can you solve a slightly more difficult Ratio and Proportion problem?"
+    ]
+  },
+  {
+    "id": "NCS028",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Easy",
+    "question_text": "Explain a basic problem related to Averages.",
+    "what_interviewer_is_looking_for": "Understanding of Averages, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Averages, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Averages?",
+      "Can you solve a slightly more difficult Averages problem?"
+    ]
+  },
+  {
+    "id": "NCS029",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Easy",
+    "question_text": "Explain a basic problem related to Mixtures.",
+    "what_interviewer_is_looking_for": "Understanding of Mixtures, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Mixtures, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Mixtures?",
+      "Can you solve a slightly more difficult Mixtures problem?"
+    ]
+  },
+  {
+    "id": "NCS030",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Easy",
+    "question_text": "Explain a basic problem related to Probability.",
+    "what_interviewer_is_looking_for": "Understanding of Probability, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Probability, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Probability?",
+      "Can you solve a slightly more difficult Probability problem?"
+    ]
+  },
+  {
+    "id": "NCS031",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Easy",
+    "question_text": "Explain a basic problem related to Permutation and Combination.",
+    "what_interviewer_is_looking_for": "Understanding of Permutation and Combination, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Permutation and Combination, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Permutation and Combination?",
+      "Can you solve a slightly more difficult Permutation and Combination problem?"
+    ]
+  },
+  {
+    "id": "NCS032",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Easy",
+    "question_text": "Explain a basic problem related to Number Series.",
+    "what_interviewer_is_looking_for": "Understanding of Number Series, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Number Series, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Number Series?",
+      "Can you solve a slightly more difficult Number Series problem?"
+    ]
+  },
+  {
+    "id": "NCS033",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Easy",
+    "question_text": "Explain a basic problem related to Blood Relations.",
+    "what_interviewer_is_looking_for": "Understanding of Blood Relations, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Blood Relations, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Blood Relations?",
+      "Can you solve a slightly more difficult Blood Relations problem?"
+    ]
+  },
+  {
+    "id": "NCS034",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Easy",
+    "question_text": "Explain a basic problem related to Direction Sense.",
+    "what_interviewer_is_looking_for": "Understanding of Direction Sense, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Direction Sense, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Direction Sense?",
+      "Can you solve a slightly more difficult Direction Sense problem?"
+    ]
+  },
+  {
+    "id": "NCS035",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Easy",
+    "question_text": "Explain a basic problem related to Coding-Decoding.",
+    "what_interviewer_is_looking_for": "Understanding of Coding-Decoding, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Coding-Decoding, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Coding-Decoding?",
+      "Can you solve a slightly more difficult Coding-Decoding problem?"
+    ]
+  },
+  {
+    "id": "NCS036",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Medium",
+    "question_text": "Explain a basic problem related to Logical Puzzles.",
+    "what_interviewer_is_looking_for": "Understanding of Logical Puzzles, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Logical Puzzles, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Logical Puzzles?",
+      "Can you solve a slightly more difficult Logical Puzzles problem?"
+    ]
+  },
+  {
+    "id": "NCS037",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Medium",
+    "question_text": "Explain a basic problem related to Data Interpretation.",
+    "what_interviewer_is_looking_for": "Understanding of Data Interpretation, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Data Interpretation, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Data Interpretation?",
+      "Can you solve a slightly more difficult Data Interpretation problem?"
+    ]
+  },
+  {
+    "id": "NCS038",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Medium",
+    "question_text": "Explain a basic problem related to Seating Arrangement.",
+    "what_interviewer_is_looking_for": "Understanding of Seating Arrangement, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Seating Arrangement, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Seating Arrangement?",
+      "Can you solve a slightly more difficult Seating Arrangement problem?"
+    ]
+  },
+  {
+    "id": "NCS039",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Medium",
+    "question_text": "Explain a basic problem related to Calendar.",
+    "what_interviewer_is_looking_for": "Understanding of Calendar, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Calendar, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Calendar?",
+      "Can you solve a slightly more difficult Calendar problem?"
+    ]
+  },
+  {
+    "id": "NCS040",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Medium",
+    "question_text": "Explain a basic problem related to Clocks.",
+    "what_interviewer_is_looking_for": "Understanding of Clocks, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Clocks, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Clocks?",
+      "Can you solve a slightly more difficult Clocks problem?"
+    ]
+  },
+  {
+    "id": "NCS041",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Medium",
+    "question_text": "Explain a basic problem related to Percentage.",
+    "what_interviewer_is_looking_for": "Understanding of Percentage, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Percentage, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Percentage?",
+      "Can you solve a slightly more difficult Percentage problem?"
+    ]
+  },
+  {
+    "id": "NCS042",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Medium",
+    "question_text": "Explain a basic problem related to Profit and Loss.",
+    "what_interviewer_is_looking_for": "Understanding of Profit and Loss, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Profit and Loss, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Profit and Loss?",
+      "Can you solve a slightly more difficult Profit and Loss problem?"
+    ]
+  },
+  {
+    "id": "NCS043",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Medium",
+    "question_text": "Explain a basic problem related to Simple Interest.",
+    "what_interviewer_is_looking_for": "Understanding of Simple Interest, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Simple Interest, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Simple Interest?",
+      "Can you solve a slightly more difficult Simple Interest problem?"
+    ]
+  },
+  {
+    "id": "NCS044",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Medium",
+    "question_text": "Explain a basic problem related to Compound Interest.",
+    "what_interviewer_is_looking_for": "Understanding of Compound Interest, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Compound Interest, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Compound Interest?",
+      "Can you solve a slightly more difficult Compound Interest problem?"
+    ]
+  },
+  {
+    "id": "NCS045",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Medium",
+    "question_text": "Explain a basic problem related to Time and Work.",
+    "what_interviewer_is_looking_for": "Understanding of Time and Work, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Time and Work, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Time and Work?",
+      "Can you solve a slightly more difficult Time and Work problem?"
+    ]
+  },
+  {
+    "id": "NCS046",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Medium",
+    "question_text": "Explain a basic problem related to Time Speed Distance.",
+    "what_interviewer_is_looking_for": "Understanding of Time Speed Distance, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Time Speed Distance, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Time Speed Distance?",
+      "Can you solve a slightly more difficult Time Speed Distance problem?"
+    ]
+  },
+  {
+    "id": "NCS047",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Medium",
+    "question_text": "Explain a basic problem related to Ratio and Proportion.",
+    "what_interviewer_is_looking_for": "Understanding of Ratio and Proportion, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Ratio and Proportion, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Ratio and Proportion?",
+      "Can you solve a slightly more difficult Ratio and Proportion problem?"
+    ]
+  },
+  {
+    "id": "NCS048",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Medium",
+    "question_text": "Explain a basic problem related to Averages.",
+    "what_interviewer_is_looking_for": "Understanding of Averages, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Averages, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Averages?",
+      "Can you solve a slightly more difficult Averages problem?"
+    ]
+  },
+  {
+    "id": "NCS049",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Medium",
+    "question_text": "Explain a basic problem related to Mixtures.",
+    "what_interviewer_is_looking_for": "Understanding of Mixtures, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Mixtures, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Mixtures?",
+      "Can you solve a slightly more difficult Mixtures problem?"
+    ]
+  },
+  {
+    "id": "NCS050",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Medium",
+    "question_text": "Explain a basic problem related to Probability.",
+    "what_interviewer_is_looking_for": "Understanding of Probability, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Probability, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Probability?",
+      "Can you solve a slightly more difficult Probability problem?"
+    ]
+  },
+  {
+    "id": "NCS051",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Medium",
+    "question_text": "Explain a basic problem related to Permutation and Combination.",
+    "what_interviewer_is_looking_for": "Understanding of Permutation and Combination, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Permutation and Combination, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Permutation and Combination?",
+      "Can you solve a slightly more difficult Permutation and Combination problem?"
+    ]
+  },
+  {
+    "id": "NCS052",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Medium",
+    "question_text": "Explain a basic problem related to Number Series.",
+    "what_interviewer_is_looking_for": "Understanding of Number Series, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Number Series, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Number Series?",
+      "Can you solve a slightly more difficult Number Series problem?"
+    ]
+  },
+  {
+    "id": "NCS053",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Medium",
+    "question_text": "Explain a basic problem related to Blood Relations.",
+    "what_interviewer_is_looking_for": "Understanding of Blood Relations, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Blood Relations, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Blood Relations?",
+      "Can you solve a slightly more difficult Blood Relations problem?"
+    ]
+  },
+  {
+    "id": "NCS054",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Medium",
+    "question_text": "Explain a basic problem related to Direction Sense.",
+    "what_interviewer_is_looking_for": "Understanding of Direction Sense, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Direction Sense, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Direction Sense?",
+      "Can you solve a slightly more difficult Direction Sense problem?"
+    ]
+  },
+  {
+    "id": "NCS055",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Medium",
+    "question_text": "Explain a basic problem related to Coding-Decoding.",
+    "what_interviewer_is_looking_for": "Understanding of Coding-Decoding, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Coding-Decoding, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Coding-Decoding?",
+      "Can you solve a slightly more difficult Coding-Decoding problem?"
+    ]
+  },
+  {
+    "id": "NCS056",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Medium",
+    "question_text": "Explain a basic problem related to Logical Puzzles.",
+    "what_interviewer_is_looking_for": "Understanding of Logical Puzzles, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Logical Puzzles, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Logical Puzzles?",
+      "Can you solve a slightly more difficult Logical Puzzles problem?"
+    ]
+  },
+  {
+    "id": "NCS057",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Medium",
+    "question_text": "Explain a basic problem related to Data Interpretation.",
+    "what_interviewer_is_looking_for": "Understanding of Data Interpretation, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Data Interpretation, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Data Interpretation?",
+      "Can you solve a slightly more difficult Data Interpretation problem?"
+    ]
+  },
+  {
+    "id": "NCS058",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Medium",
+    "question_text": "Explain a basic problem related to Seating Arrangement.",
+    "what_interviewer_is_looking_for": "Understanding of Seating Arrangement, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Seating Arrangement, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Seating Arrangement?",
+      "Can you solve a slightly more difficult Seating Arrangement problem?"
+    ]
+  },
+  {
+    "id": "NCS059",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Medium",
+    "question_text": "Explain a basic problem related to Calendar.",
+    "what_interviewer_is_looking_for": "Understanding of Calendar, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Calendar, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Calendar?",
+      "Can you solve a slightly more difficult Calendar problem?"
+    ]
+  },
+  {
+    "id": "NCS060",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Medium",
+    "question_text": "Explain a basic problem related to Clocks.",
+    "what_interviewer_is_looking_for": "Understanding of Clocks, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Clocks, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Clocks?",
+      "Can you solve a slightly more difficult Clocks problem?"
+    ]
+  },
+  {
+    "id": "NCS061",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Medium",
+    "question_text": "Explain a basic problem related to Percentage.",
+    "what_interviewer_is_looking_for": "Understanding of Percentage, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Percentage, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Percentage?",
+      "Can you solve a slightly more difficult Percentage problem?"
+    ]
+  },
+  {
+    "id": "NCS062",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Medium",
+    "question_text": "Explain a basic problem related to Profit and Loss.",
+    "what_interviewer_is_looking_for": "Understanding of Profit and Loss, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Profit and Loss, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Profit and Loss?",
+      "Can you solve a slightly more difficult Profit and Loss problem?"
+    ]
+  },
+  {
+    "id": "NCS063",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Medium",
+    "question_text": "Explain a basic problem related to Simple Interest.",
+    "what_interviewer_is_looking_for": "Understanding of Simple Interest, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Simple Interest, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Simple Interest?",
+      "Can you solve a slightly more difficult Simple Interest problem?"
+    ]
+  },
+  {
+    "id": "NCS064",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Medium",
+    "question_text": "Explain a basic problem related to Compound Interest.",
+    "what_interviewer_is_looking_for": "Understanding of Compound Interest, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Compound Interest, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Compound Interest?",
+      "Can you solve a slightly more difficult Compound Interest problem?"
+    ]
+  },
+  {
+    "id": "NCS065",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Medium",
+    "question_text": "Explain a basic problem related to Time and Work.",
+    "what_interviewer_is_looking_for": "Understanding of Time and Work, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Time and Work, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Time and Work?",
+      "Can you solve a slightly more difficult Time and Work problem?"
+    ]
+  },
+  {
+    "id": "NCS066",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Medium",
+    "question_text": "Explain a basic problem related to Time Speed Distance.",
+    "what_interviewer_is_looking_for": "Understanding of Time Speed Distance, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Time Speed Distance, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Time Speed Distance?",
+      "Can you solve a slightly more difficult Time Speed Distance problem?"
+    ]
+  },
+  {
+    "id": "NCS067",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Medium",
+    "question_text": "Explain a basic problem related to Ratio and Proportion.",
+    "what_interviewer_is_looking_for": "Understanding of Ratio and Proportion, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Ratio and Proportion, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Ratio and Proportion?",
+      "Can you solve a slightly more difficult Ratio and Proportion problem?"
+    ]
+  },
+  {
+    "id": "NCS068",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Medium",
+    "question_text": "Explain a basic problem related to Averages.",
+    "what_interviewer_is_looking_for": "Understanding of Averages, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Averages, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Averages?",
+      "Can you solve a slightly more difficult Averages problem?"
+    ]
+  },
+  {
+    "id": "NCS069",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Medium",
+    "question_text": "Explain a basic problem related to Mixtures.",
+    "what_interviewer_is_looking_for": "Understanding of Mixtures, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Mixtures, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Mixtures?",
+      "Can you solve a slightly more difficult Mixtures problem?"
+    ]
+  },
+  {
+    "id": "NCS070",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Medium",
+    "question_text": "Explain a basic problem related to Probability.",
+    "what_interviewer_is_looking_for": "Understanding of Probability, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Probability, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Probability?",
+      "Can you solve a slightly more difficult Probability problem?"
+    ]
+  },
+  {
+    "id": "NCS071",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Medium",
+    "question_text": "Explain a basic problem related to Permutation and Combination.",
+    "what_interviewer_is_looking_for": "Understanding of Permutation and Combination, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Permutation and Combination, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Permutation and Combination?",
+      "Can you solve a slightly more difficult Permutation and Combination problem?"
+    ]
+  },
+  {
+    "id": "NCS072",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Medium",
+    "question_text": "Explain a basic problem related to Number Series.",
+    "what_interviewer_is_looking_for": "Understanding of Number Series, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Number Series, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Number Series?",
+      "Can you solve a slightly more difficult Number Series problem?"
+    ]
+  },
+  {
+    "id": "NCS073",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Medium",
+    "question_text": "Explain a basic problem related to Blood Relations.",
+    "what_interviewer_is_looking_for": "Understanding of Blood Relations, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Blood Relations, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Blood Relations?",
+      "Can you solve a slightly more difficult Blood Relations problem?"
+    ]
+  },
+  {
+    "id": "NCS074",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Medium",
+    "question_text": "Explain a basic problem related to Direction Sense.",
+    "what_interviewer_is_looking_for": "Understanding of Direction Sense, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Direction Sense, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Direction Sense?",
+      "Can you solve a slightly more difficult Direction Sense problem?"
+    ]
+  },
+  {
+    "id": "NCS075",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Medium",
+    "question_text": "Explain a basic problem related to Coding-Decoding.",
+    "what_interviewer_is_looking_for": "Understanding of Coding-Decoding, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Coding-Decoding, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Coding-Decoding?",
+      "Can you solve a slightly more difficult Coding-Decoding problem?"
+    ]
+  },
+  {
+    "id": "NCS076",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Hard",
+    "question_text": "Explain a basic problem related to Logical Puzzles.",
+    "what_interviewer_is_looking_for": "Understanding of Logical Puzzles, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Logical Puzzles, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Logical Puzzles?",
+      "Can you solve a slightly more difficult Logical Puzzles problem?"
+    ]
+  },
+  {
+    "id": "NCS077",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Hard",
+    "question_text": "Explain a basic problem related to Data Interpretation.",
+    "what_interviewer_is_looking_for": "Understanding of Data Interpretation, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Data Interpretation, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Data Interpretation?",
+      "Can you solve a slightly more difficult Data Interpretation problem?"
+    ]
+  },
+  {
+    "id": "NCS078",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Hard",
+    "question_text": "Explain a basic problem related to Seating Arrangement.",
+    "what_interviewer_is_looking_for": "Understanding of Seating Arrangement, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Seating Arrangement, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Seating Arrangement?",
+      "Can you solve a slightly more difficult Seating Arrangement problem?"
+    ]
+  },
+  {
+    "id": "NCS079",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Hard",
+    "question_text": "Explain a basic problem related to Calendar.",
+    "what_interviewer_is_looking_for": "Understanding of Calendar, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Calendar, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Calendar?",
+      "Can you solve a slightly more difficult Calendar problem?"
+    ]
+  },
+  {
+    "id": "NCS080",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Hard",
+    "question_text": "Explain a basic problem related to Clocks.",
+    "what_interviewer_is_looking_for": "Understanding of Clocks, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Clocks, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Clocks?",
+      "Can you solve a slightly more difficult Clocks problem?"
+    ]
+  },
+  {
+    "id": "NCS081",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Hard",
+    "question_text": "Explain a basic problem related to Percentage.",
+    "what_interviewer_is_looking_for": "Understanding of Percentage, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Percentage, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Percentage?",
+      "Can you solve a slightly more difficult Percentage problem?"
+    ]
+  },
+  {
+    "id": "NCS082",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Hard",
+    "question_text": "Explain a basic problem related to Profit and Loss.",
+    "what_interviewer_is_looking_for": "Understanding of Profit and Loss, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Profit and Loss, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Profit and Loss?",
+      "Can you solve a slightly more difficult Profit and Loss problem?"
+    ]
+  },
+  {
+    "id": "NCS083",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Hard",
+    "question_text": "Explain a basic problem related to Simple Interest.",
+    "what_interviewer_is_looking_for": "Understanding of Simple Interest, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Simple Interest, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Simple Interest?",
+      "Can you solve a slightly more difficult Simple Interest problem?"
+    ]
+  },
+  {
+    "id": "NCS084",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Hard",
+    "question_text": "Explain a basic problem related to Compound Interest.",
+    "what_interviewer_is_looking_for": "Understanding of Compound Interest, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Compound Interest, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Compound Interest?",
+      "Can you solve a slightly more difficult Compound Interest problem?"
+    ]
+  },
+  {
+    "id": "NCS085",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Hard",
+    "question_text": "Explain a basic problem related to Time and Work.",
+    "what_interviewer_is_looking_for": "Understanding of Time and Work, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Time and Work, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Time and Work?",
+      "Can you solve a slightly more difficult Time and Work problem?"
+    ]
+  },
+  {
+    "id": "NCS086",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Hard",
+    "question_text": "Explain a basic problem related to Time Speed Distance.",
+    "what_interviewer_is_looking_for": "Understanding of Time Speed Distance, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Time Speed Distance, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Time Speed Distance?",
+      "Can you solve a slightly more difficult Time Speed Distance problem?"
+    ]
+  },
+  {
+    "id": "NCS087",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Hard",
+    "question_text": "Explain a basic problem related to Ratio and Proportion.",
+    "what_interviewer_is_looking_for": "Understanding of Ratio and Proportion, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Ratio and Proportion, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Ratio and Proportion?",
+      "Can you solve a slightly more difficult Ratio and Proportion problem?"
+    ]
+  },
+  {
+    "id": "NCS088",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Hard",
+    "question_text": "Explain a basic problem related to Averages.",
+    "what_interviewer_is_looking_for": "Understanding of Averages, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Averages, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Averages?",
+      "Can you solve a slightly more difficult Averages problem?"
+    ]
+  },
+  {
+    "id": "NCS089",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Hard",
+    "question_text": "Explain a basic problem related to Mixtures.",
+    "what_interviewer_is_looking_for": "Understanding of Mixtures, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Mixtures, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Mixtures?",
+      "Can you solve a slightly more difficult Mixtures problem?"
+    ]
+  },
+  {
+    "id": "NCS090",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Hard",
+    "question_text": "Explain a basic problem related to Probability.",
+    "what_interviewer_is_looking_for": "Understanding of Probability, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Probability, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Probability?",
+      "Can you solve a slightly more difficult Probability problem?"
+    ]
+  },
+  {
+    "id": "NCS091",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Hard",
+    "question_text": "Explain a basic problem related to Permutation and Combination.",
+    "what_interviewer_is_looking_for": "Understanding of Permutation and Combination, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Permutation and Combination, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Permutation and Combination?",
+      "Can you solve a slightly more difficult Permutation and Combination problem?"
+    ]
+  },
+  {
+    "id": "NCS092",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Hard",
+    "question_text": "Explain a basic problem related to Number Series.",
+    "what_interviewer_is_looking_for": "Understanding of Number Series, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Number Series, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Number Series?",
+      "Can you solve a slightly more difficult Number Series problem?"
+    ]
+  },
+  {
+    "id": "NCS093",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Hard",
+    "question_text": "Explain a basic problem related to Blood Relations.",
+    "what_interviewer_is_looking_for": "Understanding of Blood Relations, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Blood Relations, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Blood Relations?",
+      "Can you solve a slightly more difficult Blood Relations problem?"
+    ]
+  },
+  {
+    "id": "NCS094",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Hard",
+    "question_text": "Explain a basic problem related to Direction Sense.",
+    "what_interviewer_is_looking_for": "Understanding of Direction Sense, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Direction Sense, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Direction Sense?",
+      "Can you solve a slightly more difficult Direction Sense problem?"
+    ]
+  },
+  {
+    "id": "NCS095",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Hard",
+    "question_text": "Explain a basic problem related to Coding-Decoding.",
+    "what_interviewer_is_looking_for": "Understanding of Coding-Decoding, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Coding-Decoding, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Coding-Decoding?",
+      "Can you solve a slightly more difficult Coding-Decoding problem?"
+    ]
+  },
+  {
+    "id": "NCS096",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Hard",
+    "question_text": "Explain a basic problem related to Logical Puzzles.",
+    "what_interviewer_is_looking_for": "Understanding of Logical Puzzles, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Logical Puzzles, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Logical Puzzles?",
+      "Can you solve a slightly more difficult Logical Puzzles problem?"
+    ]
+  },
+  {
+    "id": "NCS097",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Hard",
+    "question_text": "Explain a basic problem related to Data Interpretation.",
+    "what_interviewer_is_looking_for": "Understanding of Data Interpretation, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Data Interpretation, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Data Interpretation?",
+      "Can you solve a slightly more difficult Data Interpretation problem?"
+    ]
+  },
+  {
+    "id": "NCS098",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Hard",
+    "question_text": "Explain a basic problem related to Seating Arrangement.",
+    "what_interviewer_is_looking_for": "Understanding of Seating Arrangement, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Seating Arrangement, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Seating Arrangement?",
+      "Can you solve a slightly more difficult Seating Arrangement problem?"
+    ]
+  },
+  {
+    "id": "NCS099",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Hard",
+    "question_text": "Explain a basic problem related to Calendar.",
+    "what_interviewer_is_looking_for": "Understanding of Calendar, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Calendar, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Calendar?",
+      "Can you solve a slightly more difficult Calendar problem?"
+    ]
+  },
+  {
+    "id": "NCS100",
+    "category": "Technical Non-CS",
+    "domain": "Non-CS",
+    "difficulty": "Hard",
+    "question_text": "Explain a basic problem related to Clocks.",
+    "what_interviewer_is_looking_for": "Understanding of Clocks, logical thinking, calculation accuracy, and problem-solving approach.",
+    "sample_strong_answer": "A strong answer should explain the formula or logic used in Clocks, solve the problem step by step, and provide the correct conclusion clearly.",
+    "common_mistakes_to_avoid": [
+      "Skipping calculation steps",
+      "Using wrong formulas",
+      "Giving answer without explanation"
+    ],
+    "follow_up_questions": [
+      "What formula is commonly used in Clocks?",
+      "Can you solve a slightly more difficult Clocks problem?"
+    ]
+  }
+]

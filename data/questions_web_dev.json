@@ -1,0 +1,902 @@
+[
+  {
+    "id": "WEB001",
+    "category": "Web Development",
+    "domain": "Web Development",
+    "difficulty": "Easy",
+    "question_text": "Explain the concept of HTML in Web Development.",
+    "what_interviewer_is_looking_for": "Understanding of HTML, practical implementation, real-world usage, and development workflow.",
+    "sample_strong_answer": "HTML is an important concept in Web Development used to build responsive, interactive, and scalable web applications. A strong answer should explain the concept clearly with examples and practical use cases.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical applications",
+      "No real-world examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a practical example of HTML?",
+      "What tools or frameworks are commonly used with HTML?"
+    ]
+  },
+  {
+    "id": "WEB002",
+    "category": "Web Development",
+    "domain": "Web Development",
+    "difficulty": "Easy",
+    "question_text": "Explain the concept of CSS in Web Development.",
+    "what_interviewer_is_looking_for": "Understanding of CSS, practical implementation, real-world usage, and development workflow.",
+    "sample_strong_answer": "CSS is an important concept in Web Development used to build responsive, interactive, and scalable web applications. A strong answer should explain the concept clearly with examples and practical use cases.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical applications",
+      "No real-world examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a practical example of CSS?",
+      "What tools or frameworks are commonly used with CSS?"
+    ]
+  },
+  {
+    "id": "WEB003",
+    "category": "Web Development",
+    "domain": "Web Development",
+    "difficulty": "Easy",
+    "question_text": "Explain the concept of JavaScript in Web Development.",
+    "what_interviewer_is_looking_for": "Understanding of JavaScript, practical implementation, real-world usage, and development workflow.",
+    "sample_strong_answer": "JavaScript is an important concept in Web Development used to build responsive, interactive, and scalable web applications. A strong answer should explain the concept clearly with examples and practical use cases.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical applications",
+      "No real-world examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a practical example of JavaScript?",
+      "What tools or frameworks are commonly used with JavaScript?"
+    ]
+  },
+  {
+    "id": "WEB004",
+    "category": "Web Development",
+    "domain": "Web Development",
+    "difficulty": "Easy",
+    "question_text": "Explain the concept of DOM Manipulation in Web Development.",
+    "what_interviewer_is_looking_for": "Understanding of DOM Manipulation, practical implementation, real-world usage, and development workflow.",
+    "sample_strong_answer": "DOM Manipulation is an important concept in Web Development used to build responsive, interactive, and scalable web applications. A strong answer should explain the concept clearly with examples and practical use cases.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical applications",
+      "No real-world examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a practical example of DOM Manipulation?",
+      "What tools or frameworks are commonly used with DOM Manipulation?"
+    ]
+  },
+  {
+    "id": "WEB005",
+    "category": "Web Development",
+    "domain": "Web Development",
+    "difficulty": "Easy",
+    "question_text": "Explain the concept of Responsive Design in Web Development.",
+    "what_interviewer_is_looking_for": "Understanding of Responsive Design, practical implementation, real-world usage, and development workflow.",
+    "sample_strong_answer": "Responsive Design is an important concept in Web Development used to build responsive, interactive, and scalable web applications. A strong answer should explain the concept clearly with examples and practical use cases.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical applications",
+      "No real-world examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a practical example of Responsive Design?",
+      "What tools or frameworks are commonly used with Responsive Design?"
+    ]
+  },
+  {
+    "id": "WEB006",
+    "category": "Web Development",
+    "domain": "Web Development",
+    "difficulty": "Easy",
+    "question_text": "Explain the concept of Flexbox in Web Development.",
+    "what_interviewer_is_looking_for": "Understanding of Flexbox, practical implementation, real-world usage, and development workflow.",
+    "sample_strong_answer": "Flexbox is an important concept in Web Development used to build responsive, interactive, and scalable web applications. A strong answer should explain the concept clearly with examples and practical use cases.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical applications",
+      "No real-world examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a practical example of Flexbox?",
+      "What tools or frameworks are commonly used with Flexbox?"
+    ]
+  },
+  {
+    "id": "WEB007",
+    "category": "Web Development",
+    "domain": "Web Development",
+    "difficulty": "Easy",
+    "question_text": "Explain the concept of CSS Grid in Web Development.",
+    "what_interviewer_is_looking_for": "Understanding of CSS Grid, practical implementation, real-world usage, and development workflow.",
+    "sample_strong_answer": "CSS Grid is an important concept in Web Development used to build responsive, interactive, and scalable web applications. A strong answer should explain the concept clearly with examples and practical use cases.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical applications",
+      "No real-world examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a practical example of CSS Grid?",
+      "What tools or frameworks are commonly used with CSS Grid?"
+    ]
+  },
+  {
+    "id": "WEB008",
+    "category": "Web Development",
+    "domain": "Web Development",
+    "difficulty": "Easy",
+    "question_text": "Explain the concept of Bootstrap in Web Development.",
+    "what_interviewer_is_looking_for": "Understanding of Bootstrap, practical implementation, real-world usage, and development workflow.",
+    "sample_strong_answer": "Bootstrap is an important concept in Web Development used to build responsive, interactive, and scalable web applications. A strong answer should explain the concept clearly with examples and practical use cases.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical applications",
+      "No real-world examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a practical example of Bootstrap?",
+      "What tools or frameworks are commonly used with Bootstrap?"
+    ]
+  },
+  {
+    "id": "WEB009",
+    "category": "Web Development",
+    "domain": "Web Development",
+    "difficulty": "Easy",
+    "question_text": "Explain the concept of React in Web Development.",
+    "what_interviewer_is_looking_for": "Understanding of React, practical implementation, real-world usage, and development workflow.",
+    "sample_strong_answer": "React is an important concept in Web Development used to build responsive, interactive, and scalable web applications. A strong answer should explain the concept clearly with examples and practical use cases.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical applications",
+      "No real-world examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a practical example of React?",
+      "What tools or frameworks are commonly used with React?"
+    ]
+  },
+  {
+    "id": "WEB010",
+    "category": "Web Development",
+    "domain": "Web Development",
+    "difficulty": "Easy",
+    "question_text": "Explain the concept of React Components in Web Development.",
+    "what_interviewer_is_looking_for": "Understanding of React Components, practical implementation, real-world usage, and development workflow.",
+    "sample_strong_answer": "React Components is an important concept in Web Development used to build responsive, interactive, and scalable web applications. A strong answer should explain the concept clearly with examples and practical use cases.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical applications",
+      "No real-world examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a practical example of React Components?",
+      "What tools or frameworks are commonly used with React Components?"
+    ]
+  },
+  {
+    "id": "WEB011",
+    "category": "Web Development",
+    "domain": "Web Development",
+    "difficulty": "Easy",
+    "question_text": "Explain the concept of Props and State in Web Development.",
+    "what_interviewer_is_looking_for": "Understanding of Props and State, practical implementation, real-world usage, and development workflow.",
+    "sample_strong_answer": "Props and State is an important concept in Web Development used to build responsive, interactive, and scalable web applications. A strong answer should explain the concept clearly with examples and practical use cases.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical applications",
+      "No real-world examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a practical example of Props and State?",
+      "What tools or frameworks are commonly used with Props and State?"
+    ]
+  },
+  {
+    "id": "WEB012",
+    "category": "Web Development",
+    "domain": "Web Development",
+    "difficulty": "Easy",
+    "question_text": "Explain the concept of Hooks in Web Development.",
+    "what_interviewer_is_looking_for": "Understanding of Hooks, practical implementation, real-world usage, and development workflow.",
+    "sample_strong_answer": "Hooks is an important concept in Web Development used to build responsive, interactive, and scalable web applications. A strong answer should explain the concept clearly with examples and practical use cases.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical applications",
+      "No real-world examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a practical example of Hooks?",
+      "What tools or frameworks are commonly used with Hooks?"
+    ]
+  },
+  {
+    "id": "WEB013",
+    "category": "Web Development",
+    "domain": "Web Development",
+    "difficulty": "Easy",
+    "question_text": "Explain the concept of API Integration in Web Development.",
+    "what_interviewer_is_looking_for": "Understanding of API Integration, practical implementation, real-world usage, and development workflow.",
+    "sample_strong_answer": "API Integration is an important concept in Web Development used to build responsive, interactive, and scalable web applications. A strong answer should explain the concept clearly with examples and practical use cases.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical applications",
+      "No real-world examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a practical example of API Integration?",
+      "What tools or frameworks are commonly used with API Integration?"
+    ]
+  },
+  {
+    "id": "WEB014",
+    "category": "Web Development",
+    "domain": "Web Development",
+    "difficulty": "Easy",
+    "question_text": "Explain the concept of REST API in Web Development.",
+    "what_interviewer_is_looking_for": "Understanding of REST API, practical implementation, real-world usage, and development workflow.",
+    "sample_strong_answer": "REST API is an important concept in Web Development used to build responsive, interactive, and scalable web applications. A strong answer should explain the concept clearly with examples and practical use cases.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical applications",
+      "No real-world examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a practical example of REST API?",
+      "What tools or frameworks are commonly used with REST API?"
+    ]
+  },
+  {
+    "id": "WEB015",
+    "category": "Web Development",
+    "domain": "Web Development",
+    "difficulty": "Easy",
+    "question_text": "Explain the concept of JSON in Web Development.",
+    "what_interviewer_is_looking_for": "Understanding of JSON, practical implementation, real-world usage, and development workflow.",
+    "sample_strong_answer": "JSON is an important concept in Web Development used to build responsive, interactive, and scalable web applications. A strong answer should explain the concept clearly with examples and practical use cases.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical applications",
+      "No real-world examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a practical example of JSON?",
+      "What tools or frameworks are commonly used with JSON?"
+    ]
+  },
+  {
+    "id": "WEB016",
+    "category": "Web Development",
+    "domain": "Web Development",
+    "difficulty": "Easy",
+    "question_text": "Explain the concept of Frontend Development in Web Development.",
+    "what_interviewer_is_looking_for": "Understanding of Frontend Development, practical implementation, real-world usage, and development workflow.",
+    "sample_strong_answer": "Frontend Development is an important concept in Web Development used to build responsive, interactive, and scalable web applications. A strong answer should explain the concept clearly with examples and practical use cases.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical applications",
+      "No real-world examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a practical example of Frontend Development?",
+      "What tools or frameworks are commonly used with Frontend Development?"
+    ]
+  },
+  {
+    "id": "WEB017",
+    "category": "Web Development",
+    "domain": "Web Development",
+    "difficulty": "Easy",
+    "question_text": "Explain the concept of Backend Development in Web Development.",
+    "what_interviewer_is_looking_for": "Understanding of Backend Development, practical implementation, real-world usage, and development workflow.",
+    "sample_strong_answer": "Backend Development is an important concept in Web Development used to build responsive, interactive, and scalable web applications. A strong answer should explain the concept clearly with examples and practical use cases.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical applications",
+      "No real-world examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a practical example of Backend Development?",
+      "What tools or frameworks are commonly used with Backend Development?"
+    ]
+  },
+  {
+    "id": "WEB018",
+    "category": "Web Development",
+    "domain": "Web Development",
+    "difficulty": "Easy",
+    "question_text": "Explain the concept of Node.js in Web Development.",
+    "what_interviewer_is_looking_for": "Understanding of Node.js, practical implementation, real-world usage, and development workflow.",
+    "sample_strong_answer": "Node.js is an important concept in Web Development used to build responsive, interactive, and scalable web applications. A strong answer should explain the concept clearly with examples and practical use cases.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical applications",
+      "No real-world examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a practical example of Node.js?",
+      "What tools or frameworks are commonly used with Node.js?"
+    ]
+  },
+  {
+    "id": "WEB019",
+    "category": "Web Development",
+    "domain": "Web Development",
+    "difficulty": "Medium",
+    "question_text": "Explain the concept of Express.js in Web Development.",
+    "what_interviewer_is_looking_for": "Understanding of Express.js, practical implementation, real-world usage, and development workflow.",
+    "sample_strong_answer": "Express.js is an important concept in Web Development used to build responsive, interactive, and scalable web applications. A strong answer should explain the concept clearly with examples and practical use cases.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical applications",
+      "No real-world examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a practical example of Express.js?",
+      "What tools or frameworks are commonly used with Express.js?"
+    ]
+  },
+  {
+    "id": "WEB020",
+    "category": "Web Development",
+    "domain": "Web Development",
+    "difficulty": "Medium",
+    "question_text": "Explain the concept of MongoDB in Web Development.",
+    "what_interviewer_is_looking_for": "Understanding of MongoDB, practical implementation, real-world usage, and development workflow.",
+    "sample_strong_answer": "MongoDB is an important concept in Web Development used to build responsive, interactive, and scalable web applications. A strong answer should explain the concept clearly with examples and practical use cases.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical applications",
+      "No real-world examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a practical example of MongoDB?",
+      "What tools or frameworks are commonly used with MongoDB?"
+    ]
+  },
+  {
+    "id": "WEB021",
+    "category": "Web Development",
+    "domain": "Web Development",
+    "difficulty": "Medium",
+    "question_text": "Explain the concept of SQL Database in Web Development.",
+    "what_interviewer_is_looking_for": "Understanding of SQL Database, practical implementation, real-world usage, and development workflow.",
+    "sample_strong_answer": "SQL Database is an important concept in Web Development used to build responsive, interactive, and scalable web applications. A strong answer should explain the concept clearly with examples and practical use cases.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical applications",
+      "No real-world examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a practical example of SQL Database?",
+      "What tools or frameworks are commonly used with SQL Database?"
+    ]
+  },
+  {
+    "id": "WEB022",
+    "category": "Web Development",
+    "domain": "Web Development",
+    "difficulty": "Medium",
+    "question_text": "Explain the concept of Authentication in Web Development.",
+    "what_interviewer_is_looking_for": "Understanding of Authentication, practical implementation, real-world usage, and development workflow.",
+    "sample_strong_answer": "Authentication is an important concept in Web Development used to build responsive, interactive, and scalable web applications. A strong answer should explain the concept clearly with examples and practical use cases.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical applications",
+      "No real-world examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a practical example of Authentication?",
+      "What tools or frameworks are commonly used with Authentication?"
+    ]
+  },
+  {
+    "id": "WEB023",
+    "category": "Web Development",
+    "domain": "Web Development",
+    "difficulty": "Medium",
+    "question_text": "Explain the concept of Authorization in Web Development.",
+    "what_interviewer_is_looking_for": "Understanding of Authorization, practical implementation, real-world usage, and development workflow.",
+    "sample_strong_answer": "Authorization is an important concept in Web Development used to build responsive, interactive, and scalable web applications. A strong answer should explain the concept clearly with examples and practical use cases.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical applications",
+      "No real-world examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a practical example of Authorization?",
+      "What tools or frameworks are commonly used with Authorization?"
+    ]
+  },
+  {
+    "id": "WEB024",
+    "category": "Web Development",
+    "domain": "Web Development",
+    "difficulty": "Medium",
+    "question_text": "Explain the concept of Git in Web Development.",
+    "what_interviewer_is_looking_for": "Understanding of Git, practical implementation, real-world usage, and development workflow.",
+    "sample_strong_answer": "Git is an important concept in Web Development used to build responsive, interactive, and scalable web applications. A strong answer should explain the concept clearly with examples and practical use cases.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical applications",
+      "No real-world examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a practical example of Git?",
+      "What tools or frameworks are commonly used with Git?"
+    ]
+  },
+  {
+    "id": "WEB025",
+    "category": "Web Development",
+    "domain": "Web Development",
+    "difficulty": "Medium",
+    "question_text": "Explain the concept of GitHub in Web Development.",
+    "what_interviewer_is_looking_for": "Understanding of GitHub, practical implementation, real-world usage, and development workflow.",
+    "sample_strong_answer": "GitHub is an important concept in Web Development used to build responsive, interactive, and scalable web applications. A strong answer should explain the concept clearly with examples and practical use cases.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical applications",
+      "No real-world examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a practical example of GitHub?",
+      "What tools or frameworks are commonly used with GitHub?"
+    ]
+  },
+  {
+    "id": "WEB026",
+    "category": "Web Development",
+    "domain": "Web Development",
+    "difficulty": "Medium",
+    "question_text": "Explain the concept of Deployment in Web Development.",
+    "what_interviewer_is_looking_for": "Understanding of Deployment, practical implementation, real-world usage, and development workflow.",
+    "sample_strong_answer": "Deployment is an important concept in Web Development used to build responsive, interactive, and scalable web applications. A strong answer should explain the concept clearly with examples and practical use cases.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical applications",
+      "No real-world examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a practical example of Deployment?",
+      "What tools or frameworks are commonly used with Deployment?"
+    ]
+  },
+  {
+    "id": "WEB027",
+    "category": "Web Development",
+    "domain": "Web Development",
+    "difficulty": "Medium",
+    "question_text": "Explain the concept of Hosting in Web Development.",
+    "what_interviewer_is_looking_for": "Understanding of Hosting, practical implementation, real-world usage, and development workflow.",
+    "sample_strong_answer": "Hosting is an important concept in Web Development used to build responsive, interactive, and scalable web applications. A strong answer should explain the concept clearly with examples and practical use cases.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical applications",
+      "No real-world examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a practical example of Hosting?",
+      "What tools or frameworks are commonly used with Hosting?"
+    ]
+  },
+  {
+    "id": "WEB028",
+    "category": "Web Development",
+    "domain": "Web Development",
+    "difficulty": "Medium",
+    "question_text": "Explain the concept of Web Security in Web Development.",
+    "what_interviewer_is_looking_for": "Understanding of Web Security, practical implementation, real-world usage, and development workflow.",
+    "sample_strong_answer": "Web Security is an important concept in Web Development used to build responsive, interactive, and scalable web applications. A strong answer should explain the concept clearly with examples and practical use cases.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical applications",
+      "No real-world examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a practical example of Web Security?",
+      "What tools or frameworks are commonly used with Web Security?"
+    ]
+  },
+  {
+    "id": "WEB029",
+    "category": "Web Development",
+    "domain": "Web Development",
+    "difficulty": "Medium",
+    "question_text": "Explain the concept of Local Storage in Web Development.",
+    "what_interviewer_is_looking_for": "Understanding of Local Storage, practical implementation, real-world usage, and development workflow.",
+    "sample_strong_answer": "Local Storage is an important concept in Web Development used to build responsive, interactive, and scalable web applications. A strong answer should explain the concept clearly with examples and practical use cases.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical applications",
+      "No real-world examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a practical example of Local Storage?",
+      "What tools or frameworks are commonly used with Local Storage?"
+    ]
+  },
+  {
+    "id": "WEB030",
+    "category": "Web Development",
+    "domain": "Web Development",
+    "difficulty": "Medium",
+    "question_text": "Explain the concept of Session Storage in Web Development.",
+    "what_interviewer_is_looking_for": "Understanding of Session Storage, practical implementation, real-world usage, and development workflow.",
+    "sample_strong_answer": "Session Storage is an important concept in Web Development used to build responsive, interactive, and scalable web applications. A strong answer should explain the concept clearly with examples and practical use cases.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical applications",
+      "No real-world examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a practical example of Session Storage?",
+      "What tools or frameworks are commonly used with Session Storage?"
+    ]
+  },
+  {
+    "id": "WEB031",
+    "category": "Web Development",
+    "domain": "Web Development",
+    "difficulty": "Medium",
+    "question_text": "Explain the concept of HTML in Web Development.",
+    "what_interviewer_is_looking_for": "Understanding of HTML, practical implementation, real-world usage, and development workflow.",
+    "sample_strong_answer": "HTML is an important concept in Web Development used to build responsive, interactive, and scalable web applications. A strong answer should explain the concept clearly with examples and practical use cases.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical applications",
+      "No real-world examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a practical example of HTML?",
+      "What tools or frameworks are commonly used with HTML?"
+    ]
+  },
+  {
+    "id": "WEB032",
+    "category": "Web Development",
+    "domain": "Web Development",
+    "difficulty": "Medium",
+    "question_text": "Explain the concept of CSS in Web Development.",
+    "what_interviewer_is_looking_for": "Understanding of CSS, practical implementation, real-world usage, and development workflow.",
+    "sample_strong_answer": "CSS is an important concept in Web Development used to build responsive, interactive, and scalable web applications. A strong answer should explain the concept clearly with examples and practical use cases.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical applications",
+      "No real-world examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a practical example of CSS?",
+      "What tools or frameworks are commonly used with CSS?"
+    ]
+  },
+  {
+    "id": "WEB033",
+    "category": "Web Development",
+    "domain": "Web Development",
+    "difficulty": "Medium",
+    "question_text": "Explain the concept of JavaScript in Web Development.",
+    "what_interviewer_is_looking_for": "Understanding of JavaScript, practical implementation, real-world usage, and development workflow.",
+    "sample_strong_answer": "JavaScript is an important concept in Web Development used to build responsive, interactive, and scalable web applications. A strong answer should explain the concept clearly with examples and practical use cases.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical applications",
+      "No real-world examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a practical example of JavaScript?",
+      "What tools or frameworks are commonly used with JavaScript?"
+    ]
+  },
+  {
+    "id": "WEB034",
+    "category": "Web Development",
+    "domain": "Web Development",
+    "difficulty": "Medium",
+    "question_text": "Explain the concept of DOM Manipulation in Web Development.",
+    "what_interviewer_is_looking_for": "Understanding of DOM Manipulation, practical implementation, real-world usage, and development workflow.",
+    "sample_strong_answer": "DOM Manipulation is an important concept in Web Development used to build responsive, interactive, and scalable web applications. A strong answer should explain the concept clearly with examples and practical use cases.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical applications",
+      "No real-world examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a practical example of DOM Manipulation?",
+      "What tools or frameworks are commonly used with DOM Manipulation?"
+    ]
+  },
+  {
+    "id": "WEB035",
+    "category": "Web Development",
+    "domain": "Web Development",
+    "difficulty": "Medium",
+    "question_text": "Explain the concept of Responsive Design in Web Development.",
+    "what_interviewer_is_looking_for": "Understanding of Responsive Design, practical implementation, real-world usage, and development workflow.",
+    "sample_strong_answer": "Responsive Design is an important concept in Web Development used to build responsive, interactive, and scalable web applications. A strong answer should explain the concept clearly with examples and practical use cases.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical applications",
+      "No real-world examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a practical example of Responsive Design?",
+      "What tools or frameworks are commonly used with Responsive Design?"
+    ]
+  },
+  {
+    "id": "WEB036",
+    "category": "Web Development",
+    "domain": "Web Development",
+    "difficulty": "Medium",
+    "question_text": "Explain the concept of Flexbox in Web Development.",
+    "what_interviewer_is_looking_for": "Understanding of Flexbox, practical implementation, real-world usage, and development workflow.",
+    "sample_strong_answer": "Flexbox is an important concept in Web Development used to build responsive, interactive, and scalable web applications. A strong answer should explain the concept clearly with examples and practical use cases.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical applications",
+      "No real-world examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a practical example of Flexbox?",
+      "What tools or frameworks are commonly used with Flexbox?"
+    ]
+  },
+  {
+    "id": "WEB037",
+    "category": "Web Development",
+    "domain": "Web Development",
+    "difficulty": "Medium",
+    "question_text": "Explain the concept of CSS Grid in Web Development.",
+    "what_interviewer_is_looking_for": "Understanding of CSS Grid, practical implementation, real-world usage, and development workflow.",
+    "sample_strong_answer": "CSS Grid is an important concept in Web Development used to build responsive, interactive, and scalable web applications. A strong answer should explain the concept clearly with examples and practical use cases.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical applications",
+      "No real-world examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a practical example of CSS Grid?",
+      "What tools or frameworks are commonly used with CSS Grid?"
+    ]
+  },
+  {
+    "id": "WEB038",
+    "category": "Web Development",
+    "domain": "Web Development",
+    "difficulty": "Medium",
+    "question_text": "Explain the concept of Bootstrap in Web Development.",
+    "what_interviewer_is_looking_for": "Understanding of Bootstrap, practical implementation, real-world usage, and development workflow.",
+    "sample_strong_answer": "Bootstrap is an important concept in Web Development used to build responsive, interactive, and scalable web applications. A strong answer should explain the concept clearly with examples and practical use cases.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical applications",
+      "No real-world examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a practical example of Bootstrap?",
+      "What tools or frameworks are commonly used with Bootstrap?"
+    ]
+  },
+  {
+    "id": "WEB039",
+    "category": "Web Development",
+    "domain": "Web Development",
+    "difficulty": "Hard",
+    "question_text": "Explain the concept of React in Web Development.",
+    "what_interviewer_is_looking_for": "Understanding of React, practical implementation, real-world usage, and development workflow.",
+    "sample_strong_answer": "React is an important concept in Web Development used to build responsive, interactive, and scalable web applications. A strong answer should explain the concept clearly with examples and practical use cases.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical applications",
+      "No real-world examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a practical example of React?",
+      "What tools or frameworks are commonly used with React?"
+    ]
+  },
+  {
+    "id": "WEB040",
+    "category": "Web Development",
+    "domain": "Web Development",
+    "difficulty": "Hard",
+    "question_text": "Explain the concept of React Components in Web Development.",
+    "what_interviewer_is_looking_for": "Understanding of React Components, practical implementation, real-world usage, and development workflow.",
+    "sample_strong_answer": "React Components is an important concept in Web Development used to build responsive, interactive, and scalable web applications. A strong answer should explain the concept clearly with examples and practical use cases.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical applications",
+      "No real-world examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a practical example of React Components?",
+      "What tools or frameworks are commonly used with React Components?"
+    ]
+  },
+  {
+    "id": "WEB041",
+    "category": "Web Development",
+    "domain": "Web Development",
+    "difficulty": "Hard",
+    "question_text": "Explain the concept of Props and State in Web Development.",
+    "what_interviewer_is_looking_for": "Understanding of Props and State, practical implementation, real-world usage, and development workflow.",
+    "sample_strong_answer": "Props and State is an important concept in Web Development used to build responsive, interactive, and scalable web applications. A strong answer should explain the concept clearly with examples and practical use cases.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical applications",
+      "No real-world examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a practical example of Props and State?",
+      "What tools or frameworks are commonly used with Props and State?"
+    ]
+  },
+  {
+    "id": "WEB042",
+    "category": "Web Development",
+    "domain": "Web Development",
+    "difficulty": "Hard",
+    "question_text": "Explain the concept of Hooks in Web Development.",
+    "what_interviewer_is_looking_for": "Understanding of Hooks, practical implementation, real-world usage, and development workflow.",
+    "sample_strong_answer": "Hooks is an important concept in Web Development used to build responsive, interactive, and scalable web applications. A strong answer should explain the concept clearly with examples and practical use cases.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical applications",
+      "No real-world examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a practical example of Hooks?",
+      "What tools or frameworks are commonly used with Hooks?"
+    ]
+  },
+  {
+    "id": "WEB043",
+    "category": "Web Development",
+    "domain": "Web Development",
+    "difficulty": "Hard",
+    "question_text": "Explain the concept of API Integration in Web Development.",
+    "what_interviewer_is_looking_for": "Understanding of API Integration, practical implementation, real-world usage, and development workflow.",
+    "sample_strong_answer": "API Integration is an important concept in Web Development used to build responsive, interactive, and scalable web applications. A strong answer should explain the concept clearly with examples and practical use cases.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical applications",
+      "No real-world examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a practical example of API Integration?",
+      "What tools or frameworks are commonly used with API Integration?"
+    ]
+  },
+  {
+    "id": "WEB044",
+    "category": "Web Development",
+    "domain": "Web Development",
+    "difficulty": "Hard",
+    "question_text": "Explain the concept of REST API in Web Development.",
+    "what_interviewer_is_looking_for": "Understanding of REST API, practical implementation, real-world usage, and development workflow.",
+    "sample_strong_answer": "REST API is an important concept in Web Development used to build responsive, interactive, and scalable web applications. A strong answer should explain the concept clearly with examples and practical use cases.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical applications",
+      "No real-world examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a practical example of REST API?",
+      "What tools or frameworks are commonly used with REST API?"
+    ]
+  },
+  {
+    "id": "WEB045",
+    "category": "Web Development",
+    "domain": "Web Development",
+    "difficulty": "Hard",
+    "question_text": "Explain the concept of JSON in Web Development.",
+    "what_interviewer_is_looking_for": "Understanding of JSON, practical implementation, real-world usage, and development workflow.",
+    "sample_strong_answer": "JSON is an important concept in Web Development used to build responsive, interactive, and scalable web applications. A strong answer should explain the concept clearly with examples and practical use cases.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical applications",
+      "No real-world examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a practical example of JSON?",
+      "What tools or frameworks are commonly used with JSON?"
+    ]
+  },
+  {
+    "id": "WEB046",
+    "category": "Web Development",
+    "domain": "Web Development",
+    "difficulty": "Hard",
+    "question_text": "Explain the concept of Frontend Development in Web Development.",
+    "what_interviewer_is_looking_for": "Understanding of Frontend Development, practical implementation, real-world usage, and development workflow.",
+    "sample_strong_answer": "Frontend Development is an important concept in Web Development used to build responsive, interactive, and scalable web applications. A strong answer should explain the concept clearly with examples and practical use cases.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical applications",
+      "No real-world examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a practical example of Frontend Development?",
+      "What tools or frameworks are commonly used with Frontend Development?"
+    ]
+  },
+  {
+    "id": "WEB047",
+    "category": "Web Development",
+    "domain": "Web Development",
+    "difficulty": "Hard",
+    "question_text": "Explain the concept of Backend Development in Web Development.",
+    "what_interviewer_is_looking_for": "Understanding of Backend Development, practical implementation, real-world usage, and development workflow.",
+    "sample_strong_answer": "Backend Development is an important concept in Web Development used to build responsive, interactive, and scalable web applications. A strong answer should explain the concept clearly with examples and practical use cases.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical applications",
+      "No real-world examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a practical example of Backend Development?",
+      "What tools or frameworks are commonly used with Backend Development?"
+    ]
+  },
+  {
+    "id": "WEB048",
+    "category": "Web Development",
+    "domain": "Web Development",
+    "difficulty": "Hard",
+    "question_text": "Explain the concept of Node.js in Web Development.",
+    "what_interviewer_is_looking_for": "Understanding of Node.js, practical implementation, real-world usage, and development workflow.",
+    "sample_strong_answer": "Node.js is an important concept in Web Development used to build responsive, interactive, and scalable web applications. A strong answer should explain the concept clearly with examples and practical use cases.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical applications",
+      "No real-world examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a practical example of Node.js?",
+      "What tools or frameworks are commonly used with Node.js?"
+    ]
+  },
+  {
+    "id": "WEB049",
+    "category": "Web Development",
+    "domain": "Web Development",
+    "difficulty": "Hard",
+    "question_text": "Explain the concept of Express.js in Web Development.",
+    "what_interviewer_is_looking_for": "Understanding of Express.js, practical implementation, real-world usage, and development workflow.",
+    "sample_strong_answer": "Express.js is an important concept in Web Development used to build responsive, interactive, and scalable web applications. A strong answer should explain the concept clearly with examples and practical use cases.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical applications",
+      "No real-world examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a practical example of Express.js?",
+      "What tools or frameworks are commonly used with Express.js?"
+    ]
+  },
+  {
+    "id": "WEB050",
+    "category": "Web Development",
+    "domain": "Web Development",
+    "difficulty": "Hard",
+    "question_text": "Explain the concept of MongoDB in Web Development.",
+    "what_interviewer_is_looking_for": "Understanding of MongoDB, practical implementation, real-world usage, and development workflow.",
+    "sample_strong_answer": "MongoDB is an important concept in Web Development used to build responsive, interactive, and scalable web applications. A strong answer should explain the concept clearly with examples and practical use cases.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical applications",
+      "No real-world examples"
+    ],
+    "follow_up_questions": [
+      "Can you give a practical example of MongoDB?",
+      "What tools or frameworks are commonly used with MongoDB?"
+    ]
+  }
+]

@@ -1,0 +1,1352 @@
+[
+  {
+    "id": "DS001",
+    "category": "Data Science",
+    "domain": "Data Science",
+    "difficulty": "Easy",
+    "question_text": "Explain the concept of Python Basics in Data Science.",
+    "what_interviewer_is_looking_for": "Understanding of Python Basics, practical applications, problem-solving approach, and real-world usage in Data Science.",
+    "sample_strong_answer": "Python Basics is an important concept in Data Science used for analyzing data, improving model performance, and solving business problems. A strong answer should explain the definition, workflow, benefits, and practical examples clearly.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical use cases",
+      "No examples or workflow explanation"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Python Basics?",
+      "What tools or libraries are commonly used for Python Basics?"
+    ]
+  },
+  {
+    "id": "DS002",
+    "category": "Data Science",
+    "domain": "Data Science",
+    "difficulty": "Easy",
+    "question_text": "Explain the concept of NumPy in Data Science.",
+    "what_interviewer_is_looking_for": "Understanding of NumPy, practical applications, problem-solving approach, and real-world usage in Data Science.",
+    "sample_strong_answer": "NumPy is an important concept in Data Science used for analyzing data, improving model performance, and solving business problems. A strong answer should explain the definition, workflow, benefits, and practical examples clearly.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical use cases",
+      "No examples or workflow explanation"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of NumPy?",
+      "What tools or libraries are commonly used for NumPy?"
+    ]
+  },
+  {
+    "id": "DS003",
+    "category": "Data Science",
+    "domain": "Data Science",
+    "difficulty": "Easy",
+    "question_text": "Explain the concept of Pandas in Data Science.",
+    "what_interviewer_is_looking_for": "Understanding of Pandas, practical applications, problem-solving approach, and real-world usage in Data Science.",
+    "sample_strong_answer": "Pandas is an important concept in Data Science used for analyzing data, improving model performance, and solving business problems. A strong answer should explain the definition, workflow, benefits, and practical examples clearly.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical use cases",
+      "No examples or workflow explanation"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Pandas?",
+      "What tools or libraries are commonly used for Pandas?"
+    ]
+  },
+  {
+    "id": "DS004",
+    "category": "Data Science",
+    "domain": "Data Science",
+    "difficulty": "Easy",
+    "question_text": "Explain the concept of Data Cleaning in Data Science.",
+    "what_interviewer_is_looking_for": "Understanding of Data Cleaning, practical applications, problem-solving approach, and real-world usage in Data Science.",
+    "sample_strong_answer": "Data Cleaning is an important concept in Data Science used for analyzing data, improving model performance, and solving business problems. A strong answer should explain the definition, workflow, benefits, and practical examples clearly.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical use cases",
+      "No examples or workflow explanation"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Data Cleaning?",
+      "What tools or libraries are commonly used for Data Cleaning?"
+    ]
+  },
+  {
+    "id": "DS005",
+    "category": "Data Science",
+    "domain": "Data Science",
+    "difficulty": "Easy",
+    "question_text": "Explain the concept of Exploratory Data Analysis in Data Science.",
+    "what_interviewer_is_looking_for": "Understanding of Exploratory Data Analysis, practical applications, problem-solving approach, and real-world usage in Data Science.",
+    "sample_strong_answer": "Exploratory Data Analysis is an important concept in Data Science used for analyzing data, improving model performance, and solving business problems. A strong answer should explain the definition, workflow, benefits, and practical examples clearly.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical use cases",
+      "No examples or workflow explanation"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Exploratory Data Analysis?",
+      "What tools or libraries are commonly used for Exploratory Data Analysis?"
+    ]
+  },
+  {
+    "id": "DS006",
+    "category": "Data Science",
+    "domain": "Data Science",
+    "difficulty": "Easy",
+    "question_text": "Explain the concept of Statistics in Data Science.",
+    "what_interviewer_is_looking_for": "Understanding of Statistics, practical applications, problem-solving approach, and real-world usage in Data Science.",
+    "sample_strong_answer": "Statistics is an important concept in Data Science used for analyzing data, improving model performance, and solving business problems. A strong answer should explain the definition, workflow, benefits, and practical examples clearly.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical use cases",
+      "No examples or workflow explanation"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Statistics?",
+      "What tools or libraries are commonly used for Statistics?"
+    ]
+  },
+  {
+    "id": "DS007",
+    "category": "Data Science",
+    "domain": "Data Science",
+    "difficulty": "Easy",
+    "question_text": "Explain the concept of Probability in Data Science.",
+    "what_interviewer_is_looking_for": "Understanding of Probability, practical applications, problem-solving approach, and real-world usage in Data Science.",
+    "sample_strong_answer": "Probability is an important concept in Data Science used for analyzing data, improving model performance, and solving business problems. A strong answer should explain the definition, workflow, benefits, and practical examples clearly.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical use cases",
+      "No examples or workflow explanation"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Probability?",
+      "What tools or libraries are commonly used for Probability?"
+    ]
+  },
+  {
+    "id": "DS008",
+    "category": "Data Science",
+    "domain": "Data Science",
+    "difficulty": "Easy",
+    "question_text": "Explain the concept of Machine Learning in Data Science.",
+    "what_interviewer_is_looking_for": "Understanding of Machine Learning, practical applications, problem-solving approach, and real-world usage in Data Science.",
+    "sample_strong_answer": "Machine Learning is an important concept in Data Science used for analyzing data, improving model performance, and solving business problems. A strong answer should explain the definition, workflow, benefits, and practical examples clearly.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical use cases",
+      "No examples or workflow explanation"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Machine Learning?",
+      "What tools or libraries are commonly used for Machine Learning?"
+    ]
+  },
+  {
+    "id": "DS009",
+    "category": "Data Science",
+    "domain": "Data Science",
+    "difficulty": "Easy",
+    "question_text": "Explain the concept of Supervised Learning in Data Science.",
+    "what_interviewer_is_looking_for": "Understanding of Supervised Learning, practical applications, problem-solving approach, and real-world usage in Data Science.",
+    "sample_strong_answer": "Supervised Learning is an important concept in Data Science used for analyzing data, improving model performance, and solving business problems. A strong answer should explain the definition, workflow, benefits, and practical examples clearly.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical use cases",
+      "No examples or workflow explanation"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Supervised Learning?",
+      "What tools or libraries are commonly used for Supervised Learning?"
+    ]
+  },
+  {
+    "id": "DS010",
+    "category": "Data Science",
+    "domain": "Data Science",
+    "difficulty": "Easy",
+    "question_text": "Explain the concept of Unsupervised Learning in Data Science.",
+    "what_interviewer_is_looking_for": "Understanding of Unsupervised Learning, practical applications, problem-solving approach, and real-world usage in Data Science.",
+    "sample_strong_answer": "Unsupervised Learning is an important concept in Data Science used for analyzing data, improving model performance, and solving business problems. A strong answer should explain the definition, workflow, benefits, and practical examples clearly.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical use cases",
+      "No examples or workflow explanation"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Unsupervised Learning?",
+      "What tools or libraries are commonly used for Unsupervised Learning?"
+    ]
+  },
+  {
+    "id": "DS011",
+    "category": "Data Science",
+    "domain": "Data Science",
+    "difficulty": "Easy",
+    "question_text": "Explain the concept of Regression in Data Science.",
+    "what_interviewer_is_looking_for": "Understanding of Regression, practical applications, problem-solving approach, and real-world usage in Data Science.",
+    "sample_strong_answer": "Regression is an important concept in Data Science used for analyzing data, improving model performance, and solving business problems. A strong answer should explain the definition, workflow, benefits, and practical examples clearly.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical use cases",
+      "No examples or workflow explanation"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Regression?",
+      "What tools or libraries are commonly used for Regression?"
+    ]
+  },
+  {
+    "id": "DS012",
+    "category": "Data Science",
+    "domain": "Data Science",
+    "difficulty": "Easy",
+    "question_text": "Explain the concept of Classification in Data Science.",
+    "what_interviewer_is_looking_for": "Understanding of Classification, practical applications, problem-solving approach, and real-world usage in Data Science.",
+    "sample_strong_answer": "Classification is an important concept in Data Science used for analyzing data, improving model performance, and solving business problems. A strong answer should explain the definition, workflow, benefits, and practical examples clearly.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical use cases",
+      "No examples or workflow explanation"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Classification?",
+      "What tools or libraries are commonly used for Classification?"
+    ]
+  },
+  {
+    "id": "DS013",
+    "category": "Data Science",
+    "domain": "Data Science",
+    "difficulty": "Easy",
+    "question_text": "Explain the concept of Overfitting in Data Science.",
+    "what_interviewer_is_looking_for": "Understanding of Overfitting, practical applications, problem-solving approach, and real-world usage in Data Science.",
+    "sample_strong_answer": "Overfitting is an important concept in Data Science used for analyzing data, improving model performance, and solving business problems. A strong answer should explain the definition, workflow, benefits, and practical examples clearly.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical use cases",
+      "No examples or workflow explanation"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Overfitting?",
+      "What tools or libraries are commonly used for Overfitting?"
+    ]
+  },
+  {
+    "id": "DS014",
+    "category": "Data Science",
+    "domain": "Data Science",
+    "difficulty": "Easy",
+    "question_text": "Explain the concept of Underfitting in Data Science.",
+    "what_interviewer_is_looking_for": "Understanding of Underfitting, practical applications, problem-solving approach, and real-world usage in Data Science.",
+    "sample_strong_answer": "Underfitting is an important concept in Data Science used for analyzing data, improving model performance, and solving business problems. A strong answer should explain the definition, workflow, benefits, and practical examples clearly.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical use cases",
+      "No examples or workflow explanation"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Underfitting?",
+      "What tools or libraries are commonly used for Underfitting?"
+    ]
+  },
+  {
+    "id": "DS015",
+    "category": "Data Science",
+    "domain": "Data Science",
+    "difficulty": "Easy",
+    "question_text": "Explain the concept of Train Test Split in Data Science.",
+    "what_interviewer_is_looking_for": "Understanding of Train Test Split, practical applications, problem-solving approach, and real-world usage in Data Science.",
+    "sample_strong_answer": "Train Test Split is an important concept in Data Science used for analyzing data, improving model performance, and solving business problems. A strong answer should explain the definition, workflow, benefits, and practical examples clearly.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical use cases",
+      "No examples or workflow explanation"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Train Test Split?",
+      "What tools or libraries are commonly used for Train Test Split?"
+    ]
+  },
+  {
+    "id": "DS016",
+    "category": "Data Science",
+    "domain": "Data Science",
+    "difficulty": "Easy",
+    "question_text": "Explain the concept of Cross Validation in Data Science.",
+    "what_interviewer_is_looking_for": "Understanding of Cross Validation, practical applications, problem-solving approach, and real-world usage in Data Science.",
+    "sample_strong_answer": "Cross Validation is an important concept in Data Science used for analyzing data, improving model performance, and solving business problems. A strong answer should explain the definition, workflow, benefits, and practical examples clearly.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical use cases",
+      "No examples or workflow explanation"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Cross Validation?",
+      "What tools or libraries are commonly used for Cross Validation?"
+    ]
+  },
+  {
+    "id": "DS017",
+    "category": "Data Science",
+    "domain": "Data Science",
+    "difficulty": "Easy",
+    "question_text": "Explain the concept of Feature Engineering in Data Science.",
+    "what_interviewer_is_looking_for": "Understanding of Feature Engineering, practical applications, problem-solving approach, and real-world usage in Data Science.",
+    "sample_strong_answer": "Feature Engineering is an important concept in Data Science used for analyzing data, improving model performance, and solving business problems. A strong answer should explain the definition, workflow, benefits, and practical examples clearly.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical use cases",
+      "No examples or workflow explanation"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Feature Engineering?",
+      "What tools or libraries are commonly used for Feature Engineering?"
+    ]
+  },
+  {
+    "id": "DS018",
+    "category": "Data Science",
+    "domain": "Data Science",
+    "difficulty": "Easy",
+    "question_text": "Explain the concept of Data Visualization in Data Science.",
+    "what_interviewer_is_looking_for": "Understanding of Data Visualization, practical applications, problem-solving approach, and real-world usage in Data Science.",
+    "sample_strong_answer": "Data Visualization is an important concept in Data Science used for analyzing data, improving model performance, and solving business problems. A strong answer should explain the definition, workflow, benefits, and practical examples clearly.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical use cases",
+      "No examples or workflow explanation"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Data Visualization?",
+      "What tools or libraries are commonly used for Data Visualization?"
+    ]
+  },
+  {
+    "id": "DS019",
+    "category": "Data Science",
+    "domain": "Data Science",
+    "difficulty": "Easy",
+    "question_text": "Explain the concept of Matplotlib in Data Science.",
+    "what_interviewer_is_looking_for": "Understanding of Matplotlib, practical applications, problem-solving approach, and real-world usage in Data Science.",
+    "sample_strong_answer": "Matplotlib is an important concept in Data Science used for analyzing data, improving model performance, and solving business problems. A strong answer should explain the definition, workflow, benefits, and practical examples clearly.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical use cases",
+      "No examples or workflow explanation"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Matplotlib?",
+      "What tools or libraries are commonly used for Matplotlib?"
+    ]
+  },
+  {
+    "id": "DS020",
+    "category": "Data Science",
+    "domain": "Data Science",
+    "difficulty": "Easy",
+    "question_text": "Explain the concept of Seaborn in Data Science.",
+    "what_interviewer_is_looking_for": "Understanding of Seaborn, practical applications, problem-solving approach, and real-world usage in Data Science.",
+    "sample_strong_answer": "Seaborn is an important concept in Data Science used for analyzing data, improving model performance, and solving business problems. A strong answer should explain the definition, workflow, benefits, and practical examples clearly.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical use cases",
+      "No examples or workflow explanation"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Seaborn?",
+      "What tools or libraries are commonly used for Seaborn?"
+    ]
+  },
+  {
+    "id": "DS021",
+    "category": "Data Science",
+    "domain": "Data Science",
+    "difficulty": "Easy",
+    "question_text": "Explain the concept of SQL for Data Science in Data Science.",
+    "what_interviewer_is_looking_for": "Understanding of SQL for Data Science, practical applications, problem-solving approach, and real-world usage in Data Science.",
+    "sample_strong_answer": "SQL for Data Science is an important concept in Data Science used for analyzing data, improving model performance, and solving business problems. A strong answer should explain the definition, workflow, benefits, and practical examples clearly.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical use cases",
+      "No examples or workflow explanation"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of SQL for Data Science?",
+      "What tools or libraries are commonly used for SQL for Data Science?"
+    ]
+  },
+  {
+    "id": "DS022",
+    "category": "Data Science",
+    "domain": "Data Science",
+    "difficulty": "Easy",
+    "question_text": "Explain the concept of Correlation in Data Science.",
+    "what_interviewer_is_looking_for": "Understanding of Correlation, practical applications, problem-solving approach, and real-world usage in Data Science.",
+    "sample_strong_answer": "Correlation is an important concept in Data Science used for analyzing data, improving model performance, and solving business problems. A strong answer should explain the definition, workflow, benefits, and practical examples clearly.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical use cases",
+      "No examples or workflow explanation"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Correlation?",
+      "What tools or libraries are commonly used for Correlation?"
+    ]
+  },
+  {
+    "id": "DS023",
+    "category": "Data Science",
+    "domain": "Data Science",
+    "difficulty": "Easy",
+    "question_text": "Explain the concept of Outliers in Data Science.",
+    "what_interviewer_is_looking_for": "Understanding of Outliers, practical applications, problem-solving approach, and real-world usage in Data Science.",
+    "sample_strong_answer": "Outliers is an important concept in Data Science used for analyzing data, improving model performance, and solving business problems. A strong answer should explain the definition, workflow, benefits, and practical examples clearly.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical use cases",
+      "No examples or workflow explanation"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Outliers?",
+      "What tools or libraries are commonly used for Outliers?"
+    ]
+  },
+  {
+    "id": "DS024",
+    "category": "Data Science",
+    "domain": "Data Science",
+    "difficulty": "Easy",
+    "question_text": "Explain the concept of Missing Values in Data Science.",
+    "what_interviewer_is_looking_for": "Understanding of Missing Values, practical applications, problem-solving approach, and real-world usage in Data Science.",
+    "sample_strong_answer": "Missing Values is an important concept in Data Science used for analyzing data, improving model performance, and solving business problems. A strong answer should explain the definition, workflow, benefits, and practical examples clearly.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical use cases",
+      "No examples or workflow explanation"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Missing Values?",
+      "What tools or libraries are commonly used for Missing Values?"
+    ]
+  },
+  {
+    "id": "DS025",
+    "category": "Data Science",
+    "domain": "Data Science",
+    "difficulty": "Easy",
+    "question_text": "Explain the concept of Normalization in Data Science.",
+    "what_interviewer_is_looking_for": "Understanding of Normalization, practical applications, problem-solving approach, and real-world usage in Data Science.",
+    "sample_strong_answer": "Normalization is an important concept in Data Science used for analyzing data, improving model performance, and solving business problems. A strong answer should explain the definition, workflow, benefits, and practical examples clearly.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical use cases",
+      "No examples or workflow explanation"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Normalization?",
+      "What tools or libraries are commonly used for Normalization?"
+    ]
+  },
+  {
+    "id": "DS026",
+    "category": "Data Science",
+    "domain": "Data Science",
+    "difficulty": "Medium",
+    "question_text": "Explain the concept of Python Basics in Data Science.",
+    "what_interviewer_is_looking_for": "Understanding of Python Basics, practical applications, problem-solving approach, and real-world usage in Data Science.",
+    "sample_strong_answer": "Python Basics is an important concept in Data Science used for analyzing data, improving model performance, and solving business problems. A strong answer should explain the definition, workflow, benefits, and practical examples clearly.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical use cases",
+      "No examples or workflow explanation"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Python Basics?",
+      "What tools or libraries are commonly used for Python Basics?"
+    ]
+  },
+  {
+    "id": "DS027",
+    "category": "Data Science",
+    "domain": "Data Science",
+    "difficulty": "Medium",
+    "question_text": "Explain the concept of NumPy in Data Science.",
+    "what_interviewer_is_looking_for": "Understanding of NumPy, practical applications, problem-solving approach, and real-world usage in Data Science.",
+    "sample_strong_answer": "NumPy is an important concept in Data Science used for analyzing data, improving model performance, and solving business problems. A strong answer should explain the definition, workflow, benefits, and practical examples clearly.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical use cases",
+      "No examples or workflow explanation"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of NumPy?",
+      "What tools or libraries are commonly used for NumPy?"
+    ]
+  },
+  {
+    "id": "DS028",
+    "category": "Data Science",
+    "domain": "Data Science",
+    "difficulty": "Medium",
+    "question_text": "Explain the concept of Pandas in Data Science.",
+    "what_interviewer_is_looking_for": "Understanding of Pandas, practical applications, problem-solving approach, and real-world usage in Data Science.",
+    "sample_strong_answer": "Pandas is an important concept in Data Science used for analyzing data, improving model performance, and solving business problems. A strong answer should explain the definition, workflow, benefits, and practical examples clearly.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical use cases",
+      "No examples or workflow explanation"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Pandas?",
+      "What tools or libraries are commonly used for Pandas?"
+    ]
+  },
+  {
+    "id": "DS029",
+    "category": "Data Science",
+    "domain": "Data Science",
+    "difficulty": "Medium",
+    "question_text": "Explain the concept of Data Cleaning in Data Science.",
+    "what_interviewer_is_looking_for": "Understanding of Data Cleaning, practical applications, problem-solving approach, and real-world usage in Data Science.",
+    "sample_strong_answer": "Data Cleaning is an important concept in Data Science used for analyzing data, improving model performance, and solving business problems. A strong answer should explain the definition, workflow, benefits, and practical examples clearly.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical use cases",
+      "No examples or workflow explanation"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Data Cleaning?",
+      "What tools or libraries are commonly used for Data Cleaning?"
+    ]
+  },
+  {
+    "id": "DS030",
+    "category": "Data Science",
+    "domain": "Data Science",
+    "difficulty": "Medium",
+    "question_text": "Explain the concept of Exploratory Data Analysis in Data Science.",
+    "what_interviewer_is_looking_for": "Understanding of Exploratory Data Analysis, practical applications, problem-solving approach, and real-world usage in Data Science.",
+    "sample_strong_answer": "Exploratory Data Analysis is an important concept in Data Science used for analyzing data, improving model performance, and solving business problems. A strong answer should explain the definition, workflow, benefits, and practical examples clearly.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical use cases",
+      "No examples or workflow explanation"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Exploratory Data Analysis?",
+      "What tools or libraries are commonly used for Exploratory Data Analysis?"
+    ]
+  },
+  {
+    "id": "DS031",
+    "category": "Data Science",
+    "domain": "Data Science",
+    "difficulty": "Medium",
+    "question_text": "Explain the concept of Statistics in Data Science.",
+    "what_interviewer_is_looking_for": "Understanding of Statistics, practical applications, problem-solving approach, and real-world usage in Data Science.",
+    "sample_strong_answer": "Statistics is an important concept in Data Science used for analyzing data, improving model performance, and solving business problems. A strong answer should explain the definition, workflow, benefits, and practical examples clearly.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical use cases",
+      "No examples or workflow explanation"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Statistics?",
+      "What tools or libraries are commonly used for Statistics?"
+    ]
+  },
+  {
+    "id": "DS032",
+    "category": "Data Science",
+    "domain": "Data Science",
+    "difficulty": "Medium",
+    "question_text": "Explain the concept of Probability in Data Science.",
+    "what_interviewer_is_looking_for": "Understanding of Probability, practical applications, problem-solving approach, and real-world usage in Data Science.",
+    "sample_strong_answer": "Probability is an important concept in Data Science used for analyzing data, improving model performance, and solving business problems. A strong answer should explain the definition, workflow, benefits, and practical examples clearly.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical use cases",
+      "No examples or workflow explanation"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Probability?",
+      "What tools or libraries are commonly used for Probability?"
+    ]
+  },
+  {
+    "id": "DS033",
+    "category": "Data Science",
+    "domain": "Data Science",
+    "difficulty": "Medium",
+    "question_text": "Explain the concept of Machine Learning in Data Science.",
+    "what_interviewer_is_looking_for": "Understanding of Machine Learning, practical applications, problem-solving approach, and real-world usage in Data Science.",
+    "sample_strong_answer": "Machine Learning is an important concept in Data Science used for analyzing data, improving model performance, and solving business problems. A strong answer should explain the definition, workflow, benefits, and practical examples clearly.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical use cases",
+      "No examples or workflow explanation"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Machine Learning?",
+      "What tools or libraries are commonly used for Machine Learning?"
+    ]
+  },
+  {
+    "id": "DS034",
+    "category": "Data Science",
+    "domain": "Data Science",
+    "difficulty": "Medium",
+    "question_text": "Explain the concept of Supervised Learning in Data Science.",
+    "what_interviewer_is_looking_for": "Understanding of Supervised Learning, practical applications, problem-solving approach, and real-world usage in Data Science.",
+    "sample_strong_answer": "Supervised Learning is an important concept in Data Science used for analyzing data, improving model performance, and solving business problems. A strong answer should explain the definition, workflow, benefits, and practical examples clearly.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical use cases",
+      "No examples or workflow explanation"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Supervised Learning?",
+      "What tools or libraries are commonly used for Supervised Learning?"
+    ]
+  },
+  {
+    "id": "DS035",
+    "category": "Data Science",
+    "domain": "Data Science",
+    "difficulty": "Medium",
+    "question_text": "Explain the concept of Unsupervised Learning in Data Science.",
+    "what_interviewer_is_looking_for": "Understanding of Unsupervised Learning, practical applications, problem-solving approach, and real-world usage in Data Science.",
+    "sample_strong_answer": "Unsupervised Learning is an important concept in Data Science used for analyzing data, improving model performance, and solving business problems. A strong answer should explain the definition, workflow, benefits, and practical examples clearly.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical use cases",
+      "No examples or workflow explanation"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Unsupervised Learning?",
+      "What tools or libraries are commonly used for Unsupervised Learning?"
+    ]
+  },
+  {
+    "id": "DS036",
+    "category": "Data Science",
+    "domain": "Data Science",
+    "difficulty": "Medium",
+    "question_text": "Explain the concept of Regression in Data Science.",
+    "what_interviewer_is_looking_for": "Understanding of Regression, practical applications, problem-solving approach, and real-world usage in Data Science.",
+    "sample_strong_answer": "Regression is an important concept in Data Science used for analyzing data, improving model performance, and solving business problems. A strong answer should explain the definition, workflow, benefits, and practical examples clearly.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical use cases",
+      "No examples or workflow explanation"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Regression?",
+      "What tools or libraries are commonly used for Regression?"
+    ]
+  },
+  {
+    "id": "DS037",
+    "category": "Data Science",
+    "domain": "Data Science",
+    "difficulty": "Medium",
+    "question_text": "Explain the concept of Classification in Data Science.",
+    "what_interviewer_is_looking_for": "Understanding of Classification, practical applications, problem-solving approach, and real-world usage in Data Science.",
+    "sample_strong_answer": "Classification is an important concept in Data Science used for analyzing data, improving model performance, and solving business problems. A strong answer should explain the definition, workflow, benefits, and practical examples clearly.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical use cases",
+      "No examples or workflow explanation"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Classification?",
+      "What tools or libraries are commonly used for Classification?"
+    ]
+  },
+  {
+    "id": "DS038",
+    "category": "Data Science",
+    "domain": "Data Science",
+    "difficulty": "Medium",
+    "question_text": "Explain the concept of Overfitting in Data Science.",
+    "what_interviewer_is_looking_for": "Understanding of Overfitting, practical applications, problem-solving approach, and real-world usage in Data Science.",
+    "sample_strong_answer": "Overfitting is an important concept in Data Science used for analyzing data, improving model performance, and solving business problems. A strong answer should explain the definition, workflow, benefits, and practical examples clearly.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical use cases",
+      "No examples or workflow explanation"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Overfitting?",
+      "What tools or libraries are commonly used for Overfitting?"
+    ]
+  },
+  {
+    "id": "DS039",
+    "category": "Data Science",
+    "domain": "Data Science",
+    "difficulty": "Medium",
+    "question_text": "Explain the concept of Underfitting in Data Science.",
+    "what_interviewer_is_looking_for": "Understanding of Underfitting, practical applications, problem-solving approach, and real-world usage in Data Science.",
+    "sample_strong_answer": "Underfitting is an important concept in Data Science used for analyzing data, improving model performance, and solving business problems. A strong answer should explain the definition, workflow, benefits, and practical examples clearly.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical use cases",
+      "No examples or workflow explanation"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Underfitting?",
+      "What tools or libraries are commonly used for Underfitting?"
+    ]
+  },
+  {
+    "id": "DS040",
+    "category": "Data Science",
+    "domain": "Data Science",
+    "difficulty": "Medium",
+    "question_text": "Explain the concept of Train Test Split in Data Science.",
+    "what_interviewer_is_looking_for": "Understanding of Train Test Split, practical applications, problem-solving approach, and real-world usage in Data Science.",
+    "sample_strong_answer": "Train Test Split is an important concept in Data Science used for analyzing data, improving model performance, and solving business problems. A strong answer should explain the definition, workflow, benefits, and practical examples clearly.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical use cases",
+      "No examples or workflow explanation"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Train Test Split?",
+      "What tools or libraries are commonly used for Train Test Split?"
+    ]
+  },
+  {
+    "id": "DS041",
+    "category": "Data Science",
+    "domain": "Data Science",
+    "difficulty": "Medium",
+    "question_text": "Explain the concept of Cross Validation in Data Science.",
+    "what_interviewer_is_looking_for": "Understanding of Cross Validation, practical applications, problem-solving approach, and real-world usage in Data Science.",
+    "sample_strong_answer": "Cross Validation is an important concept in Data Science used for analyzing data, improving model performance, and solving business problems. A strong answer should explain the definition, workflow, benefits, and practical examples clearly.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical use cases",
+      "No examples or workflow explanation"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Cross Validation?",
+      "What tools or libraries are commonly used for Cross Validation?"
+    ]
+  },
+  {
+    "id": "DS042",
+    "category": "Data Science",
+    "domain": "Data Science",
+    "difficulty": "Medium",
+    "question_text": "Explain the concept of Feature Engineering in Data Science.",
+    "what_interviewer_is_looking_for": "Understanding of Feature Engineering, practical applications, problem-solving approach, and real-world usage in Data Science.",
+    "sample_strong_answer": "Feature Engineering is an important concept in Data Science used for analyzing data, improving model performance, and solving business problems. A strong answer should explain the definition, workflow, benefits, and practical examples clearly.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical use cases",
+      "No examples or workflow explanation"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Feature Engineering?",
+      "What tools or libraries are commonly used for Feature Engineering?"
+    ]
+  },
+  {
+    "id": "DS043",
+    "category": "Data Science",
+    "domain": "Data Science",
+    "difficulty": "Medium",
+    "question_text": "Explain the concept of Data Visualization in Data Science.",
+    "what_interviewer_is_looking_for": "Understanding of Data Visualization, practical applications, problem-solving approach, and real-world usage in Data Science.",
+    "sample_strong_answer": "Data Visualization is an important concept in Data Science used for analyzing data, improving model performance, and solving business problems. A strong answer should explain the definition, workflow, benefits, and practical examples clearly.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical use cases",
+      "No examples or workflow explanation"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Data Visualization?",
+      "What tools or libraries are commonly used for Data Visualization?"
+    ]
+  },
+  {
+    "id": "DS044",
+    "category": "Data Science",
+    "domain": "Data Science",
+    "difficulty": "Medium",
+    "question_text": "Explain the concept of Matplotlib in Data Science.",
+    "what_interviewer_is_looking_for": "Understanding of Matplotlib, practical applications, problem-solving approach, and real-world usage in Data Science.",
+    "sample_strong_answer": "Matplotlib is an important concept in Data Science used for analyzing data, improving model performance, and solving business problems. A strong answer should explain the definition, workflow, benefits, and practical examples clearly.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical use cases",
+      "No examples or workflow explanation"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Matplotlib?",
+      "What tools or libraries are commonly used for Matplotlib?"
+    ]
+  },
+  {
+    "id": "DS045",
+    "category": "Data Science",
+    "domain": "Data Science",
+    "difficulty": "Medium",
+    "question_text": "Explain the concept of Seaborn in Data Science.",
+    "what_interviewer_is_looking_for": "Understanding of Seaborn, practical applications, problem-solving approach, and real-world usage in Data Science.",
+    "sample_strong_answer": "Seaborn is an important concept in Data Science used for analyzing data, improving model performance, and solving business problems. A strong answer should explain the definition, workflow, benefits, and practical examples clearly.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical use cases",
+      "No examples or workflow explanation"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Seaborn?",
+      "What tools or libraries are commonly used for Seaborn?"
+    ]
+  },
+  {
+    "id": "DS046",
+    "category": "Data Science",
+    "domain": "Data Science",
+    "difficulty": "Medium",
+    "question_text": "Explain the concept of SQL for Data Science in Data Science.",
+    "what_interviewer_is_looking_for": "Understanding of SQL for Data Science, practical applications, problem-solving approach, and real-world usage in Data Science.",
+    "sample_strong_answer": "SQL for Data Science is an important concept in Data Science used for analyzing data, improving model performance, and solving business problems. A strong answer should explain the definition, workflow, benefits, and practical examples clearly.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical use cases",
+      "No examples or workflow explanation"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of SQL for Data Science?",
+      "What tools or libraries are commonly used for SQL for Data Science?"
+    ]
+  },
+  {
+    "id": "DS047",
+    "category": "Data Science",
+    "domain": "Data Science",
+    "difficulty": "Medium",
+    "question_text": "Explain the concept of Correlation in Data Science.",
+    "what_interviewer_is_looking_for": "Understanding of Correlation, practical applications, problem-solving approach, and real-world usage in Data Science.",
+    "sample_strong_answer": "Correlation is an important concept in Data Science used for analyzing data, improving model performance, and solving business problems. A strong answer should explain the definition, workflow, benefits, and practical examples clearly.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical use cases",
+      "No examples or workflow explanation"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Correlation?",
+      "What tools or libraries are commonly used for Correlation?"
+    ]
+  },
+  {
+    "id": "DS048",
+    "category": "Data Science",
+    "domain": "Data Science",
+    "difficulty": "Medium",
+    "question_text": "Explain the concept of Outliers in Data Science.",
+    "what_interviewer_is_looking_for": "Understanding of Outliers, practical applications, problem-solving approach, and real-world usage in Data Science.",
+    "sample_strong_answer": "Outliers is an important concept in Data Science used for analyzing data, improving model performance, and solving business problems. A strong answer should explain the definition, workflow, benefits, and practical examples clearly.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical use cases",
+      "No examples or workflow explanation"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Outliers?",
+      "What tools or libraries are commonly used for Outliers?"
+    ]
+  },
+  {
+    "id": "DS049",
+    "category": "Data Science",
+    "domain": "Data Science",
+    "difficulty": "Medium",
+    "question_text": "Explain the concept of Missing Values in Data Science.",
+    "what_interviewer_is_looking_for": "Understanding of Missing Values, practical applications, problem-solving approach, and real-world usage in Data Science.",
+    "sample_strong_answer": "Missing Values is an important concept in Data Science used for analyzing data, improving model performance, and solving business problems. A strong answer should explain the definition, workflow, benefits, and practical examples clearly.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical use cases",
+      "No examples or workflow explanation"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Missing Values?",
+      "What tools or libraries are commonly used for Missing Values?"
+    ]
+  },
+  {
+    "id": "DS050",
+    "category": "Data Science",
+    "domain": "Data Science",
+    "difficulty": "Medium",
+    "question_text": "Explain the concept of Normalization in Data Science.",
+    "what_interviewer_is_looking_for": "Understanding of Normalization, practical applications, problem-solving approach, and real-world usage in Data Science.",
+    "sample_strong_answer": "Normalization is an important concept in Data Science used for analyzing data, improving model performance, and solving business problems. A strong answer should explain the definition, workflow, benefits, and practical examples clearly.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical use cases",
+      "No examples or workflow explanation"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Normalization?",
+      "What tools or libraries are commonly used for Normalization?"
+    ]
+  },
+  {
+    "id": "DS051",
+    "category": "Data Science",
+    "domain": "Data Science",
+    "difficulty": "Medium",
+    "question_text": "Explain the concept of Python Basics in Data Science.",
+    "what_interviewer_is_looking_for": "Understanding of Python Basics, practical applications, problem-solving approach, and real-world usage in Data Science.",
+    "sample_strong_answer": "Python Basics is an important concept in Data Science used for analyzing data, improving model performance, and solving business problems. A strong answer should explain the definition, workflow, benefits, and practical examples clearly.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical use cases",
+      "No examples or workflow explanation"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Python Basics?",
+      "What tools or libraries are commonly used for Python Basics?"
+    ]
+  },
+  {
+    "id": "DS052",
+    "category": "Data Science",
+    "domain": "Data Science",
+    "difficulty": "Medium",
+    "question_text": "Explain the concept of NumPy in Data Science.",
+    "what_interviewer_is_looking_for": "Understanding of NumPy, practical applications, problem-solving approach, and real-world usage in Data Science.",
+    "sample_strong_answer": "NumPy is an important concept in Data Science used for analyzing data, improving model performance, and solving business problems. A strong answer should explain the definition, workflow, benefits, and practical examples clearly.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical use cases",
+      "No examples or workflow explanation"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of NumPy?",
+      "What tools or libraries are commonly used for NumPy?"
+    ]
+  },
+  {
+    "id": "DS053",
+    "category": "Data Science",
+    "domain": "Data Science",
+    "difficulty": "Medium",
+    "question_text": "Explain the concept of Pandas in Data Science.",
+    "what_interviewer_is_looking_for": "Understanding of Pandas, practical applications, problem-solving approach, and real-world usage in Data Science.",
+    "sample_strong_answer": "Pandas is an important concept in Data Science used for analyzing data, improving model performance, and solving business problems. A strong answer should explain the definition, workflow, benefits, and practical examples clearly.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical use cases",
+      "No examples or workflow explanation"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Pandas?",
+      "What tools or libraries are commonly used for Pandas?"
+    ]
+  },
+  {
+    "id": "DS054",
+    "category": "Data Science",
+    "domain": "Data Science",
+    "difficulty": "Medium",
+    "question_text": "Explain the concept of Data Cleaning in Data Science.",
+    "what_interviewer_is_looking_for": "Understanding of Data Cleaning, practical applications, problem-solving approach, and real-world usage in Data Science.",
+    "sample_strong_answer": "Data Cleaning is an important concept in Data Science used for analyzing data, improving model performance, and solving business problems. A strong answer should explain the definition, workflow, benefits, and practical examples clearly.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical use cases",
+      "No examples or workflow explanation"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Data Cleaning?",
+      "What tools or libraries are commonly used for Data Cleaning?"
+    ]
+  },
+  {
+    "id": "DS055",
+    "category": "Data Science",
+    "domain": "Data Science",
+    "difficulty": "Medium",
+    "question_text": "Explain the concept of Exploratory Data Analysis in Data Science.",
+    "what_interviewer_is_looking_for": "Understanding of Exploratory Data Analysis, practical applications, problem-solving approach, and real-world usage in Data Science.",
+    "sample_strong_answer": "Exploratory Data Analysis is an important concept in Data Science used for analyzing data, improving model performance, and solving business problems. A strong answer should explain the definition, workflow, benefits, and practical examples clearly.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical use cases",
+      "No examples or workflow explanation"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Exploratory Data Analysis?",
+      "What tools or libraries are commonly used for Exploratory Data Analysis?"
+    ]
+  },
+  {
+    "id": "DS056",
+    "category": "Data Science",
+    "domain": "Data Science",
+    "difficulty": "Hard",
+    "question_text": "Explain the concept of Statistics in Data Science.",
+    "what_interviewer_is_looking_for": "Understanding of Statistics, practical applications, problem-solving approach, and real-world usage in Data Science.",
+    "sample_strong_answer": "Statistics is an important concept in Data Science used for analyzing data, improving model performance, and solving business problems. A strong answer should explain the definition, workflow, benefits, and practical examples clearly.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical use cases",
+      "No examples or workflow explanation"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Statistics?",
+      "What tools or libraries are commonly used for Statistics?"
+    ]
+  },
+  {
+    "id": "DS057",
+    "category": "Data Science",
+    "domain": "Data Science",
+    "difficulty": "Hard",
+    "question_text": "Explain the concept of Probability in Data Science.",
+    "what_interviewer_is_looking_for": "Understanding of Probability, practical applications, problem-solving approach, and real-world usage in Data Science.",
+    "sample_strong_answer": "Probability is an important concept in Data Science used for analyzing data, improving model performance, and solving business problems. A strong answer should explain the definition, workflow, benefits, and practical examples clearly.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical use cases",
+      "No examples or workflow explanation"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Probability?",
+      "What tools or libraries are commonly used for Probability?"
+    ]
+  },
+  {
+    "id": "DS058",
+    "category": "Data Science",
+    "domain": "Data Science",
+    "difficulty": "Hard",
+    "question_text": "Explain the concept of Machine Learning in Data Science.",
+    "what_interviewer_is_looking_for": "Understanding of Machine Learning, practical applications, problem-solving approach, and real-world usage in Data Science.",
+    "sample_strong_answer": "Machine Learning is an important concept in Data Science used for analyzing data, improving model performance, and solving business problems. A strong answer should explain the definition, workflow, benefits, and practical examples clearly.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical use cases",
+      "No examples or workflow explanation"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Machine Learning?",
+      "What tools or libraries are commonly used for Machine Learning?"
+    ]
+  },
+  {
+    "id": "DS059",
+    "category": "Data Science",
+    "domain": "Data Science",
+    "difficulty": "Hard",
+    "question_text": "Explain the concept of Supervised Learning in Data Science.",
+    "what_interviewer_is_looking_for": "Understanding of Supervised Learning, practical applications, problem-solving approach, and real-world usage in Data Science.",
+    "sample_strong_answer": "Supervised Learning is an important concept in Data Science used for analyzing data, improving model performance, and solving business problems. A strong answer should explain the definition, workflow, benefits, and practical examples clearly.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical use cases",
+      "No examples or workflow explanation"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Supervised Learning?",
+      "What tools or libraries are commonly used for Supervised Learning?"
+    ]
+  },
+  {
+    "id": "DS060",
+    "category": "Data Science",
+    "domain": "Data Science",
+    "difficulty": "Hard",
+    "question_text": "Explain the concept of Unsupervised Learning in Data Science.",
+    "what_interviewer_is_looking_for": "Understanding of Unsupervised Learning, practical applications, problem-solving approach, and real-world usage in Data Science.",
+    "sample_strong_answer": "Unsupervised Learning is an important concept in Data Science used for analyzing data, improving model performance, and solving business problems. A strong answer should explain the definition, workflow, benefits, and practical examples clearly.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical use cases",
+      "No examples or workflow explanation"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Unsupervised Learning?",
+      "What tools or libraries are commonly used for Unsupervised Learning?"
+    ]
+  },
+  {
+    "id": "DS061",
+    "category": "Data Science",
+    "domain": "Data Science",
+    "difficulty": "Hard",
+    "question_text": "Explain the concept of Regression in Data Science.",
+    "what_interviewer_is_looking_for": "Understanding of Regression, practical applications, problem-solving approach, and real-world usage in Data Science.",
+    "sample_strong_answer": "Regression is an important concept in Data Science used for analyzing data, improving model performance, and solving business problems. A strong answer should explain the definition, workflow, benefits, and practical examples clearly.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical use cases",
+      "No examples or workflow explanation"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Regression?",
+      "What tools or libraries are commonly used for Regression?"
+    ]
+  },
+  {
+    "id": "DS062",
+    "category": "Data Science",
+    "domain": "Data Science",
+    "difficulty": "Hard",
+    "question_text": "Explain the concept of Classification in Data Science.",
+    "what_interviewer_is_looking_for": "Understanding of Classification, practical applications, problem-solving approach, and real-world usage in Data Science.",
+    "sample_strong_answer": "Classification is an important concept in Data Science used for analyzing data, improving model performance, and solving business problems. A strong answer should explain the definition, workflow, benefits, and practical examples clearly.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical use cases",
+      "No examples or workflow explanation"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Classification?",
+      "What tools or libraries are commonly used for Classification?"
+    ]
+  },
+  {
+    "id": "DS063",
+    "category": "Data Science",
+    "domain": "Data Science",
+    "difficulty": "Hard",
+    "question_text": "Explain the concept of Overfitting in Data Science.",
+    "what_interviewer_is_looking_for": "Understanding of Overfitting, practical applications, problem-solving approach, and real-world usage in Data Science.",
+    "sample_strong_answer": "Overfitting is an important concept in Data Science used for analyzing data, improving model performance, and solving business problems. A strong answer should explain the definition, workflow, benefits, and practical examples clearly.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical use cases",
+      "No examples or workflow explanation"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Overfitting?",
+      "What tools or libraries are commonly used for Overfitting?"
+    ]
+  },
+  {
+    "id": "DS064",
+    "category": "Data Science",
+    "domain": "Data Science",
+    "difficulty": "Hard",
+    "question_text": "Explain the concept of Underfitting in Data Science.",
+    "what_interviewer_is_looking_for": "Understanding of Underfitting, practical applications, problem-solving approach, and real-world usage in Data Science.",
+    "sample_strong_answer": "Underfitting is an important concept in Data Science used for analyzing data, improving model performance, and solving business problems. A strong answer should explain the definition, workflow, benefits, and practical examples clearly.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical use cases",
+      "No examples or workflow explanation"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Underfitting?",
+      "What tools or libraries are commonly used for Underfitting?"
+    ]
+  },
+  {
+    "id": "DS065",
+    "category": "Data Science",
+    "domain": "Data Science",
+    "difficulty": "Hard",
+    "question_text": "Explain the concept of Train Test Split in Data Science.",
+    "what_interviewer_is_looking_for": "Understanding of Train Test Split, practical applications, problem-solving approach, and real-world usage in Data Science.",
+    "sample_strong_answer": "Train Test Split is an important concept in Data Science used for analyzing data, improving model performance, and solving business problems. A strong answer should explain the definition, workflow, benefits, and practical examples clearly.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical use cases",
+      "No examples or workflow explanation"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Train Test Split?",
+      "What tools or libraries are commonly used for Train Test Split?"
+    ]
+  },
+  {
+    "id": "DS066",
+    "category": "Data Science",
+    "domain": "Data Science",
+    "difficulty": "Hard",
+    "question_text": "Explain the concept of Cross Validation in Data Science.",
+    "what_interviewer_is_looking_for": "Understanding of Cross Validation, practical applications, problem-solving approach, and real-world usage in Data Science.",
+    "sample_strong_answer": "Cross Validation is an important concept in Data Science used for analyzing data, improving model performance, and solving business problems. A strong answer should explain the definition, workflow, benefits, and practical examples clearly.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical use cases",
+      "No examples or workflow explanation"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Cross Validation?",
+      "What tools or libraries are commonly used for Cross Validation?"
+    ]
+  },
+  {
+    "id": "DS067",
+    "category": "Data Science",
+    "domain": "Data Science",
+    "difficulty": "Hard",
+    "question_text": "Explain the concept of Feature Engineering in Data Science.",
+    "what_interviewer_is_looking_for": "Understanding of Feature Engineering, practical applications, problem-solving approach, and real-world usage in Data Science.",
+    "sample_strong_answer": "Feature Engineering is an important concept in Data Science used for analyzing data, improving model performance, and solving business problems. A strong answer should explain the definition, workflow, benefits, and practical examples clearly.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical use cases",
+      "No examples or workflow explanation"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Feature Engineering?",
+      "What tools or libraries are commonly used for Feature Engineering?"
+    ]
+  },
+  {
+    "id": "DS068",
+    "category": "Data Science",
+    "domain": "Data Science",
+    "difficulty": "Hard",
+    "question_text": "Explain the concept of Data Visualization in Data Science.",
+    "what_interviewer_is_looking_for": "Understanding of Data Visualization, practical applications, problem-solving approach, and real-world usage in Data Science.",
+    "sample_strong_answer": "Data Visualization is an important concept in Data Science used for analyzing data, improving model performance, and solving business problems. A strong answer should explain the definition, workflow, benefits, and practical examples clearly.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical use cases",
+      "No examples or workflow explanation"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Data Visualization?",
+      "What tools or libraries are commonly used for Data Visualization?"
+    ]
+  },
+  {
+    "id": "DS069",
+    "category": "Data Science",
+    "domain": "Data Science",
+    "difficulty": "Hard",
+    "question_text": "Explain the concept of Matplotlib in Data Science.",
+    "what_interviewer_is_looking_for": "Understanding of Matplotlib, practical applications, problem-solving approach, and real-world usage in Data Science.",
+    "sample_strong_answer": "Matplotlib is an important concept in Data Science used for analyzing data, improving model performance, and solving business problems. A strong answer should explain the definition, workflow, benefits, and practical examples clearly.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical use cases",
+      "No examples or workflow explanation"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Matplotlib?",
+      "What tools or libraries are commonly used for Matplotlib?"
+    ]
+  },
+  {
+    "id": "DS070",
+    "category": "Data Science",
+    "domain": "Data Science",
+    "difficulty": "Hard",
+    "question_text": "Explain the concept of Seaborn in Data Science.",
+    "what_interviewer_is_looking_for": "Understanding of Seaborn, practical applications, problem-solving approach, and real-world usage in Data Science.",
+    "sample_strong_answer": "Seaborn is an important concept in Data Science used for analyzing data, improving model performance, and solving business problems. A strong answer should explain the definition, workflow, benefits, and practical examples clearly.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical use cases",
+      "No examples or workflow explanation"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Seaborn?",
+      "What tools or libraries are commonly used for Seaborn?"
+    ]
+  },
+  {
+    "id": "DS071",
+    "category": "Data Science",
+    "domain": "Data Science",
+    "difficulty": "Hard",
+    "question_text": "Explain the concept of SQL for Data Science in Data Science.",
+    "what_interviewer_is_looking_for": "Understanding of SQL for Data Science, practical applications, problem-solving approach, and real-world usage in Data Science.",
+    "sample_strong_answer": "SQL for Data Science is an important concept in Data Science used for analyzing data, improving model performance, and solving business problems. A strong answer should explain the definition, workflow, benefits, and practical examples clearly.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical use cases",
+      "No examples or workflow explanation"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of SQL for Data Science?",
+      "What tools or libraries are commonly used for SQL for Data Science?"
+    ]
+  },
+  {
+    "id": "DS072",
+    "category": "Data Science",
+    "domain": "Data Science",
+    "difficulty": "Hard",
+    "question_text": "Explain the concept of Correlation in Data Science.",
+    "what_interviewer_is_looking_for": "Understanding of Correlation, practical applications, problem-solving approach, and real-world usage in Data Science.",
+    "sample_strong_answer": "Correlation is an important concept in Data Science used for analyzing data, improving model performance, and solving business problems. A strong answer should explain the definition, workflow, benefits, and practical examples clearly.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical use cases",
+      "No examples or workflow explanation"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Correlation?",
+      "What tools or libraries are commonly used for Correlation?"
+    ]
+  },
+  {
+    "id": "DS073",
+    "category": "Data Science",
+    "domain": "Data Science",
+    "difficulty": "Hard",
+    "question_text": "Explain the concept of Outliers in Data Science.",
+    "what_interviewer_is_looking_for": "Understanding of Outliers, practical applications, problem-solving approach, and real-world usage in Data Science.",
+    "sample_strong_answer": "Outliers is an important concept in Data Science used for analyzing data, improving model performance, and solving business problems. A strong answer should explain the definition, workflow, benefits, and practical examples clearly.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical use cases",
+      "No examples or workflow explanation"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Outliers?",
+      "What tools or libraries are commonly used for Outliers?"
+    ]
+  },
+  {
+    "id": "DS074",
+    "category": "Data Science",
+    "domain": "Data Science",
+    "difficulty": "Hard",
+    "question_text": "Explain the concept of Missing Values in Data Science.",
+    "what_interviewer_is_looking_for": "Understanding of Missing Values, practical applications, problem-solving approach, and real-world usage in Data Science.",
+    "sample_strong_answer": "Missing Values is an important concept in Data Science used for analyzing data, improving model performance, and solving business problems. A strong answer should explain the definition, workflow, benefits, and practical examples clearly.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical use cases",
+      "No examples or workflow explanation"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Missing Values?",
+      "What tools or libraries are commonly used for Missing Values?"
+    ]
+  },
+  {
+    "id": "DS075",
+    "category": "Data Science",
+    "domain": "Data Science",
+    "difficulty": "Hard",
+    "question_text": "Explain the concept of Normalization in Data Science.",
+    "what_interviewer_is_looking_for": "Understanding of Normalization, practical applications, problem-solving approach, and real-world usage in Data Science.",
+    "sample_strong_answer": "Normalization is an important concept in Data Science used for analyzing data, improving model performance, and solving business problems. A strong answer should explain the definition, workflow, benefits, and practical examples clearly.",
+    "common_mistakes_to_avoid": [
+      "Giving only theoretical definition",
+      "Not explaining practical use cases",
+      "No examples or workflow explanation"
+    ],
+    "follow_up_questions": [
+      "Can you give a real-world example of Normalization?",
+      "What tools or libraries are commonly used for Normalization?"
+    ]
+  }
+]
